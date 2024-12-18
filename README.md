@@ -15,7 +15,7 @@ Free Swatchs.
 
 ### Material-Palette.gpl
 
-Googleのマテリアル・デザインで使われるスウォッチデータをgplファイル化しました
+Googleのマテリアル・デザインで使われるスウォッチデータをgplファイル化しました。人工的なデジタルなスウォッチで、見やすさなどを考慮してまとめられてます
 
 ### CSS_Color.gpl
 
