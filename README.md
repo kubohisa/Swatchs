@@ -13,7 +13,7 @@ Free Swatchs.
 
 「JIS慣用色名」のスウォッチです
 
-### WadColorSwatch.gpl
+### WadaColorSwatch.gpl
 
 和田三造氏の配色事典のデータがMITライセンスで [github](https://github.com/dblodorn/sanzo-wada) で置いてあったので、容赦なくgplファイル化しました
 
