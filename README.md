@@ -13,6 +13,10 @@ Free Swatchs.
 
 「JIS慣用色名」のスウォッチです
 
+### WadColorSwatch.gpl
+
+和田三造氏の配色事典のデータがMITライセンスで [github](https://github.com/dblodorn/sanzo-wada) で置いてあったので、容赦なくgplファイル化しました
+
 ### Material-Palette.gpl
 
 Googleのマテリアル・デザインで使われるスウォッチデータをgplファイル化しました。デジタルな発想で作られた人工的なスウォッチで、見やすさなどを考慮してまとめられてます
