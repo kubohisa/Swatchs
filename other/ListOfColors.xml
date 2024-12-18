@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<palette guid="06aafb91-e208-492d-b993-d763b2edef51" name="" resid="" prefix="" locked="false">
+  <colors>
+    <page>
+      <color name="Black" cs="RGB" tints="0,0,0" />
+      <color name="Registration black" cs="RGB" tints="0,0,0" />
+      <color name="Black" cs="RGB" tints="0.03137255,0.03137255,0.03137255" />
+      <color name="Eerie black" cs="RGB" tints="0.1058824,0.1058824,0.1058824" />
+      <color name="Jet" cs="RGB" tints="0.2039216,0.2039216,0.2039216" />
+      <color name="Davy's grey" cs="RGB" tints="0.3333333,0.3333333,0.3333333" />
+      <color name="Granite gray" cs="RGB" tints="0.4039216,0.4039216,0.4039216" />
+      <color name="Dim gray" cs="RGB" tints="0.4117647,0.4117647,0.4117647" />
+      <color name="Sonic silver" cs="RGB" tints="0.4588236,0.4588236,0.4588236" />
+      <color name="Gray (web)" cs="RGB" tints="0.5019608,0.5019608,0.5019608" />
+      <color name="Neon gray" cs="RGB" tints="0.5019608,0.5019608,0.5019608" />
+      <color name="Trolley grey" cs="RGB" tints="0.5019608,0.5019608,0.5019608" />
+      <color name="Philippine gray" cs="RGB" tints="0.5490196,0.5490196,0.5490196" />
+      <color name="Spanish gray" cs="RGB" tints="0.5960785,0.5960785,0.5960785" />
+      <color name="Quick silver" cs="RGB" tints="0.6509804,0.6509804,0.6509804" />
+      <color name="Dark gray (X11)" cs="RGB" tints="0.6627451,0.6627451,0.6627451" />
+      <color name="Silver chalice" cs="RGB" tints="0.6745098,0.6745098,0.6745098" />
+      <color name="Philippine silver" cs="RGB" tints="0.7019608,0.7019608,0.7019608" />
+      <color name="Gray (X11)" cs="RGB" tints="0.7450981,0.7450981,0.7450981" />
+      <color name="Silver" cs="RGB" tints="0.7529413,0.7529413,0.7529413" />
+      <color name="Neon silver" cs="RGB" tints="0.8000001,0.8000001,0.8000001" />
+      <color name="Light silver" cs="RGB" tints="0.8470589,0.8470589,0.8470589" />
+      <color name="Gainsboro" cs="RGB" tints="0.8627452,0.8627452,0.8627452" />
+      <color name="White smoke" cs="RGB" tints="0.9607844,0.9607844,0.9607844" />
+      <color name="Zebra White" cs="RGB" tints="0.9607844,0.9607844,0.9607844" />
+      <color name="Cultured" cs="RGB" tints="0.9607844,0.9607844,0.9607844" />
+      <color name="White" cs="RGB" tints="1,1,1" />
+      <color name="Tooth" cs="RGB" tints="1,0.9803922,0.9803922" />
+      <color name="Petal" cs="RGB" tints="0.9607844,0.8862746,0.8862746" />
+      <color name="Lotion pink" cs="RGB" tints="0.9254903,0.8117648,0.8117648" />
+      <color name="Tuscany" cs="RGB" tints="0.7529413,0.6,0.6" />
+      <color name="Baby pink" cs="RGB" tints="0.9568628,0.7607844,0.7607844" />
+      <color name="Tea rose" cs="RGB" tints="0.9568628,0.7607844,0.7607844" />
+      <color name="Copper rose" cs="RGB" tints="0.6,0.4,0.4" />
+      <color name="Light salmon pink" cs="RGB" tints="1,0.6,0.6" />
+      <color name="Tuscan red" cs="RGB" tints="0.4862745,0.282353,0.282353" />
+      <color name="Middle red purple" cs="RGB" tints="0.6470588,0.3254902,0.3254902" />
+      <color name="Indian red" cs="RGB" tints="0.8039216,0.3607843,0.3607843" />
+      <color name="Dark sienna" cs="RGB" tints="0.2352941,0.07843138,0.07843138" />
+      <color name="Metallic red" cs="RGB" tints="0.6509804,0.172549,0.1686275" />
+      <color name="Prune" cs="RGB" tints="0.4392157,0.1098039,0.1098039" />
+      <color name="Persian plum" cs="RGB" tints="0.4392157,0.1098039,0.1098039" />
+      <color name="Brown (web)" cs="RGB" tints="0.6470588,0.1647059,0.1647059" />
+      <color name="Red-brown" cs="RGB" tints="0.6470588,0.1647059,0.1647059" />
+      <color name="Persian red" cs="RGB" tints="0.8000001,0.2,0.2" />
+      <color name="Falu red" cs="RGB" tints="0.5019608,0.09411766,0.09411766" />
+      <color name="Firebrick" cs="RGB" tints="0.6980392,0.1333333,0.1333333" />
+      <color name="Maximum red" cs="RGB" tints="0.8509805,0.1294118,0.1294118" />
+      <color name="Lust" cs="RGB" tints="0.9019608,0.1254902,0.1254902" />
+      <color name="Neon red" cs="RGB" tints="1,0.09411766,0.09411766" />
+      <color name="Blood red" cs="RGB" tints="0.4,0,0" />
+      <color name="Maroon (HTML/CSS)" cs="RGB" tints="0.5019608,0,0" />
+      <color name="Dark red" cs="RGB" tints="0.5450981,0,0" />
+      <color name="OU Crimson red" cs="RGB" tints="0.6,0,0" />
+      <color name="Red" cs="RGB" tints="1,0,0" />
+      <color name="Light red" cs="RGB" tints="1,0.8000001,0.7960785" />
+      <color name="Spanish pink" cs="RGB" tints="0.9686275,0.7490196,0.7450981" />
+      <color name="Pastel pink" cs="RGB" tints="0.8705883,0.6470588,0.6431373" />
+      <color name="Roast coffee" cs="RGB" tints="0.4392157,0.2588235,0.254902" />
+      <color name="Garnet" cs="RGB" tints="0.4509804,0.2117647,0.2078432" />
+      <color name="Tart Orange" cs="RGB" tints="0.9843138,0.3019608,0.2745098" />
+      <color name="Vivid auburn" cs="RGB" tints="0.572549,0.1529412,0.1411765" />
+      <color name="Candy apple red" cs="RGB" tints="1,0.03137255,0" />
+      <color name="Silver pink" cs="RGB" tints="0.7686275,0.682353,0.6784314" />
+      <color name="New York pink" cs="RGB" tints="0.8431373,0.5137255,0.4980392" />
+      <color name="Deep chestnut" cs="RGB" tints="0.7254902,0.3058824,0.282353" />
+      <color name="Pastel red" cs="RGB" tints="1,0.4117647,0.3803922" />
+      <color name="Sweet Brown" cs="RGB" tints="0.6588235,0.2156863,0.1921569" />
+      <color name="Orange-red (Crayola)" cs="RGB" tints="1,0.3254902,0.2862745" />
+      <color name="Philippine brown" cs="RGB" tints="0.3647059,0.09803922,0.08627451" />
+      <color name="International orange (engineering)" cs="RGB" tints="0.7294118,0.08627451,0.04705883" />
+      <color name="Sunset orange" cs="RGB" tints="0.9921569,0.3686275,0.3254902" />
+      <color name="International orange (Golden Gate Bridge)" cs="RGB" tints="0.7529413,0.2117647,0.172549" />
+      <color name="Barn red" cs="RGB" tints="0.4862745,0.03921569,0.007843138" />
+      <color name="Mordant red 19" cs="RGB" tints="0.682353,0.04705883,0" />
+      <color name="Copper penny" cs="RGB" tints="0.6784314,0.4352942,0.4117647" />
+      <color name="Tea rose" cs="RGB" tints="0.9725491,0.5137255,0.4745098" />
+      <color name="Coral pink" cs="RGB" tints="0.9725491,0.5137255,0.4745098" />
+      <color name="Congo pink" cs="RGB" tints="0.9725491,0.5137255,0.4745098" />
+      <color name="Medium carmine" cs="RGB" tints="0.6862745,0.2509804,0.2078432" />
+      <color name="Pale carmine" cs="RGB" tints="0.6862745,0.2509804,0.2078432" />
+      <color name="Vermilion" cs="RGB" tints="0.8901961,0.2588235,0.2039216" />
+      <color name="Red (RYB)" cs="RGB" tints="0.9960785,0.1529412,0.07058824" />
+      <color name="Misty rose" cs="RGB" tints="1,0.8941177,0.882353" />
+      <color name="Old burgundy" cs="RGB" tints="0.2627451,0.1882353,0.1803922" />
+      <color name="Licorice" cs="RGB" tints="0.1019608,0.06666667,0.0627451" />
+      <color name="Redwood" cs="RGB" tints="0.6431373,0.3529412,0.3215686" />
+      <color name="Salmon" cs="RGB" tints="0.9803922,0.5019608,0.4470589" />
+      <color name="Bittersweet" cs="RGB" tints="0.9960785,0.4352942,0.3686275" />
+      <color name="Fire opal" cs="RGB" tints="0.9137256,0.3607843,0.2941177" />
+      <color name="Tomato sauce" cs="RGB" tints="0.6980392,0.09411766,0.02745098" />
+      <color name="Wenge" cs="RGB" tints="0.3921569,0.3294118,0.3215686" />
+      <color name="Melon" cs="RGB" tints="0.9921569,0.7372549,0.7058824" />
+      <color name="Salmon Rose" cs="RGB" tints="0.9058824,0.5882353,0.5450981" />
+      <color name="Burnished brown" cs="RGB" tints="0.6313726,0.4784314,0.454902" />
+      <color name="Vermilion" cs="RGB" tints="0.8509805,0.2196079,0.1176471" />
+      <color name="Rufous" cs="RGB" tints="0.6588235,0.1098039,0.02745098" />
+      <color name="Neon scarlet" cs="RGB" tints="1,0.1490196,0.01176471" />
+      <color name="Scarlet" cs="RGB" tints="1,0.1411765,0" />
+      <color name="Liver" cs="RGB" tints="0.4039216,0.2980392,0.2784314" />
+      <color name="Medium taupe" cs="RGB" tints="0.4039216,0.2980392,0.2784314" />
+      <color name="Bole" cs="RGB" tints="0.4745098,0.2666667,0.2313726" />
+      <color name="Medium Tuscan red" cs="RGB" tints="0.4745098,0.2666667,0.2313726" />
+      <color name="Rum" cs="RGB" tints="0.6039216,0.3058824,0.2509804" />
+      <color name="Tomato" cs="RGB" tints="1,0.3882353,0.2784314" />
+      <color name="Burnt umber" cs="RGB" tints="0.5411765,0.2,0.1411765" />
+      <color name="Melon (Crayola)" cs="RGB" tints="0.9960785,0.7294118,0.6784314" />
+      <color name="Chestnut" cs="RGB" tints="0.5843138,0.2705882,0.2078432" />
+      <color name="Orange Soda" cs="RGB" tints="0.9803922,0.3568628,0.2392157" />
+      <color name="Black bean" cs="RGB" tints="0.2392157,0.04705883,0.007843138" />
+      <color name="Portland Orange" cs="RGB" tints="1,0.3529412,0.2117647" />
+      <color name="Chinese red" cs="RGB" tints="0.6666667,0.2196079,0.1176471" />
+      <color name="Cinereous" cs="RGB" tints="0.5960785,0.5058824,0.482353" />
+      <color name="Royal brown" cs="RGB" tints="0.3215686,0.2313726,0.2078432" />
+      <color name="Blast-off bronze" cs="RGB" tints="0.6470588,0.4431373,0.3921569" />
+      <color name="Liver (organ)" cs="RGB" tints="0.4235294,0.1803922,0.1215686" />
+      <color name="Outrageous orange" cs="RGB" tints="1,0.3764706,0.2156863" />
+      <color name="Kobe" cs="RGB" tints="0.5333334,0.1764706,0.09019608" />
+      <color name="Sienna" cs="RGB" tints="0.5333334,0.1764706,0.09019608" />
+      <color name="Microsoft red" cs="RGB" tints="0.9411765,0.3058824,0.1215686" />
+      <color name="Coquelicot" cs="RGB" tints="1,0.2196079,0" />
+      <color name="Middle red" cs="RGB" tints="0.8980393,0.5568628,0.4509804" />
+      <color name="Copper red" cs="RGB" tints="0.7960785,0.427451,0.3176471" />
+      <color name="Brown (crayola)" cs="RGB" tints="0.6862745,0.3490196,0.2431373" />
+      <color name="Light red ochre" cs="RGB" tints="0.9137256,0.454902,0.3176471" />
+      <color name="Burnt sienna" cs="RGB" tints="0.9137256,0.454902,0.3176471" />
+      <color name="Medium vermilion" cs="RGB" tints="0.8509805,0.3764706,0.2313726" />
+      <color name="Dark salmon" cs="RGB" tints="0.9137256,0.5882353,0.4784314" />
+      <color name="Root beer" cs="RGB" tints="0.1607843,0.05490196,0.01960784" />
+      <color name="Smokey Topaz" cs="RGB" tints="0.5137255,0.1647059,0.0509804" />
+      <color name="Orioles orange" cs="RGB" tints="0.9843138,0.3098039,0.07843138" />
+      <color name="Lemon iced tea" cs="RGB" tints="0.7411765,0.1882353,0" />
+      <color name="Coral" cs="RGB" tints="1,0.4980392,0.3137255" />
+      <color name="Orange soda" cs="RGB" tints="0.9058824,0.3058824,0.07843138" />
+      <color name="Red-orange (Color wheel)" cs="RGB" tints="1,0.2705882,0" />
+      <color name="Flame" cs="RGB" tints="0.8862746,0.345098,0.1333333" />
+      <color name="Sinopia" cs="RGB" tints="0.7960785,0.254902,0.04313726" />
+      <color name="Pale copper" cs="RGB" tints="0.854902,0.5411765,0.4039216" />
+      <color name="Mandarin" cs="RGB" tints="0.9529412,0.4784314,0.282353" />
+      <color name="Orange (Crayola)" cs="RGB" tints="1,0.4588236,0.2196079" />
+      <color name="Rust" cs="RGB" tints="0.7176471,0.254902,0.05490196" />
+      <color name="Coconut" cs="RGB" tints="0.5882353,0.3529412,0.2431373" />
+      <color name="Metallic brown" cs="RGB" tints="0.6745098,0.2627451,0.07450981" />
+      <color name="Tangelo" cs="RGB" tints="0.9764706,0.3019608,0" />
+      <color name="International orange (aerospace)" cs="RGB" tints="1,0.3098039,0" />
+      <color name="Brown sugar" cs="RGB" tints="0.6862745,0.4313726,0.3019608" />
+      <color name="Atomic tangerine" cs="RGB" tints="1,0.6,0.4" />
+      <color name="Mango Tango" cs="RGB" tints="1,0.509804,0.2627451" />
+      <color name="Fuzzy Wuzzy" cs="RGB" tints="0.5294118,0.2588235,0.1215686" />
+      <color name="Vivid red-tangelo" cs="RGB" tints="0.8745099,0.3803922,0.1411765" />
+      <color name="Red-orange (Crayola)" cs="RGB" tints="1,0.4078432,0.1215686" />
+      <color name="Mahogany" cs="RGB" tints="0.7529413,0.2509804,0" />
+      <color name="Mystic red" cs="RGB" tints="1,0.3333333,0" />
+      <color name="Silver (Crayola)" cs="RGB" tints="0.7882354,0.7529413,0.7333333" />
+      <color name="Pale silver" cs="RGB" tints="0.7882354,0.7529413,0.7333333" />
+      <color name="Umber" cs="RGB" tints="0.3882353,0.3176471,0.2784314" />
+      <color name="Seal brown" cs="RGB" tints="0.3490196,0.1490196,0.04313726" />
+      <color name="Willpower orange" cs="RGB" tints="0.9921569,0.345098,0" />
+      <color name="Orange (Pantone)" cs="RGB" tints="1,0.345098,0" />
+      <color name="Maximum orange" cs="RGB" tints="1,0.3568628,0" />
+      <color name="Unbleached silk" cs="RGB" tints="1,0.8666667,0.7921569" />
+      <color name="Beaver" cs="RGB" tints="0.6235294,0.5058824,0.4392157" />
+      <color name="Antique brass" cs="RGB" tints="0.8039216,0.5843138,0.4588236" />
+      <color name="Milk chocolate" cs="RGB" tints="0.5176471,0.3372549,0.2352941" />
+      <color name="Big Foot Feet" cs="RGB" tints="0.909804,0.5568628,0.3529412" />
+      <color name="Persimmon" cs="RGB" tints="0.9254903,0.345098,0" />
+      <color name="Vivid orange" cs="RGB" tints="1,0.372549,0" />
+      <color name="Zinnwaldite" cs="RGB" tints="0.172549,0.08627451,0.03137255" />
+      <color name="Vivid tangelo" cs="RGB" tints="0.9411765,0.454902,0.1529412" />
+      <color name="Mocha" cs="RGB" tints="0.7450981,0.6431373,0.5764706" />
+      <color name="Apricot" cs="RGB" tints="0.9843138,0.8078432,0.6941177" />
+      <color name="Quincy" cs="RGB" tints="0.4156863,0.3294118,0.2705882" />
+      <color name="Tumbleweed" cs="RGB" tints="0.8705883,0.6666667,0.5333334" />
+      <color name="Bistre" cs="RGB" tints="0.2392157,0.1686275,0.1215686" />
+      <color name="Raw Sienna" cs="RGB" tints="0.8392158,0.5411765,0.3490196" />
+      <color name="Pumpkin" cs="RGB" tints="1,0.4588236,0.09411766" />
+      <color name="Orange" cs="RGB" tints="1,0.4,0" />
+      <color name="Safety orange (blaze orange)" cs="RGB" tints="1,0.4039216,0" />
+      <color name="Orange iced tea" cs="RGB" tints="1,0.4039216,0" />
+      <color name="Seashell" cs="RGB" tints="1,0.9607844,0.9333334" />
+      <color name="Champagne pink" cs="RGB" tints="0.9450981,0.8666667,0.8117648" />
+      <color name="Desert sand" cs="RGB" tints="0.9294118,0.7882354,0.6862745" />
+      <color name="Pale taupe" cs="RGB" tints="0.7372549,0.5960785,0.4941177" />
+      <color name="Tuscan brown" cs="RGB" tints="0.4352942,0.3058824,0.2156863" />
+      <color name="Coffee" cs="RGB" tints="0.4352942,0.3058824,0.2156863" />
+      <color name="Tan (Crayola)" cs="RGB" tints="0.8509805,0.6039216,0.4235294" />
+      <color name="Very light tangelo" cs="RGB" tints="1,0.6901961,0.4666667" />
+      <color name="Van Dyke brown" cs="RGB" tints="0.4,0.2588235,0.1568628" />
+      <color name="Saddle Brown" cs="RGB" tints="0.5450981,0.2705882,0.07450981" />
+      <color name="Cocoa brown" cs="RGB" tints="0.8235295,0.4117647,0.1176471" />
+      <color name="Chocolate (web)" cs="RGB" tints="0.8235295,0.4117647,0.1176471" />
+      <color name="Burnt orange" cs="RGB" tints="0.8000001,0.3333333,0" />
+      <color name="Terra cotta" cs="RGB" tints="0.8039216,0.3411765,0" />
+      <color name="Spanish orange" cs="RGB" tints="0.909804,0.3803922,0" />
+      <color name="Peach (Crayola)" cs="RGB" tints="1,0.7960785,0.6431373" />
+      <color name="Mud" cs="RGB" tints="0.4392157,0.3294118,0.2431373" />
+      <color name="Caf? au lait" cs="RGB" tints="0.6509804,0.482353,0.3568628" />
+      <color name="Tuscan tan" cs="RGB" tints="0.6509804,0.482353,0.3568628" />
+      <color name="French beige" cs="RGB" tints="0.6509804,0.482353,0.3568628" />
+      <color name="Persian orange" cs="RGB" tints="0.8509805,0.5647059,0.345098" />
+      <color name="Royal orange" cs="RGB" tints="0.9764706,0.572549,0.2705882" />
+      <color name="Russet" cs="RGB" tints="0.5019608,0.2745098,0.1058824" />
+      <color name="Princeton orange" cs="RGB" tints="0.9607844,0.5019608,0.145098" />
+      <color name="Metallic orange" cs="RGB" tints="0.854902,0.4078432,0.05882353" />
+      <color name="Taupe" cs="RGB" tints="0.282353,0.2352941,0.1960784" />
+      <color name="Dark lava" cs="RGB" tints="0.282353,0.2352941,0.1960784" />
+      <color name="Pastel brown" cs="RGB" tints="0.5137255,0.4117647,0.3254902" />
+      <color name="Liver chestnut" cs="RGB" tints="0.5960785,0.454902,0.3372549" />
+      <color name="Macaroni and Cheese" cs="RGB" tints="1,0.7411765,0.5333334" />
+      <color name="Metallic bronze" cs="RGB" tints="0.6627451,0.4431373,0.2588235" />
+      <color name="Kobicha" cs="RGB" tints="0.4196079,0.2666667,0.1372549" />
+      <color name="Alloy orange" cs="RGB" tints="0.7686275,0.3843138,0.0627451" />
+      <color name="Lumber" cs="RGB" tints="1,0.8941177,0.8039216" />
+      <color name="Peach puff" cs="RGB" tints="1,0.854902,0.7254902" />
+      <color name="Sandy brown" cs="RGB" tints="0.9568628,0.6431373,0.3764706" />
+      <color name="Cadmium orange" cs="RGB" tints="0.9294118,0.5294118,0.1764706" />
+      <color name="Light brown" cs="RGB" tints="0.7098039,0.3960785,0.1137255" />
+      <color name="Medium orange" cs="RGB" tints="1,0.4705883,0.007843138" />
+      <color name="Safety orange" cs="RGB" tints="1,0.4705883,0" />
+      <color name="Dirt" cs="RGB" tints="0.6078432,0.4627451,0.3254902" />
+      <color name="Rajah" cs="RGB" tints="0.9843138,0.6705883,0.3764706" />
+      <color name="Copper" cs="RGB" tints="0.7215686,0.4509804,0.2" />
+      <color name="Liver (dogs)" cs="RGB" tints="0.7215686,0.427451,0.1607843" />
+      <color name="Neon brown" cs="RGB" tints="0.764706,0.4509804,0.1647059" />
+      <color name="Heat Wave" cs="RGB" tints="1,0.4784314,0" />
+      <color name="Isabelline" cs="RGB" tints="0.9568628,0.9411765,0.9254903" />
+      <color name="Linen" cs="RGB" tints="0.9803922,0.9411765,0.9019608" />
+      <color name="Almond" cs="RGB" tints="0.937255,0.8705883,0.8039216" />
+      <color name="Very pale orange" cs="RGB" tints="1,0.8745099,0.7490196" />
+      <color name="Pale brown" cs="RGB" tints="0.5960785,0.4627451,0.3294118" />
+      <color name="Smoky black" cs="RGB" tints="0.0627451,0.04705883,0.03137255" />
+      <color name="Middle yellow red" cs="RGB" tints="0.9254903,0.6941177,0.4627451" />
+      <color name="Fawn" cs="RGB" tints="0.8980393,0.6666667,0.4392157" />
+      <color name="Mellow apricot" cs="RGB" tints="0.9725491,0.7215686,0.4705883" />
+      <color name="Caf? Noir" cs="RGB" tints="0.2941177,0.2117647,0.1294118" />
+      <color name="Dark brown" cs="RGB" tints="0.3960785,0.2627451,0.1294118" />
+      <color name="Otter brown" cs="RGB" tints="0.3960785,0.2627451,0.1294118" />
+      <color name="Peru" cs="RGB" tints="0.8039216,0.5215687,0.2470588" />
+      <color name="Tiger's eye" cs="RGB" tints="0.8784314,0.5529412,0.2352941" />
+      <color name="Bronze" cs="RGB" tints="0.8039216,0.4980392,0.1960784" />
+      <color name="Sepia" cs="RGB" tints="0.4392157,0.2588235,0.07843138" />
+      <color name="Ochre" cs="RGB" tints="0.8000001,0.4666667,0.1333333" />
+      <color name="Philippine bronze" cs="RGB" tints="0.4313726,0.227451,0.02745098" />
+      <color name="Windsor tan" cs="RGB" tints="0.654902,0.3333333,0.007843138" />
+      <color name="Brown" cs="RGB" tints="0.5882353,0.2941177,0" />
+      <color name="Amber (SAE/ECE)" cs="RGB" tints="1,0.4941177,0" />
+      <color name="Orange (color wheel)" cs="RGB" tints="1,0.4980392,0" />
+      <color name="Chocolate (traditional)" cs="RGB" tints="0.482353,0.2470588,0" />
+      <color name="Dark vanilla" cs="RGB" tints="0.8196079,0.7450981,0.6588235" />
+      <color name="Coyote brown" cs="RGB" tints="0.5058824,0.3803922,0.2352941" />
+      <color name="Neon tangerine" cs="RGB" tints="0.9647059,0.5372549,0.03921569" />
+      <color name="Timberwolf" cs="RGB" tints="0.8588236,0.8431373,0.8235295" />
+      <color name="Middle grey" cs="RGB" tints="0.5450981,0.5254902,0.5019608" />
+      <color name="Bisque" cs="RGB" tints="1,0.8941177,0.7686275" />
+      <color name="Lion" cs="RGB" tints="0.7568628,0.6039216,0.4196079" />
+      <color name="Desert" cs="RGB" tints="0.7568628,0.6039216,0.4196079" />
+      <color name="Fallow" cs="RGB" tints="0.7568628,0.6039216,0.4196079" />
+      <color name="Camel" cs="RGB" tints="0.7568628,0.6039216,0.4196079" />
+      <color name="Wood brown" cs="RGB" tints="0.7568628,0.6039216,0.4196079" />
+      <color name="Raw umber" cs="RGB" tints="0.509804,0.4,0.2666667" />
+      <color name="Pullman Brown (UPS Brown)" cs="RGB" tints="0.3921569,0.254902,0.09019608" />
+      <color name="Carrot orange" cs="RGB" tints="0.9294118,0.5686275,0.1294118" />
+      <color name="Tangerine" cs="RGB" tints="0.9490197,0.5215687,0" />
+      <color name="Dark orange" cs="RGB" tints="1,0.5490196,0" />
+      <color name="Antique white" cs="RGB" tints="0.9803922,0.9215687,0.8431373" />
+      <color name="Moccasin" cs="RGB" tints="0.9803922,0.9215687,0.8431373" />
+      <color name="Grullo" cs="RGB" tints="0.6627451,0.6039216,0.5254902" />
+      <color name="Tan" cs="RGB" tints="0.8235295,0.7058824,0.5490196" />
+      <color name="Burlywood" cs="RGB" tints="0.8705883,0.7215686,0.5294118" />
+      <color name="Gold (Crayola)" cs="RGB" tints="0.9019608,0.7450981,0.5411765" />
+      <color name="Pale gold" cs="RGB" tints="0.9019608,0.7450981,0.5411765" />
+      <color name="French bistre" cs="RGB" tints="0.5215687,0.427451,0.3019608" />
+      <color name="Earth yellow" cs="RGB" tints="0.882353,0.6627451,0.372549" />
+      <color name="Yellow Orange" cs="RGB" tints="1,0.682353,0.2588235" />
+      <color name="Deep champagne" cs="RGB" tints="0.9803922,0.8392158,0.6470588" />
+      <color name="Sunset" cs="RGB" tints="0.9803922,0.8392158,0.6470588" />
+      <color name="Topaz" cs="RGB" tints="1,0.7843138,0.4862745" />
+      <color name="Indian yellow" cs="RGB" tints="0.8901961,0.6588235,0.3411765" />
+      <color name="Pastel orange" cs="RGB" tints="1,0.7019608,0.2784314" />
+      <color name="Fulvous" cs="RGB" tints="0.8941177,0.5176471,0" />
+      <color name="Blanched almond" cs="RGB" tints="1,0.9215687,0.8039216" />
+      <color name="Navajo white" cs="RGB" tints="1,0.8705883,0.6784314" />
+      <color name="Sunray" cs="RGB" tints="0.8901961,0.6705883,0.3411765" />
+      <color name="Golden brown" cs="RGB" tints="0.6,0.3960785,0.08235294" />
+      <color name="Orange (RYB)" cs="RGB" tints="0.9843138,0.6,0.007843138" />
+      <color name="Mustard brown" cs="RGB" tints="0.8039216,0.4784314,0" />
+      <color name="Vivid gamboge" cs="RGB" tints="1,0.6,0" />
+      <color name="Papaya whip" cs="RGB" tints="1,0.937255,0.8352942" />
+      <color name="Champagne" cs="RGB" tints="0.9686275,0.9058824,0.8078432" />
+      <color name="Khaki (web) (Khaki)" cs="RGB" tints="0.764706,0.6901961,0.5686275" />
+      <color name="Shadow" cs="RGB" tints="0.5411765,0.4745098,0.3647059" />
+      <color name="Bright yellow (Crayola)" cs="RGB" tints="1,0.6666667,0.1137255" />
+      <color name="Light French beige" cs="RGB" tints="0.7843138,0.6784314,0.4980392" />
+      <color name="Aztec gold" cs="RGB" tints="0.764706,0.6,0.3254902" />
+      <color name="Philippine gold" cs="RGB" tints="0.6941177,0.4509804,0.01568628" />
+      <color name="Vivid orange peel" cs="RGB" tints="1,0.627451,0" />
+      <color name="Old lace" cs="RGB" tints="0.9921569,0.9607844,0.9019608" />
+      <color name="Bone" cs="RGB" tints="0.8901961,0.854902,0.7882354" />
+      <color name="Wheat" cs="RGB" tints="0.9607844,0.8705883,0.7019608" />
+      <color name="Peach" cs="RGB" tints="1,0.8980393,0.7058824" />
+      <color name="Pineapple" cs="RGB" tints="0.3372549,0.2352941,0.0509804" />
+      <color name="Marigold" cs="RGB" tints="0.9176471,0.6352941,0.1294118" />
+      <color name="Gamboge" cs="RGB" tints="0.8941177,0.6078432,0.05882353" />
+      <color name="Orange (web)" cs="RGB" tints="1,0.6470588,0" />
+      <color name="Platinum" cs="RGB" tints="0.8980393,0.8941177,0.8862746" />
+      <color name="Floral white" cs="RGB" tints="1,0.9803922,0.9411765" />
+      <color name="White coffee" cs="RGB" tints="0.9019608,0.8784314,0.8313726" />
+      <color name="Maximum yellow red" cs="RGB" tints="0.9490197,0.7294118,0.2862745" />
+      <color name="Harvest gold" cs="RGB" tints="0.854902,0.5686275,0" />
+      <color name="Metallic Sunburst" cs="RGB" tints="0.6117647,0.4862745,0.2196079" />
+      <color name="Xanthous" cs="RGB" tints="0.9450981,0.7058824,0.1843137" />
+      <color name="Cosmic latte" cs="RGB" tints="1,0.9725491,0.9058824" />
+      <color name="White chocolate" cs="RGB" tints="0.9294118,0.9019608,0.8392158" />
+      <color name="Pearl" cs="RGB" tints="0.9176471,0.8784314,0.7843138" />
+      <color name="Dutch white" cs="RGB" tints="0.937255,0.8745099,0.7333333" />
+      <color name="Field drab" cs="RGB" tints="0.4235294,0.3294118,0.1176471" />
+      <color name="Banana Mania" cs="RGB" tints="0.9803922,0.9058824,0.7098039" />
+      <color name="Gold Fusion" cs="RGB" tints="0.5215687,0.4588236,0.3058824" />
+      <color name="Olive drab #7" cs="RGB" tints="0.2352941,0.2039216,0.1215686" />
+      <color name="Satin sheen gold" cs="RGB" tints="0.7960785,0.6313726,0.2078432" />
+      <color name="Sandy taupe" cs="RGB" tints="0.5882353,0.4431373,0.09019608" />
+      <color name="Bistre brown" cs="RGB" tints="0.5882353,0.4431373,0.09019608" />
+      <color name="Sand dune" cs="RGB" tints="0.5882353,0.4431373,0.09019608" />
+      <color name="Mode beige" cs="RGB" tints="0.5882353,0.4431373,0.09019608" />
+      <color name="Goldenrod" cs="RGB" tints="0.854902,0.6470588,0.1254902" />
+      <color name="Spanish yellow" cs="RGB" tints="0.9647059,0.7098039,0.06666667" />
+      <color name="Dark goldenrod" cs="RGB" tints="0.7215686,0.5254902,0.04313726" />
+      <color name="Lanzones" cs="RGB" tints="0.8784314,0.7372549,0.3568628" />
+      <color name="Maize (Crayola)" cs="RGB" tints="0.9490197,0.7764707,0.2862745" />
+      <color name="Urobilin" cs="RGB" tints="0.882353,0.6784314,0.1294118" />
+      <color name="Ripe mango" cs="RGB" tints="1,0.764706,0.1411765" />
+      <color name="Orange-yellow" cs="RGB" tints="0.9607844,0.7411765,0.1215686" />
+      <color name="Microsoft yellow" cs="RGB" tints="0.9921569,0.7254902,0" />
+      <color name="Selective yellow" cs="RGB" tints="1,0.7294118,0" />
+      <color name="Lotion" cs="RGB" tints="0.9960785,0.9921569,0.9803922" />
+      <color name="Parchment" cs="RGB" tints="0.9450981,0.9137256,0.8235295" />
+      <color name="Sand" cs="RGB" tints="0.7607844,0.6980392,0.5019608" />
+      <color name="Ecru" cs="RGB" tints="0.7607844,0.6980392,0.5019608" />
+      <color name="Dark tan" cs="RGB" tints="0.5686275,0.5058824,0.3176471" />
+      <color name="Orange-yellow (Crayola)" cs="RGB" tints="0.9725491,0.8352942,0.4078432" />
+      <color name="Saffron" cs="RGB" tints="0.9568628,0.7686275,0.1882353" />
+      <color name="Sunglow" cs="RGB" tints="1,0.8000001,0.2" />
+      <color name="Lemon curry" cs="RGB" tints="0.8000001,0.627451,0.1137255" />
+      <color name="Mikado yellow" cs="RGB" tints="1,0.7686275,0.04705883" />
+      <color name="Mango" cs="RGB" tints="0.9921569,0.7450981,0.007843138" />
+      <color name="Gold" cs="RGB" tints="0.6470588,0.4862745,0" />
+      <color name="Amber" cs="RGB" tints="1,0.7490196,0" />
+      <color name="Eggshell" cs="RGB" tints="0.9411765,0.9176471,0.8392158" />
+      <color name="Metallic gold" cs="RGB" tints="0.8274511,0.6862745,0.2156863" />
+      <color name="Gold (metallic)" cs="RGB" tints="0.8313726,0.6862745,0.2156863" />
+      <color name="Mustard yellow" cs="RGB" tints="0.882353,0.6784314,0.003921569" />
+      <color name="Golden poppy" cs="RGB" tints="0.9882354,0.7607844,0" />
+      <color name="Lemon meringue" cs="RGB" tints="0.9647059,0.9176471,0.7450981" />
+      <color name="Jasmine" cs="RGB" tints="0.9725491,0.8705883,0.4941177" />
+      <color name="Mellow yellow" cs="RGB" tints="0.9725491,0.8705883,0.4941177" />
+      <color name="Mustard" cs="RGB" tints="1,0.8588236,0.345098" />
+      <color name="Deep lemon" cs="RGB" tints="0.9607844,0.7803922,0.1019608" />
+      <color name="Cornsilk" cs="RGB" tints="1,0.9725491,0.8627452" />
+      <color name="Medium champagne" cs="RGB" tints="0.9529412,0.8980393,0.6705883" />
+      <color name="Vanilla" cs="RGB" tints="0.9529412,0.8980393,0.6705883" />
+      <color name="Royal yellow" cs="RGB" tints="0.9803922,0.854902,0.3686275" />
+      <color name="Naples yellow" cs="RGB" tints="0.9803922,0.854902,0.3686275" />
+      <color name="Stil de grain yellow" cs="RGB" tints="0.9803922,0.854902,0.3686275" />
+      <color name="Metallic yellow" cs="RGB" tints="0.9921569,0.8000001,0.0509804" />
+      <color name="Philippine yellow" cs="RGB" tints="0.9960785,0.7960785,0" />
+      <color name="Tangerine yellow" cs="RGB" tints="1,0.8000001,0" />
+      <color name="Buff" cs="RGB" tints="0.9411765,0.8627452,0.509804" />
+      <color name="Old gold" cs="RGB" tints="0.8117648,0.7098039,0.2313726" />
+      <color name="Jonquil" cs="RGB" tints="0.9568628,0.7921569,0.08627451" />
+      <color name="Neon gold" cs="RGB" tints="0.8117648,0.6666667,0.003921569" />
+      <color name="Titanium" cs="RGB" tints="0.5294118,0.5254902,0.5058824" />
+      <color name="Alabaster" cs="RGB" tints="0.9490197,0.9411765,0.9019608" />
+      <color name="Flax" cs="RGB" tints="0.9333334,0.8627452,0.509804" />
+      <color name="Yellow (Crayola)" cs="RGB" tints="0.9882354,0.909804,0.5137255" />
+      <color name="Vegas gold" cs="RGB" tints="0.7725491,0.7019608,0.345098" />
+      <color name="Shandy" cs="RGB" tints="1,0.9019608,0.4392157" />
+      <color name="Yellow (NCS)" cs="RGB" tints="1,0.8274511,0" />
+      <color name="Cyber yellow" cs="RGB" tints="1,0.8274511,0" />
+      <color name="Hansa yellow" cs="RGB" tints="0.9137256,0.8392158,0.4196079" />
+      <color name="Arylide yellow" cs="RGB" tints="0.9137256,0.8392158,0.4196079" />
+      <color name="Light gold" cs="RGB" tints="0.6980392,0.5921569,0" />
+      <color name="Yellow (Munsell)" cs="RGB" tints="0.937255,0.8000001,0" />
+      <color name="Gold (web) (Golden)" cs="RGB" tints="1,0.8431373,0" />
+      <color name="School bus yellow" cs="RGB" tints="1,0.8470589,0" />
+      <color name="Spanish bistre" cs="RGB" tints="0.5019608,0.4588236,0.1960784" />
+      <color name="Minion yellow" cs="RGB" tints="0.9607844,0.8784314,0.3137255" />
+      <color name="Sizzling Sunrise" cs="RGB" tints="1,0.8588236,0" />
+      <color name="Philippine golden yellow" cs="RGB" tints="1,0.8745099,0" />
+      <color name="Golden yellow" cs="RGB" tints="1,0.8745099,0" />
+      <color name="Antique bronze" cs="RGB" tints="0.4,0.3647059,0.1176471" />
+      <color name="Safety yellow" cs="RGB" tints="0.9333334,0.8235295,0.007843138" />
+      <color name="Medium yellow" cs="RGB" tints="1,0.8901961,0.007843138" />
+      <color name="Vivid yellow" cs="RGB" tints="1,0.8901961,0.007843138" />
+      <color name="Yellow (Pantone)" cs="RGB" tints="0.9960785,0.8745099,0" />
+      <color name="Lemon chiffon" cs="RGB" tints="1,0.9803922,0.8039216" />
+      <color name="Misty Moss" cs="RGB" tints="0.7333333,0.7058824,0.4666667" />
+      <color name="Khaki (X11) (Light khaki)" cs="RGB" tints="0.9411765,0.9019608,0.5490196" />
+      <color name="Straw" cs="RGB" tints="0.8941177,0.8509805,0.4352942" />
+      <color name="Old moss green" cs="RGB" tints="0.5254902,0.4941177,0.2117647" />
+      <color name="Maize" cs="RGB" tints="0.9843138,0.9254903,0.3647059" />
+      <color name="Citrine" cs="RGB" tints="0.8941177,0.8156863,0.03921569" />
+      <color name="Sage" cs="RGB" tints="0.7372549,0.7215686,0.5411765" />
+      <color name="Pale goldenrod" cs="RGB" tints="0.9333334,0.909804,0.6666667" />
+      <color name="Green-yellow (Crayola)" cs="RGB" tints="0.9411765,0.909804,0.5686275" />
+      <color name="Middle yellow" cs="RGB" tints="1,0.9215687,0" />
+      <color name="Dark khaki" cs="RGB" tints="0.7411765,0.7176471,0.4196079" />
+      <color name="Lemon yellow" cs="RGB" tints="1,0.9568628,0.3098039" />
+      <color name="Aureolin" cs="RGB" tints="0.9921569,0.9333334,0" />
+      <color name="Canary yellow" cs="RGB" tints="1,0.937255,0" />
+      <color name="Yellow (process)" cs="RGB" tints="1,0.937255,0" />
+      <color name="Yellow rose" cs="RGB" tints="1,0.9411765,0" />
+      <color name="Cream" cs="RGB" tints="1,0.9921569,0.8156863" />
+      <color name="Icterine" cs="RGB" tints="0.9882354,0.9686275,0.3686275" />
+      <color name="Titanium yellow" cs="RGB" tints="0.9333334,0.9019608,0" />
+      <color name="Cadmium yellow" cs="RGB" tints="1,0.9647059,0" />
+      <color name="Yellow Sunshine" cs="RGB" tints="1,0.9686275,0" />
+      <color name="Lemon" cs="RGB" tints="1,0.9686275,0" />
+      <color name="Neon yellow" cs="RGB" tints="1,0.9686275,0" />
+      <color name="Spring green (Crayola)" cs="RGB" tints="0.9254903,0.9215687,0.7411765" />
+      <color name="Pale spring bud" cs="RGB" tints="0.9254903,0.9215687,0.7411765" />
+      <color name="Olive green" cs="RGB" tints="0.7098039,0.7019608,0.3607843" />
+      <color name="Peridot" cs="RGB" tints="0.9019608,0.8862746,0" />
+      <color name="Old silver" cs="RGB" tints="0.5176471,0.5176471,0.509804" />
+      <color name="Battleship grey" cs="RGB" tints="0.5176471,0.5176471,0.509804" />
+      <color name="Baby powder" cs="RGB" tints="0.9960785,0.9960785,0.9803922" />
+      <color name="Pastel gray" cs="RGB" tints="0.8117648,0.8117648,0.7686275" />
+      <color name="Ivory" cs="RGB" tints="1,1,0.9411765" />
+      <color name="Beige" cs="RGB" tints="0.9607844,0.9607844,0.8627452" />
+      <color name="Very pale yellow" cs="RGB" tints="1,1,0.7490196" />
+      <color name="Lemon yellow (Crayola)" cs="RGB" tints="1,1,0.6235294" />
+      <color name="Canary" cs="RGB" tints="1,1,0.6" />
+      <color name="Pastel yellow" cs="RGB" tints="0.9921569,0.9921569,0.5882353" />
+      <color name="Mustard green" cs="RGB" tints="0.4313726,0.4313726,0.1882353" />
+      <color name="Laser Lemon" cs="RGB" tints="1,1,0.4" />
+      <color name="Unmellow yellow" cs="RGB" tints="1,1,0.4" />
+      <color name="Maximum yellow" cs="RGB" tints="0.9803922,0.9803922,0.2156863" />
+      <color name="Yellow (RYB)" cs="RGB" tints="0.9960785,0.9960785,0.2" />
+      <color name="Xanthic" cs="RGB" tints="0.9333334,0.9294118,0.03529412" />
+      <color name="Olive" cs="RGB" tints="0.5019608,0.5019608,0" />
+      <color name="Lemon glacier" cs="RGB" tints="0.9921569,1,0" />
+      <color name="Yellow" cs="RGB" tints="1,1,0" />
+      <color name="Booger Buster" cs="RGB" tints="0.8666667,0.8862746,0.4156863" />
+      <color name="Citron" cs="RGB" tints="0.6235294,0.6627451,0.1215686" />
+      <color name="Watermelon Yellow" cs="RGB" tints="0.9333334,1,0.1058824" />
+      <color name="Maximum Green Yellow" cs="RGB" tints="0.8509805,0.9019608,0.3137255" />
+      <color name="Acid green" cs="RGB" tints="0.6901961,0.7490196,0.1019608" />
+      <color name="Pear" cs="RGB" tints="0.8196079,0.8862746,0.1921569" />
+      <color name="Bitter lemon" cs="RGB" tints="0.7921569,0.8784314,0.0509804" />
+      <color name="Key lime" cs="RGB" tints="0.909804,0.9568628,0.5490196" />
+      <color name="Dandelion" cs="RGB" tints="0.8666667,0.9686275,0.09803922" />
+      <color name="Lemon lime" cs="RGB" tints="0.8901961,1,0" />
+      <color name="Black olive" cs="RGB" tints="0.2313726,0.2352941,0.2117647" />
+      <color name="Milk" cs="RGB" tints="0.9921569,1,0.9607844" />
+      <color name="Mindaro" cs="RGB" tints="0.8901961,0.9764706,0.5333334" />
+      <color name="Middle green yellow" cs="RGB" tints="0.6745098,0.7490196,0.3764706" />
+      <color name="Arctic lime" cs="RGB" tints="0.8156863,1,0.07843138" />
+      <color name="Limerick" cs="RGB" tints="0.6156863,0.7607844,0.03529412" />
+      <color name="Electric lime" cs="RGB" tints="0.8000001,1,0" />
+      <color name="Medium spring bud" cs="RGB" tints="0.7882354,0.8627452,0.5294118" />
+      <color name="June bud" cs="RGB" tints="0.7411765,0.854902,0.3411765" />
+      <color name="Moss green" cs="RGB" tints="0.5411765,0.6039216,0.3568628" />
+      <color name="Lime (color wheel)" cs="RGB" tints="0.7490196,1,0" />
+      <color name="Yellow-green (Crayola)" cs="RGB" tints="0.7725491,0.8901961,0.5176471" />
+      <color name="Microsoft green" cs="RGB" tints="0.4901961,0.7176471,0" />
+      <color name="Dark moss green" cs="RGB" tints="0.2901961,0.3647059,0.1372549" />
+      <color name="Olive drab (#3)" cs="RGB" tints="0.4196079,0.5568628,0.1372549" />
+      <color name="Yellow-green" cs="RGB" tints="0.6039216,0.8039216,0.1960784" />
+      <color name="Sheen green" cs="RGB" tints="0.5607843,0.8313726,0" />
+      <color name="Spring bud" cs="RGB" tints="0.654902,0.9882354,0" />
+      <color name="Dark olive green" cs="RGB" tints="0.3333333,0.4196079,0.1843137" />
+      <color name="Rifle green" cs="RGB" tints="0.2666667,0.2980392,0.2196079" />
+      <color name="Inchworm" cs="RGB" tints="0.6980392,0.9254903,0.3647059" />
+      <color name="Green Lizard" cs="RGB" tints="0.654902,0.9568628,0.1960784" />
+      <color name="Green-yellow" cs="RGB" tints="0.6784314,1,0.1843137" />
+      <color name="Pine green" cs="RGB" tints="0.1647059,0.1843137,0.1372549" />
+      <color name="Mango green" cs="RGB" tints="0.5882353,1,0" />
+      <color name="Olivine" cs="RGB" tints="0.6039216,0.7254902,0.4509804" />
+      <color name="French lime" cs="RGB" tints="0.6196079,0.9921569,0.2196079" />
+      <color name="Maximum Green" cs="RGB" tints="0.3686275,0.5490196,0.1921569" />
+      <color name="Chartreuse" cs="RGB" tints="0.4980392,1,0" />
+      <color name="Asparagus" cs="RGB" tints="0.482353,0.627451,0.3568628" />
+      <color name="Sap green" cs="RGB" tints="0.3137255,0.4901961,0.1647059" />
+      <color name="Spring Frost" cs="RGB" tints="0.5294118,1,0.1647059" />
+      <color name="Laurel green" cs="RGB" tints="0.6627451,0.7294118,0.6156863" />
+      <color name="Green (RYB)" cs="RGB" tints="0.4,0.6901961,0.1960784" />
+      <color name="Pistachio" cs="RGB" tints="0.5764706,0.7725491,0.4470589" />
+      <color name="Bright green" cs="RGB" tints="0.4,1,0" />
+      <color name="Ebony" cs="RGB" tints="0.3333333,0.3647059,0.3137255" />
+      <color name="Nyanza" cs="RGB" tints="0.9137256,1,0.8588236" />
+      <color name="Metallic green" cs="RGB" tints="0.1607843,0.4313726,0.003921569" />
+      <color name="Menthol" cs="RGB" tints="0.7568628,0.9764706,0.6352941" />
+      <color name="Silver foil" cs="RGB" tints="0.6862745,0.6941177,0.682353" />
+      <color name="Tea green" cs="RGB" tints="0.8156863,0.9411765,0.7529413" />
+      <color name="Napier green" cs="RGB" tints="0.1647059,0.5019608,0" />
+      <color name="Kelly green" cs="RGB" tints="0.2980392,0.7333333,0.09019608" />
+      <color name="Bud green" cs="RGB" tints="0.482353,0.7137255,0.3803922" />
+      <color name="Kombu green" cs="RGB" tints="0.2078432,0.2588235,0.1882353" />
+      <color name="Harlequin" cs="RGB" tints="0.2470588,1,0" />
+      <color name="Fern green" cs="RGB" tints="0.3098039,0.4745098,0.2588235" />
+      <color name="Lincoln green" cs="RGB" tints="0.09803922,0.3490196,0.01960784" />
+      <color name="Artichoke green" cs="RGB" tints="0.2941177,0.4352942,0.2666667" />
+      <color name="Mantis" cs="RGB" tints="0.454902,0.764706,0.3960785" />
+      <color name="Slimy green" cs="RGB" tints="0.1607843,0.5882353,0.09019608" />
+      <color name="Neon green" cs="RGB" tints="0.2235294,1,0.07843138" />
+      <color name="May green" cs="RGB" tints="0.2980392,0.5686275,0.254902" />
+      <color name="Royal green" cs="RGB" tints="0.07450981,0.3843138,0.02745098" />
+      <color name="Granny Smith apple" cs="RGB" tints="0.6588235,0.8941177,0.627451" />
+      <color name="Vine Green" cs="RGB" tints="0.08627451,0.2509804,0.0627451" />
+      <color name="India green" cs="RGB" tints="0.07450981,0.5333334,0.03137255" />
+      <color name="Nickel" cs="RGB" tints="0.4470589,0.454902,0.4470589" />
+      <color name="Honeydew" cs="RGB" tints="0.9411765,1,0.9411765" />
+      <color name="Light Moss Green" cs="RGB" tints="0.6784314,0.8745099,0.6784314" />
+      <color name="Dark sea green" cs="RGB" tints="0.5607843,0.7372549,0.5607843" />
+      <color name="Russian green" cs="RGB" tints="0.4039216,0.572549,0.4039216" />
+      <color name="Pale green" cs="RGB" tints="0.5960785,0.9843138,0.5960785" />
+      <color name="Mint green" cs="RGB" tints="0.5960785,1,0.5960785" />
+      <color name="Pastel green" cs="RGB" tints="0.4666667,0.8666667,0.4666667" />
+      <color name="Mughal green" cs="RGB" tints="0.1882353,0.3764706,0.1882353" />
+      <color name="Screamin' green" cs="RGB" tints="0.4,1,0.4" />
+      <color name="Forest green (web)" cs="RGB" tints="0.1333333,0.5450981,0.1333333" />
+      <color name="Lime green" cs="RGB" tints="0.1960784,0.8039216,0.1960784" />
+      <color name="Dark green (X11)" cs="RGB" tints="0,0.3921569,0" />
+      <color name="Pakistan green" cs="RGB" tints="0,0.4,0" />
+      <color name="Green (HTML/CSS color)" cs="RGB" tints="0,0.5019608,0" />
+      <color name="Office green" cs="RGB" tints="0,0.5019608,0" />
+      <color name="Green" cs="RGB" tints="0,1,0" />
+      <color name="Lime (web) (X11 green)" cs="RGB" tints="0,1,0" />
+      <color name="Celadon" cs="RGB" tints="0.6745098,0.882353,0.6862745" />
+      <color name="Lemon lime" cs="RGB" tints="0.3607843,1,0.4039216" />
+      <color name="Hunter green" cs="RGB" tints="0.2078432,0.3686275,0.2313726" />
+      <color name="Mummy's Tomb" cs="RGB" tints="0.509804,0.5568628,0.5176471" />
+      <color name="Middle green" cs="RGB" tints="0.3019608,0.5490196,0.3411765" />
+      <color name="Smoke" cs="RGB" tints="0.4509804,0.509804,0.4627451" />
+      <color name="Eton blue" cs="RGB" tints="0.5882353,0.7843138,0.6352941" />
+      <color name="Ash gray" cs="RGB" tints="0.6980392,0.7450981,0.7098039" />
+      <color name="Very light malachite green" cs="RGB" tints="0.3921569,0.9137256,0.5254902" />
+      <color name="Xanadu" cs="RGB" tints="0.4509804,0.5254902,0.4705883" />
+      <color name="Oxley" cs="RGB" tints="0.427451,0.6039216,0.4745098" />
+      <color name="Dark pastel green" cs="RGB" tints="0.01176471,0.7529413,0.2352941" />
+      <color name="Cambridge blue" cs="RGB" tints="0.6392157,0.7568628,0.6784314" />
+      <color name="Teal deer" cs="RGB" tints="0.6,0.9019608,0.7019608" />
+      <color name="Forest green (Crayola)" cs="RGB" tints="0.372549,0.654902,0.4666667" />
+      <color name="Emerald" cs="RGB" tints="0.3137255,0.7843138,0.4705883" />
+      <color name="Paris Green" cs="RGB" tints="0.3137255,0.7843138,0.4705883" />
+      <color name="Malachite" cs="RGB" tints="0.04313726,0.854902,0.3176471" />
+      <color name="Shiny shamrock" cs="RGB" tints="0.372549,0.654902,0.4705883" />
+      <color name="Neon green" cs="RGB" tints="0.07450981,0.6078432,0.2588235" />
+      <color name="La Salle green" cs="RGB" tints="0.03137255,0.4705883,0.1882353" />
+      <color name="Turquoise green" cs="RGB" tints="0.627451,0.8392158,0.7058824" />
+      <color name="Feldgrau" cs="RGB" tints="0.3019608,0.3647059,0.3254902" />
+      <color name="Green (Pantone)" cs="RGB" tints="0,0.6784314,0.2627451" />
+      <color name="Sea green" cs="RGB" tints="0.1803922,0.5450981,0.3411765" />
+      <color name="Amazon" cs="RGB" tints="0.2313726,0.4784314,0.3411765" />
+      <color name="Medium sea green" cs="RGB" tints="0.2352941,0.7019608,0.4431373" />
+      <color name="Android green" cs="RGB" tints="0.2392157,0.8627452,0.5176471" />
+      <color name="Forest green (traditional)" cs="RGB" tints="0.003921569,0.2666667,0.1294118" />
+      <color name="Green (pigment)" cs="RGB" tints="0,0.6470588,0.3137255" />
+      <color name="Mint cream" cs="RGB" tints="0.9607844,1,0.9803922" />
+      <color name="Dark spring green" cs="RGB" tints="0.09019608,0.4470589,0.2705882" />
+      <color name="Neon dark green" cs="RGB" tints="0,0.5176471,0.2627451" />
+      <color name="Philippine green" cs="RGB" tints="0,0.5215687,0.2627451" />
+      <color name="Spring green" cs="RGB" tints="0,1,0.4980392" />
+      <color name="Phthalo green" cs="RGB" tints="0.07058824,0.2078432,0.1411765" />
+      <color name="Salem" cs="RGB" tints="0.09019608,0.482353,0.3019608" />
+      <color name="Dartmouth green" cs="RGB" tints="0,0.4392157,0.2352941" />
+      <color name="Morning blue" cs="RGB" tints="0.5529412,0.6392157,0.6" />
+      <color name="Neon Carrot" cs="RGB" tints="0.6666667,0.9411765,0.8196079" />
+      <color name="Magic Mint" cs="RGB" tints="0.6666667,0.9411765,0.8196079" />
+      <color name="Spanish green" cs="RGB" tints="0,0.5686275,0.3137255" />
+      <color name="Medium aquamarine" cs="RGB" tints="0.4,0.8666667,0.6666667" />
+      <color name="British racing green" cs="RGB" tints="0,0.2588235,0.145098" />
+      <color name="Cadmium green" cs="RGB" tints="0,0.4196079,0.2352941" />
+      <color name="Medium green" cs="RGB" tints="0.01176471,0.4745098,0.2862745" />
+      <color name="Shamrock green" cs="RGB" tints="0,0.6196079,0.3764706" />
+      <color name="GO green" cs="RGB" tints="0,0.6705883,0.4" />
+      <color name="Medium spring green" cs="RGB" tints="0,0.9803922,0.6039216" />
+      <color name="Mint" cs="RGB" tints="0.2431373,0.7058824,0.5372549" />
+      <color name="Green (Crayola)" cs="RGB" tints="0.1098039,0.6745098,0.4705883" />
+      <color name="Dark green" cs="RGB" tints="0.003921569,0.1960784,0.1254902" />
+      <color name="Jade" cs="RGB" tints="0,0.6588235,0.4196079" />
+      <color name="Aquamarine" cs="RGB" tints="0.4980392,1,0.8313726" />
+      <color name="Sacramento State green" cs="RGB" tints="0.01568628,0.2235294,0.1529412" />
+      <color name="Green-cyan" cs="RGB" tints="0,0.6,0.4" />
+      <color name="Green (NCS)" cs="RGB" tints="0,0.6235294,0.4196079" />
+      <color name="Medium jungle green" cs="RGB" tints="0.1098039,0.2078432,0.1764706" />
+      <color name="Viridian" cs="RGB" tints="0.2509804,0.509804,0.427451" />
+      <color name="Eucalyptus" cs="RGB" tints="0.2666667,0.8431373,0.6588235" />
+      <color name="Mountain Meadow" cs="RGB" tints="0.1882353,0.7294118,0.5607843" />
+      <color name="Dark jungle green" cs="RGB" tints="0.1019608,0.1411765,0.1294118" />
+      <color name="Pearl Aqua" cs="RGB" tints="0.5333334,0.8470589,0.7529413" />
+      <color name="Hooker's green" cs="RGB" tints="0.2862745,0.4745098,0.4196079" />
+      <color name="Jungle green" cs="RGB" tints="0.1607843,0.6705883,0.5294118" />
+      <color name="Spanish viridian" cs="RGB" tints="0,0.4980392,0.3607843" />
+      <color name="Green (Munsell)" cs="RGB" tints="0,0.6588235,0.4666667" />
+      <color name="Opal" cs="RGB" tints="0.6588235,0.764706,0.7372549" />
+      <color name="Illuminating emerald" cs="RGB" tints="0.1921569,0.5686275,0.4666667" />
+      <color name="Caribbean green" cs="RGB" tints="0,0.8000001,0.6" />
+      <color name="Polished pine" cs="RGB" tints="0.3647059,0.6431373,0.5764706" />
+      <color name="Wintergreen dream" cs="RGB" tints="0.3372549,0.5333334,0.4901961" />
+      <color name="MSU green" cs="RGB" tints="0.09411766,0.2705882,0.2313726" />
+      <color name="Green Sheen" cs="RGB" tints="0.4313726,0.682353,0.6313726" />
+      <color name="Tropical rain forest" cs="RGB" tints="0,0.4588236,0.3686275" />
+      <color name="Generic viridian" cs="RGB" tints="0,0.4980392,0.4" />
+      <color name="Paolo Veronese green" cs="RGB" tints="0,0.6078432,0.4901961" />
+      <color name="Sea green (Crayola)" cs="RGB" tints="0,1,0.8039216" />
+      <color name="Pale robin egg blue" cs="RGB" tints="0.5882353,0.8705883,0.8196079" />
+      <color name="Middle blue green" cs="RGB" tints="0.5529412,0.8509805,0.8000001" />
+      <color name="Keppel" cs="RGB" tints="0.227451,0.6901961,0.6196079" />
+      <color name="Persian green" cs="RGB" tints="0,0.6509804,0.5764706" />
+      <color name="Tiffany Blue" cs="RGB" tints="0.5058824,0.8470589,0.8156863" />
+      <color name="Turquoise" cs="RGB" tints="0.2509804,0.8784314,0.8156863" />
+      <color name="Pine green" cs="RGB" tints="0.003921569,0.4745098,0.4352942" />
+      <color name="Myrtle green" cs="RGB" tints="0.1921569,0.4705883,0.4509804" />
+      <color name="Verdigris" cs="RGB" tints="0.2627451,0.7019608,0.682353" />
+      <color name="Light sea green" cs="RGB" tints="0.1254902,0.6980392,0.6666667" />
+      <color name="Bright turquoise" cs="RGB" tints="0.03137255,0.909804,0.8705883" />
+      <color name="Medium turquoise" cs="RGB" tints="0.282353,0.8196079,0.8000001" />
+      <color name="Fluorescent blue" cs="RGB" tints="0.08235294,0.9568628,0.9333334" />
+      <color name="Deep jungle green" cs="RGB" tints="0,0.2941177,0.2862745" />
+      <color name="Teal green" cs="RGB" tints="0,0.509804,0.4980392" />
+      <color name="Azure (X11/web color)" cs="RGB" tints="0.9411765,1,1" />
+      <color name="Light cyan" cs="RGB" tints="0.8784314,1,1" />
+      <color name="Charleston green" cs="RGB" tints="0.1372549,0.1686275,0.1686275" />
+      <color name="Pale blue" cs="RGB" tints="0.6862745,0.9333334,0.9333334" />
+      <color name="Pale turquoise" cs="RGB" tints="0.6862745,0.9333334,0.9333334" />
+      <color name="Celeste" cs="RGB" tints="0.6980392,1,1" />
+      <color name="Italian sky blue" cs="RGB" tints="0.6980392,1,1" />
+      <color name="Dark slate gray" cs="RGB" tints="0.1843137,0.3098039,0.3098039" />
+      <color name="Maximum Blue Green" cs="RGB" tints="0.1882353,0.7490196,0.7490196" />
+      <color name="Skobeloff" cs="RGB" tints="0,0.454902,0.454902" />
+      <color name="Teal" cs="RGB" tints="0,0.5019608,0.5019608" />
+      <color name="Dark cyan" cs="RGB" tints="0,0.5450981,0.5450981" />
+      <color name="Robin egg blue" cs="RGB" tints="0,0.8000001,0.8000001" />
+      <color name="Neon cyan" cs="RGB" tints="0,0.9960785,0.9882354" />
+      <color name="Spanish sky blue" cs="RGB" tints="0,1,1" />
+      <color name="Cyan" cs="RGB" tints="0,1,1" />
+      <color name="Aqua" cs="RGB" tints="0,1,1" />
+      <color name="Viridian green" cs="RGB" tints="0,0.5882353,0.5960785" />
+      <color name="Dark turquoise" cs="RGB" tints="0,0.8078432,0.8196079" />
+      <color name="Cadet blue" cs="RGB" tints="0.372549,0.6196079,0.627451" />
+      <color name="Electric blue" cs="RGB" tints="0.4901961,0.9764706,1" />
+      <color name="Lotion blue" cs="RGB" tints="0.08235294,0.9490197,0.9921569" />
+      <color name="Waterspout" cs="RGB" tints="0.6431373,0.9568628,0.9764706" />
+      <color name="Steel teal" cs="RGB" tints="0.372549,0.5411765,0.5607843" />
+      <color name="Aquamarine (Crayola)" cs="RGB" tints="0.5843138,0.8784314,0.909804" />
+      <color name="Metallic Seaweed" cs="RGB" tints="0.03921569,0.4941177,0.5490196" />
+      <color name="Powder blue" cs="RGB" tints="0.6901961,0.8784314,0.9019608" />
+      <color name="Midnight green (Eagle green)" cs="RGB" tints="0,0.2862745,0.3254902" />
+      <color name="Ming" cs="RGB" tints="0.2117647,0.454902,0.4901961" />
+      <color name="Outer space (Crayola)" cs="RGB" tints="0.1764706,0.2196079,0.227451" />
+      <color name="Middle blue" cs="RGB" tints="0.4941177,0.8313726,0.9019608" />
+      <color name="Medium sky blue" cs="RGB" tints="0.5019608,0.854902,0.9215687" />
+      <color name="Sky blue (Crayola)" cs="RGB" tints="0.4627451,0.8431373,0.9176471" />
+      <color name="Blue (Munsell)" cs="RGB" tints="0,0.5764706,0.6862745" />
+      <color name="Outer Space" cs="RGB" tints="0.254902,0.2901961,0.2980392" />
+      <color name="Moonstone" cs="RGB" tints="0.227451,0.6588235,0.7568628" />
+      <color name="Pacific Blue" cs="RGB" tints="0.1098039,0.6627451,0.7882354" />
+      <color name="Blue-green" cs="RGB" tints="0.0509804,0.5960785,0.7294118" />
+      <color name="Aero" cs="RGB" tints="0,0.7254902,0.909804" />
+      <color name="Water" cs="RGB" tints="0.8313726,0.9450981,0.9764706" />
+      <color name="Non-photo blue" cs="RGB" tints="0.6431373,0.8666667,0.9294118" />
+      <color name="Deep Space Sparkle" cs="RGB" tints="0.2901961,0.3921569,0.4235294" />
+      <color name="Teal blue" cs="RGB" tints="0.2117647,0.4588236,0.5333334" />
+      <color name="Cerulean (Crayola)" cs="RGB" tints="0.1137255,0.6745098,0.8392158" />
+      <color name="Onyx" cs="RGB" tints="0.2078432,0.2196079,0.2235294" />
+      <color name="Maximum Blue" cs="RGB" tints="0.2784314,0.6705883,0.8000001" />
+      <color name="Deep sky blue" cs="RGB" tints="0,0.7490196,1" />
+      <color name="Pastel blue" cs="RGB" tints="0.682353,0.7764707,0.8117648" />
+      <color name="Blizzard blue" cs="RGB" tints="0.3137255,0.7490196,0.9019608" />
+      <color name="Cerulean" cs="RGB" tints="0,0.482353,0.654902" />
+      <color name="Sky blue" cs="RGB" tints="0.5294118,0.8078432,0.9215687" />
+      <color name="Blue sapphire" cs="RGB" tints="0.07058824,0.3803922,0.5019608" />
+      <color name="Sea blue" cs="RGB" tints="0,0.4117647,0.5803922" />
+      <color name="Blue (NCS)" cs="RGB" tints="0,0.5294118,0.7411765" />
+      <color name="Vivid cerulean" cs="RGB" tints="0,0.6666667,0.9333334" />
+      <color name="Twitter blue" cs="RGB" tints="0.1490196,0.654902,0.8705883" />
+      <color name="Cadet" cs="RGB" tints="0.3254902,0.4078432,0.4470589" />
+      <color name="Dark sky blue" cs="RGB" tints="0.5490196,0.7450981,0.8392158" />
+      <color name="Moonstone blue" cs="RGB" tints="0.4509804,0.6627451,0.7607844" />
+      <color name="Baby blue" cs="RGB" tints="0.5372549,0.8117648,0.9411765" />
+      <color name="Rich electric blue" cs="RGB" tints="0.03137255,0.572549,0.8156863" />
+      <color name="Microsoft blue" cs="RGB" tints="0,0.6352941,0.9294118" />
+      <color name="Silver sand" cs="RGB" tints="0.7490196,0.7568628,0.7607844" />
+      <color name="Columbia Blue" cs="RGB" tints="0.7686275,0.8470589,0.8862746" />
+      <color name="Pewter blue" cs="RGB" tints="0.5450981,0.6588235,0.7176471" />
+      <color name="Pale cyan" cs="RGB" tints="0.5294118,0.8274511,0.9725491" />
+      <color name="Picton blue" cs="RGB" tints="0.2705882,0.6941177,0.909804" />
+      <color name="Star command blue" cs="RGB" tints="0,0.482353,0.7215686" />
+      <color name="Light cornflower blue" cs="RGB" tints="0.5764706,0.8000001,0.9176471" />
+      <color name="Cornflower blue (Crayola)" cs="RGB" tints="0.5764706,0.8000001,0.9176471" />
+      <color name="Ocean boat blue" cs="RGB" tints="0,0.4666667,0.7450981" />
+      <color name="Indigo dye" cs="RGB" tints="0,0.254902,0.4156863" />
+      <color name="Philippine orange" cs="RGB" tints="0,0.254902,0.4156863" />
+      <color name="Sapphire blue" cs="RGB" tints="0,0.4039216,0.6470588" />
+      <color name="Medium Persian blue" cs="RGB" tints="0,0.4039216,0.6470588" />
+      <color name="Honolulu blue" cs="RGB" tints="0,0.427451,0.6901961" />
+      <color name="Spanish blue" cs="RGB" tints="0,0.4392157,0.7215686" />
+      <color name="French blue" cs="RGB" tints="0,0.4470589,0.7333333" />
+      <color name="Charcoal" cs="RGB" tints="0.2117647,0.2705882,0.3098039" />
+      <color name="Rackley" cs="RGB" tints="0.3647059,0.5411765,0.6588235" />
+      <color name="Carolina blue" cs="RGB" tints="0.3372549,0.627451,0.8274511" />
+      <color name="Green-blue (Crayola)" cs="RGB" tints="0.1568628,0.5294118,0.7843138" />
+      <color name="Cadet grey" cs="RGB" tints="0.5686275,0.6392157,0.6901961" />
+      <color name="Pale cerulean" cs="RGB" tints="0.6078432,0.7686275,0.8862746" />
+      <color name="Air superiority blue" cs="RGB" tints="0.4470589,0.627451,0.7568628" />
+      <color name="Maya blue" cs="RGB" tints="0.4509804,0.7607844,0.9843138" />
+      <color name="Prussian blue" cs="RGB" tints="0,0.1921569,0.3254902" />
+      <color name="Beau blue" cs="RGB" tints="0.7372549,0.8313726,0.9019608" />
+      <color name="Pale aqua" cs="RGB" tints="0.7372549,0.8313726,0.9019608" />
+      <color name="Dark electric blue" cs="RGB" tints="0.3254902,0.4078432,0.4705883" />
+      <color name="Payne's grey" cs="RGB" tints="0.3254902,0.4078432,0.4705883" />
+      <color name="Blue jeans" cs="RGB" tints="0.3647059,0.6784314,0.9254903" />
+      <color name="Iceberg" cs="RGB" tints="0.4431373,0.6509804,0.8235295" />
+      <color name="Steel blue" cs="RGB" tints="0.2745098,0.509804,0.7058824" />
+      <color name="True blue" cs="RGB" tints="0,0.4509804,0.8117648" />
+      <color name="Microsoft Edge blue" cs="RGB" tints="0,0.4705883,0.8431373" />
+      <color name="Alice blue" cs="RGB" tints="0.9411765,0.9725491,1" />
+      <color name="Cerulean frost" cs="RGB" tints="0.427451,0.6078432,0.764706" />
+      <color name="Very light azure" cs="RGB" tints="0.454902,0.7333333,0.9843138" />
+      <color name="Black coral" cs="RGB" tints="0.3294118,0.3843138,0.4352942" />
+      <color name="Baby blue eyes" cs="RGB" tints="0.6313726,0.7921569,0.9450981" />
+      <color name="Green-blue" cs="RGB" tints="0.06666667,0.3921569,0.7058824" />
+      <color name="Medium electric blue" cs="RGB" tints="0.01176471,0.3137255,0.5882353" />
+      <color name="Slate gray" cs="RGB" tints="0.4392157,0.5019608,0.5647059" />
+      <color name="Pale cornflower blue" cs="RGB" tints="0.6705883,0.8039216,0.937255" />
+      <color name="Blue-gray" cs="RGB" tints="0.4,0.6,0.8000001" />
+      <color name="Livid" cs="RGB" tints="0.4,0.6,0.8000001" />
+      <color name="Tufts blue" cs="RGB" tints="0.2431373,0.5568628,0.8705883" />
+      <color name="Lapis lazuli" cs="RGB" tints="0.1490196,0.3803922,0.6117647" />
+      <color name="Bleu de France" cs="RGB" tints="0.1921569,0.5490196,0.9058824" />
+      <color name="Navy blue (Crayola)" cs="RGB" tints="0.09803922,0.454902,0.8235295" />
+      <color name="Bright navy blue" cs="RGB" tints="0.09803922,0.454902,0.8235295" />
+      <color name="Dodger blue" cs="RGB" tints="0.1176471,0.5647059,1" />
+      <color name="Dark midnight blue" cs="RGB" tints="0,0.2,0.4" />
+      <color name="Midnight blue" cs="RGB" tints="0,0.2745098,0.5490196" />
+      <color name="Azure" cs="RGB" tints="0,0.4980392,1" />
+      <color name="Queen blue" cs="RGB" tints="0.2627451,0.4196079,0.5843138" />
+      <color name="Police blue" cs="RGB" tints="0.2156863,0.3098039,0.4196079" />
+      <color name="Silver Lake blue" cs="RGB" tints="0.3647059,0.5372549,0.7294118" />
+      <color name="Little boy blue" cs="RGB" tints="0.4235294,0.627451,0.8627452" />
+      <color name="French sky blue" cs="RGB" tints="0.4666667,0.7098039,0.9960785" />
+      <color name="Maastricht Blue" cs="RGB" tints="0,0.1098039,0.2392157" />
+      <color name="Oxford blue" cs="RGB" tints="0,0.1294118,0.2784314" />
+      <color name="Denim" cs="RGB" tints="0.08235294,0.3764706,0.7411765" />
+      <color name="Shadow blue" cs="RGB" tints="0.4666667,0.5450981,0.6470588" />
+      <color name="Metallic blue" cs="RGB" tints="0.1960784,0.3215686,0.482353" />
+      <color name="Light cobalt blue" cs="RGB" tints="0.5333334,0.6745098,0.8784314" />
+      <color name="B'dazzled blue" cs="RGB" tints="0.1803922,0.345098,0.5803922" />
+      <color name="Cobalt blue" cs="RGB" tints="0,0.2784314,0.6705883" />
+      <color name="Glaucous" cs="RGB" tints="0.3764706,0.509804,0.7137255" />
+      <color name="United Nations blue" cs="RGB" tints="0.3568628,0.572549,0.8980393" />
+      <color name="Sapphire" cs="RGB" tints="0.05882353,0.3215686,0.7294118" />
+      <color name="Philippine sky blue" cs="RGB" tints="0,0.4,1" />
+      <color name="Blue yonder" cs="RGB" tints="0.3137255,0.4470589,0.654902" />
+      <color name="Blue (Crayola)" cs="RGB" tints="0.1215686,0.4588236,0.9960785" />
+      <color name="Absolute Zero" cs="RGB" tints="0,0.282353,0.7294118" />
+      <color name="Vista blue" cs="RGB" tints="0.4862745,0.6196079,0.8509805" />
+      <color name="Cornflower blue (web)" cs="RGB" tints="0.3921569,0.5843138,0.9294118" />
+      <color name="YInMn Blue" cs="RGB" tints="0.1803922,0.3137255,0.5647059" />
+      <color name="Royal blue" cs="RGB" tints="0,0.1372549,0.4" />
+      <color name="Blueberry" cs="RGB" tints="0.3098039,0.5254902,0.9686275" />
+      <color name="Smalt (Dark powder blue)" cs="RGB" tints="0,0.2,0.6" />
+      <color name="Philippine blue" cs="RGB" tints="0,0.2196079,0.654902" />
+      <color name="Royal azure" cs="RGB" tints="0,0.2196079,0.6588235" />
+      <color name="Roman silver" cs="RGB" tints="0.5137255,0.5372549,0.5882353" />
+      <color name="Periwinkle (Crayola)" cs="RGB" tints="0.764706,0.8039216,0.9019608" />
+      <color name="Han blue" cs="RGB" tints="0.2666667,0.4235294,0.8117648" />
+      <color name="New Car" cs="RGB" tints="0.1294118,0.3098039,0.7764707" />
+      <color name="Bluetiful" cs="RGB" tints="0.2352941,0.4117647,0.9058824" />
+      <color name="Cerulean blue" cs="RGB" tints="0.1647059,0.3215686,0.7450981" />
+      <color name="Resolution blue" cs="RGB" tints="0,0.1372549,0.5294118" />
+      <color name="Royal blue" cs="RGB" tints="0.254902,0.4117647,0.882353" />
+      <color name="Space cadet" cs="RGB" tints="0.1137255,0.1607843,0.3176471" />
+      <color name="Egyptian blue" cs="RGB" tints="0.0627451,0.2039216,0.6509804" />
+      <color name="Light periwinkle" cs="RGB" tints="0.7725491,0.7960785,0.882353" />
+      <color name="Denim Blue" cs="RGB" tints="0.1333333,0.2627451,0.7137255" />
+      <color name="Metallic silver" cs="RGB" tints="0.6588235,0.6627451,0.6784314" />
+      <color name="Ultramarine blue" cs="RGB" tints="0.254902,0.4,0.9607844" />
+      <color name="Cool grey" cs="RGB" tints="0.5490196,0.572549,0.6745098" />
+      <color name="Violet-blue" cs="RGB" tints="0.1960784,0.2901961,0.6980392" />
+      <color name="Persian blue" cs="RGB" tints="0.1098039,0.2235294,0.7333333" />
+      <color name="Manatee" cs="RGB" tints="0.5921569,0.6039216,0.6666667" />
+      <color name="Independence" cs="RGB" tints="0.2980392,0.3176471,0.427451" />
+      <color name="Samsung blue" cs="RGB" tints="0.07058824,0.1529412,0.6196079" />
+      <color name="Blue (Pantone)" cs="RGB" tints="0,0.09411766,0.6588235" />
+      <color name="Phthalo blue" cs="RGB" tints="0,0.05882353,0.5372549" />
+      <color name="Zaffre" cs="RGB" tints="0,0.07843138,0.6588235" />
+      <color name="Palatinate blue" cs="RGB" tints="0.1529412,0.2313726,0.8862746" />
+      <color name="Purple navy" cs="RGB" tints="0.3058824,0.3176471,0.5019608" />
+      <color name="St. Patrick's blue" cs="RGB" tints="0.1372549,0.1607843,0.4784314" />
+      <color name="Blue Ribbon" cs="RGB" tints="0.04313726,0.0627451,0.6352941" />
+      <color name="Blue-gray (Crayola)" cs="RGB" tints="0.7843138,0.7843138,0.8039216" />
+      <color name="Ghost white" cs="RGB" tints="0.9725491,0.9725491,1" />
+      <color name="Lavender mist" cs="RGB" tints="0.9019608,0.9019608,0.9803922" />
+      <color name="Lavender (web)" cs="RGB" tints="0.9019608,0.9019608,0.9803922" />
+      <color name="Periwinkle" cs="RGB" tints="0.8000001,0.8000001,1" />
+      <color name="Lavender blue" cs="RGB" tints="0.8000001,0.8000001,1" />
+      <color name="Blue bell" cs="RGB" tints="0.6352941,0.6352941,0.8156863" />
+      <color name="Maximum Blue Purple" cs="RGB" tints="0.6745098,0.6745098,0.9019608" />
+      <color name="Dark blue-gray" cs="RGB" tints="0.4,0.4,0.6" />
+      <color name="Very light blue" cs="RGB" tints="0.4,0.4,1" />
+      <color name="Blue (pigment)" cs="RGB" tints="0.2,0.2,0.6" />
+      <color name="Midnight blue" cs="RGB" tints="0.09803922,0.09803922,0.4392157" />
+      <color name="Navy blue" cs="RGB" tints="0,0,0.5019608" />
+      <color name="Dark blue" cs="RGB" tints="0,0,0.5450981" />
+      <color name="Duke blue" cs="RGB" tints="0,0,0.6117647" />
+      <color name="Medium blue" cs="RGB" tints="0,0,0.8039216" />
+      <color name="Blue" cs="RGB" tints="0,0,1" />
+      <color name="Cosmic cobalt" cs="RGB" tints="0.1803922,0.1764706,0.5333334" />
+      <color name="Rhythm" cs="RGB" tints="0.4666667,0.4627451,0.5882353" />
+      <color name="Amethyst (Crayola)" cs="RGB" tints="0.3921569,0.3764706,0.6039216" />
+      <color name="Ultramarine blue (Caran d'Ache)" cs="RGB" tints="0.1294118,0.06666667,0.937255" />
+      <color name="Lavender gray" cs="RGB" tints="0.7686275,0.764706,0.8156863" />
+      <color name="Violin Brown" cs="RGB" tints="0.4627451,0.4313726,0.7843138" />
+      <color name="Iris" cs="RGB" tints="0.3529412,0.3098039,0.8117648" />
+      <color name="Majorelle Blue" cs="RGB" tints="0.3764706,0.3137255,0.8627452" />
+      <color name="Dark slate blue" cs="RGB" tints="0.282353,0.2392157,0.5450981" />
+      <color name="Slate blue" cs="RGB" tints="0.4156863,0.3529412,0.8039216" />
+      <color name="Soap" cs="RGB" tints="0.8078432,0.7843138,0.937255" />
+      <color name="Medium slate blue" cs="RGB" tints="0.482353,0.4078432,0.9333334" />
+      <color name="Neon blue" cs="RGB" tints="0.1058824,0.01176471,0.6392157" />
+      <color name="Plump Purple" cs="RGB" tints="0.3490196,0.2745098,0.6980392" />
+      <color name="Silver (Metallic)" cs="RGB" tints="0.6666667,0.6627451,0.6784314" />
+      <color name="Pale lavender" cs="RGB" tints="0.8627452,0.8156863,1" />
+      <color name="Han purple" cs="RGB" tints="0.3215686,0.09411766,0.9803922" />
+      <color name="Ultramarine" cs="RGB" tints="0.2470588,0,1" />
+      <color name="Indigo (color wheel)" cs="RGB" tints="0.2509804,0,1" />
+      <color name="Persian indigo" cs="RGB" tints="0.1960784,0.07058824,0.4784314" />
+      <color name="Middle blue purple" cs="RGB" tints="0.5450981,0.4470589,0.7450981" />
+      <color name="Medium purple" cs="RGB" tints="0.5764706,0.4392157,0.8588236" />
+      <color name="Light pastel purple" cs="RGB" tints="0.6941177,0.6117647,0.8509805" />
+      <color name="Cyber grape" cs="RGB" tints="0.345098,0.2588235,0.4862745" />
+      <color name="Spanish violet" cs="RGB" tints="0.2980392,0.1568628,0.509804" />
+      <color name="Lavender indigo" cs="RGB" tints="0.5803922,0.3411765,0.9215687" />
+      <color name="Navy purple" cs="RGB" tints="0.5803922,0.3411765,0.9215687" />
+      <color name="Neon purple" cs="RGB" tints="0.5803922,0.3411765,0.9215687" />
+      <color name="KSU Purple" cs="RGB" tints="0.3176471,0.1568628,0.5333334" />
+      <color name="Electric indigo" cs="RGB" tints="0.4352942,0,1" />
+      <color name="Lavender purple" cs="RGB" tints="0.5882353,0.482353,0.7137255" />
+      <color name="Royal purple" cs="RGB" tints="0.4705883,0.3176471,0.6627451" />
+      <color name="Purple mountain majesty" cs="RGB" tints="0.5882353,0.4705883,0.7137255" />
+      <color name="Pale violet" cs="RGB" tints="0.8000001,0.6,1" />
+      <color name="Amethyst" cs="RGB" tints="0.6,0.4,0.8000001" />
+      <color name="Purple Heart" cs="RGB" tints="0.4117647,0.2078432,0.6117647" />
+      <color name="Rebecca Purple" cs="RGB" tints="0.4,0.2,0.6" />
+      <color name="Russian violet" cs="RGB" tints="0.1960784,0.09019608,0.3019608" />
+      <color name="Poison Purple" cs="RGB" tints="0.4980392,0.003921569,0.9960785" />
+      <color name="Violet (color wheel)" cs="RGB" tints="0.4980392,0,1" />
+      <color name="Blue-violet" cs="RGB" tints="0.5411765,0.1686275,0.8862746" />
+      <color name="Violet (Caran d'Ache)" cs="RGB" tints="0.4313726,0,0.7529413" />
+      <color name="Electric violet" cs="RGB" tints="0.5607843,0,1" />
+      <color name="Violet" cs="RGB" tints="0.5607843,0,1" />
+      <color name="Lavender (floral)" cs="RGB" tints="0.7098039,0.4941177,0.8627452" />
+      <color name="Indigo" cs="RGB" tints="0.2941177,0,0.509804" />
+      <color name="Mauve" cs="RGB" tints="0.8784314,0.6901961,1" />
+      <color name="Rich lavender" cs="RGB" tints="0.654902,0.4196079,0.8117648" />
+      <color name="Metallic violet" cs="RGB" tints="0.3568628,0.03921569,0.5686275" />
+      <color name="Veronica" cs="RGB" tints="0.627451,0.1254902,0.9411765" />
+      <color name="Purple (X11)" cs="RGB" tints="0.627451,0.1254902,0.9411765" />
+      <color name="Vivid violet" cs="RGB" tints="0.6235294,0,1" />
+      <color name="Languid lavender" cs="RGB" tints="0.8392158,0.7921569,0.8666667" />
+      <color name="French violet" cs="RGB" tints="0.5333334,0.02352941,0.8078432" />
+      <color name="Dark orchid" cs="RGB" tints="0.6,0.1960784,0.8000001" />
+      <color name="Wisteria" cs="RGB" tints="0.7882354,0.627451,0.8627452" />
+      <color name="Dark violet" cs="RGB" tints="0.5803922,0,0.8274511" />
+      <color name="Rich lilac" cs="RGB" tints="0.7137255,0.4,0.8235295" />
+      <color name="Eminence" cs="RGB" tints="0.4235294,0.1882353,0.509804" />
+      <color name="Glossy grape" cs="RGB" tints="0.6705883,0.572549,0.7019608" />
+      <color name="Bright lilac" cs="RGB" tints="0.8470589,0.5686275,0.937255" />
+      <color name="Electric purple" cs="RGB" tints="0.7490196,0,1" />
+      <color name="Heliotrope" cs="RGB" tints="0.8745099,0.4509804,1" />
+      <color name="Violet (RYB)" cs="RGB" tints="0.5254902,0.003921569,0.6862745" />
+      <color name="African violet" cs="RGB" tints="0.6980392,0.5176471,0.7450981" />
+      <color name="Purpureus" cs="RGB" tints="0.6039216,0.3058824,0.682353" />
+      <color name="Medium orchid" cs="RGB" tints="0.7294118,0.3333333,0.8274511" />
+      <color name="Vivid mulberry" cs="RGB" tints="0.7215686,0.04705883,0.8901961" />
+      <color name="Purple (Munsell)" cs="RGB" tints="0.6235294,0,0.7725491" />
+      <color name="Vivid orchid" cs="RGB" tints="0.8000001,0,1" />
+      <color name="English violet" cs="RGB" tints="0.3372549,0.2352941,0.3607843" />
+      <color name="Old heliotrope" cs="RGB" tints="0.3372549,0.2352941,0.3607843" />
+      <color name="French lilac" cs="RGB" tints="0.5254902,0.3764706,0.5568628" />
+      <color name="Pomp and Power" cs="RGB" tints="0.5254902,0.3764706,0.5568628" />
+      <color name="Maximum Purple" cs="RGB" tints="0.4509804,0.2,0.5019608" />
+      <color name="Rich brilliant lavender" cs="RGB" tints="0.9450981,0.654902,0.9960785" />
+      <color name="Dark raspberry" cs="RGB" tints="0.1882353,0.09803922,0.2039216" />
+      <color name="Phlox" cs="RGB" tints="0.8745099,0,1" />
+      <color name="Psychedelic purple" cs="RGB" tints="0.8745099,0,1" />
+      <color name="Pastel purple" cs="RGB" tints="0.7019608,0.6196079,0.7098039" />
+      <color name="Chinese violet" cs="RGB" tints="0.5215687,0.3764706,0.5333334" />
+      <color name="Raisin black" cs="RGB" tints="0.1411765,0.1294118,0.1411765" />
+      <color name="Thistle" cs="RGB" tints="0.8470589,0.7490196,0.8470589" />
+      <color name="Lilac" cs="RGB" tints="0.7843138,0.6352941,0.7843138" />
+      <color name="Light grayish magenta" cs="RGB" tints="0.8000001,0.6,0.8000001" />
+      <color name="Pale plum" cs="RGB" tints="0.8666667,0.627451,0.8666667" />
+      <color name="Plum (web)" cs="RGB" tints="0.8666667,0.627451,0.8666667" />
+      <color name="Medium lavender magenta" cs="RGB" tints="0.8666667,0.627451,0.8666667" />
+      <color name="Violet (web)" cs="RGB" tints="0.9333334,0.509804,0.9333334" />
+      <color name="Lavender magenta" cs="RGB" tints="0.9333334,0.509804,0.9333334" />
+      <color name="Deep mauve" cs="RGB" tints="0.8313726,0.4509804,0.8313726" />
+      <color name="French mauve" cs="RGB" tints="0.8313726,0.4509804,0.8313726" />
+      <color name="Pink flamingo" cs="RGB" tints="0.9882354,0.454902,0.9921569" />
+      <color name="Deep fuchsia" cs="RGB" tints="0.7568628,0.3294118,0.7568628" />
+      <color name="Fuchsia (Crayola)" cs="RGB" tints="0.7568628,0.3294118,0.7568628" />
+      <color name="Shocking pink (Crayola)" cs="RGB" tints="1,0.4352942,1" />
+      <color name="Ultra pink" cs="RGB" tints="1,0.4352942,1" />
+      <color name="Midnight" cs="RGB" tints="0.4392157,0.1490196,0.4392157" />
+      <color name="Steel pink" cs="RGB" tints="0.8000001,0.2,0.8000001" />
+      <color name="Patriarch" cs="RGB" tints="0.5019608,0,0.5019608" />
+      <color name="Purple (HTML)" cs="RGB" tints="0.5019608,0,0.5019608" />
+      <color name="Dark magenta" cs="RGB" tints="0.5450981,0,0.5450981" />
+      <color name="Fuchsia" cs="RGB" tints="1,0,1" />
+      <color name="Magenta" cs="RGB" tints="1,0,1" />
+      <color name="Philippine violet" cs="RGB" tints="0.5058824,0,0.4980392" />
+      <color name="Mardi Gras" cs="RGB" tints="0.5333334,0,0.5215687" />
+      <color name="Pastel violet" cs="RGB" tints="0.7960785,0.6,0.7882354" />
+      <color name="Orchid" cs="RGB" tints="0.854902,0.4392157,0.8392158" />
+      <color name="Heliotrope gray" cs="RGB" tints="0.6666667,0.5960785,0.6627451" />
+      <color name="Maximum pink" cs="RGB" tints="0.9647059,0.6470588,0.9490197" />
+      <color name="Old lavender" cs="RGB" tints="0.4745098,0.4078432,0.4705883" />
+      <color name="Light fuchsia pink" cs="RGB" tints="0.9764706,0.5176471,0.937255" />
+      <color name="Japanese violet" cs="RGB" tints="0.3568628,0.1960784,0.3372549" />
+      <color name="Medium violet" cs="RGB" tints="0.3960785,0.1921569,0.372549" />
+      <color name="Plum" cs="RGB" tints="0.5568628,0.2705882,0.5215687" />
+      <color name="Razzmic Berry" cs="RGB" tints="0.5529412,0.3058824,0.5215687" />
+      <color name="Palatinate purple" cs="RGB" tints="0.4078432,0.1568628,0.3764706" />
+      <color name="Light medium orchid" cs="RGB" tints="0.8274511,0.6078432,0.7960785" />
+      <color name="Pale pink" cs="RGB" tints="0.9764706,0.5176471,0.8980393" />
+      <color name="Lilac Luster" cs="RGB" tints="0.682353,0.5960785,0.6666667" />
+      <color name="Purple taupe" cs="RGB" tints="0.3137255,0.2509804,0.3019608" />
+      <color name="Brilliant rose" cs="RGB" tints="0.9019608,0.4039216,0.8078432" />
+      <color name="Byzantium" cs="RGB" tints="0.4392157,0.1607843,0.3882353" />
+      <color name="Byzantine" cs="RGB" tints="0.7411765,0.2,0.6431373" />
+      <color name="Maximum violet" cs="RGB" tints="0.5372549,0.1843137,0.4666667" />
+      <color name="Purple Plum" cs="RGB" tints="0.9960785,0.3058824,0.854902" />
+      <color name="Quartz" cs="RGB" tints="0.3176471,0.282353,0.3098039" />
+      <color name="Hot pink" cs="RGB" tints="1,0.1137255,0.8078432" />
+      <color name="Hot fuchsia" cs="RGB" tints="1,0,0.7764707" />
+      <color name="Orchid (Crayola)" cs="RGB" tints="0.8862746,0.6117647,0.8235295" />
+      <color name="Light orchid" cs="RGB" tints="0.9019608,0.6588235,0.8431373" />
+      <color name="Dark byzantium" cs="RGB" tints="0.3647059,0.2235294,0.3294118" />
+      <color name="Razzle Dazzle Rose" cs="RGB" tints="1,0.2,0.8000001" />
+      <color name="Shocking pink" cs="RGB" tints="0.9882354,0.05882353,0.7529413" />
+      <color name="Lavender rose" cs="RGB" tints="0.9843138,0.627451,0.8901961" />
+      <color name="Antique fuchsia" cs="RGB" tints="0.5686275,0.3607843,0.5137255" />
+      <color name="Pearly purple" cs="RGB" tints="0.7176471,0.4078432,0.6352941" />
+      <color name="Violet (crayola)" cs="RGB" tints="0.5882353,0.2392157,0.4980392" />
+      <color name="Shampoo" cs="RGB" tints="1,0.8117648,0.9450981" />
+      <color name="Berry parfait" cs="RGB" tints="0.6431373,0.2039216,0.509804" />
+      <color name="Pink lace" cs="RGB" tints="1,0.8666667,0.9568628" />
+      <color name="Opera mauve" cs="RGB" tints="0.7176471,0.5176471,0.654902" />
+      <color name="Taupe gray" cs="RGB" tints="0.5450981,0.5215687,0.5372549" />
+      <color name="Thistle (Crayola)" cs="RGB" tints="0.9215687,0.6901961,0.8431373" />
+      <color name="Sky magenta" cs="RGB" tints="0.8117648,0.4431373,0.6862745" />
+      <color name="Fandango" cs="RGB" tints="0.7098039,0.2,0.5372549" />
+      <color name="Flirt" cs="RGB" tints="0.6352941,0,0.427451" />
+      <color name="Hollywood cerise" cs="RGB" tints="0.9568628,0,0.6313726" />
+      <color name="Fashion fuchsia" cs="RGB" tints="0.9568628,0,0.6313726" />
+      <color name="Royal fuchsia" cs="RGB" tints="0.7921569,0.172549,0.572549" />
+      <color name="Frostbite" cs="RGB" tints="0.9137256,0.2117647,0.654902" />
+      <color name="Red-violet" cs="RGB" tints="0.7803922,0.08235294,0.5215687" />
+      <color name="Medium violet-red" cs="RGB" tints="0.7803922,0.08235294,0.5215687" />
+      <color name="Mountbatten pink" cs="RGB" tints="0.6,0.4784314,0.5529412" />
+      <color name="Super pink" cs="RGB" tints="0.8117648,0.4196079,0.6627451" />
+      <color name="Mulberry (Crayola)" cs="RGB" tints="0.7843138,0.3137255,0.6078432" />
+      <color name="Pink pearl" cs="RGB" tints="0.9058824,0.6745098,0.8117648" />
+      <color name="Red-violet (Crayola)" cs="RGB" tints="0.7529413,0.2666667,0.5607843" />
+      <color name="Medium red-violet" cs="RGB" tints="0.7333333,0.2,0.5215687" />
+      <color name="Middle purple" cs="RGB" tints="0.8509805,0.509804,0.7098039" />
+      <color name="Sugar plum" cs="RGB" tints="0.5686275,0.3058824,0.4588236" />
+      <color name="Maximum Red Purple" cs="RGB" tints="0.6509804,0.227451,0.4745098" />
+      <color name="Spanish purple" cs="RGB" tints="0.4,0.01176471,0.2352941" />
+      <color name="Tyrian purple" cs="RGB" tints="0.4,0.007843138,0.2352941" />
+      <color name="Persian rose" cs="RGB" tints="0.9960785,0.1568628,0.6352941" />
+      <color name="Barbie pink" cs="RGB" tints="0.8784314,0.1294118,0.5411765" />
+      <color name="Mexican pink" cs="RGB" tints="0.8941177,0,0.4862745" />
+      <color name="Mulberry" cs="RGB" tints="0.7725491,0.2941177,0.5490196" />
+      <color name="Pink (Pantone)" cs="RGB" tints="0.8431373,0.282353,0.5803922" />
+      <color name="Amaranth deep purple" cs="RGB" tints="0.6235294,0.1686275,0.4078432" />
+      <color name="Royal pink" cs="RGB" tints="0.9058824,0.2196079,0.5843138" />
+      <color name="Vivid cerise" cs="RGB" tints="0.854902,0.1137255,0.5058824" />
+      <color name="Deep pink" cs="RGB" tints="1,0.07843138,0.5764706" />
+      <color name="Jazzberry jam" cs="RGB" tints="0.6470588,0.04313726,0.3686275" />
+      <color name="Kobi" cs="RGB" tints="0.9058824,0.6235294,0.7686275" />
+      <color name="Eggplant" cs="RGB" tints="0.3803922,0.2509804,0.3176471" />
+      <color name="Twilight lavender" cs="RGB" tints="0.5411765,0.2862745,0.4196079" />
+      <color name="Persian pink" cs="RGB" tints="0.9686275,0.4980392,0.7450981" />
+      <color name="Mystic maroon" cs="RGB" tints="0.6784314,0.2627451,0.4745098" />
+      <color name="Wild Strawberry" cs="RGB" tints="1,0.2627451,0.6431373" />
+      <color name="Pansy purple" cs="RGB" tints="0.4705883,0.09411766,0.2901961" />
+      <color name="Philippine pink" cs="RGB" tints="0.9803922,0.1019608,0.5568628" />
+      <color name="Dark liver" cs="RGB" tints="0.3254902,0.2941177,0.3098039" />
+      <color name="Wild orchid" cs="RGB" tints="0.8313726,0.4392157,0.6352941" />
+      <color name="Deep cerise" cs="RGB" tints="0.854902,0.1960784,0.5294118" />
+      <color name="Dark Fuchsia" cs="RGB" tints="0.627451,0.03529412,0.3333333" />
+      <color name="Rose" cs="RGB" tints="1,0,0.4980392" />
+      <color name="Bright pink" cs="RGB" tints="1,0,0.4980392" />
+      <color name="Winter Sky" cs="RGB" tints="1,0,0.4862745" />
+      <color name="Royal red" cs="RGB" tints="0.8156863,0,0.3764706" />
+      <color name="Pastel magenta" cs="RGB" tints="0.9568628,0.6039216,0.7607844" />
+      <color name="China pink" cs="RGB" tints="0.8705883,0.4352942,0.6313726" />
+      <color name="Liseran purple" cs="RGB" tints="0.8705883,0.4352942,0.6313726" />
+      <color name="Thulian pink" cs="RGB" tints="0.8705883,0.4352942,0.6313726" />
+      <color name="Fuchsia purple" cs="RGB" tints="0.8000001,0.2235294,0.482353" />
+      <color name="Little girl pink" cs="RGB" tints="0.9725491,0.7254902,0.8313726" />
+      <color name="Cotton candy" cs="RGB" tints="1,0.7372549,0.8509805" />
+      <color name="Magenta (Pantone)" cs="RGB" tints="0.8156863,0.254902,0.4941177" />
+      <color name="Telemagenta" cs="RGB" tints="0.8117648,0.2039216,0.4627451" />
+      <color name="French fuchsia" cs="RGB" tints="0.9921569,0.2470588,0.572549" />
+      <color name="Metallic pink" cs="RGB" tints="0.9294118,0.6509804,0.7686275" />
+      <color name="Dogwood rose" cs="RGB" tints="0.8431373,0.09411766,0.4078432" />
+      <color name="Vivid raspberry" cs="RGB" tints="1,0,0.4235294" />
+      <color name="Queen pink" cs="RGB" tints="0.909804,0.8000001,0.8431373" />
+      <color name="Mimi pink" cs="RGB" tints="1,0.854902,0.9137256" />
+      <color name="Carnation pink" cs="RGB" tints="1,0.6509804,0.7882354" />
+      <color name="Old mauve" cs="RGB" tints="0.4039216,0.1921569,0.2784314" />
+      <color name="Medium ruby" cs="RGB" tints="0.6666667,0.2509804,0.4117647" />
+      <color name="Fuchsia rose" cs="RGB" tints="0.7803922,0.2627451,0.4588236" />
+      <color name="Ruby" cs="RGB" tints="0.8784314,0.06666667,0.372549" />
+      <color name="Raspberry" cs="RGB" tints="0.8901961,0.04313726,0.3647059" />
+      <color name="English lavender" cs="RGB" tints="0.7058824,0.5137255,0.5843138" />
+      <color name="Amaranth pink" cs="RGB" tints="0.9450981,0.6117647,0.7333333" />
+      <color name="Cyclamen" cs="RGB" tints="0.9607844,0.4352942,0.6313726" />
+      <color name="Quinacridone magenta" cs="RGB" tints="0.5568628,0.227451,0.3490196" />
+      <color name="Irresistible" cs="RGB" tints="0.7019608,0.2666667,0.4235294" />
+      <color name="Mystic" cs="RGB" tints="0.8392158,0.3215686,0.509804" />
+      <color name="Fandango pink" cs="RGB" tints="0.8705883,0.3215686,0.5215687" />
+      <color name="French rose" cs="RGB" tints="0.9647059,0.2901961,0.5411765" />
+      <color name="Rich maroon" cs="RGB" tints="0.6901961,0.1882353,0.3764706" />
+      <color name="Maroon (X11)" cs="RGB" tints="0.6901961,0.1882353,0.3764706" />
+      <color name="Neon pink" cs="RGB" tints="0.9960785,0.2039216,0.4941177" />
+      <color name="Pictorial carmine" cs="RGB" tints="0.764706,0.04313726,0.3058824" />
+      <color name="Razzmatazz" cs="RGB" tints="0.8901961,0.04313726,0.3607843" />
+      <color name="Nadeshiko pink" cs="RGB" tints="0.9647059,0.6784314,0.7764707" />
+      <color name="French pink" cs="RGB" tints="0.9921569,0.4235294,0.6196079" />
+      <color name="Cameo pink" cs="RGB" tints="0.937255,0.7333333,0.8000001" />
+      <color name="Charm pink" cs="RGB" tints="0.9019608,0.5607843,0.6745098" />
+      <color name="Light Thulian pink" cs="RGB" tints="0.9019608,0.5607843,0.6745098" />
+      <color name="Pale violet-red" cs="RGB" tints="0.8588236,0.4392157,0.5764706" />
+      <color name="Medium pink" cs="RGB" tints="0.9960785,0.4313726,0.6235294" />
+      <color name="Spanish carmine" cs="RGB" tints="0.8196079,0,0.2784314" />
+      <color name="Pink Diamond (Independent Retailers Colors)" cs="RGB" tints="0.9411765,0.8274511,0.8627452" />
+      <color name="Strawberry" cs="RGB" tints="0.9882354,0.3529412,0.5529412" />
+      <color name="Strawberry iced tea" cs="RGB" tints="0.9882354,0.3529412,0.5529412" />
+      <color name="Orchid pink" cs="RGB" tints="0.9490197,0.7411765,0.8039216" />
+      <color name="Tickle Me Pink" cs="RGB" tints="0.9882354,0.5372549,0.6745098" />
+      <color name="Blush" cs="RGB" tints="0.8705883,0.3647059,0.5137255" />
+      <color name="Light chocolate cosmos" cs="RGB" tints="0.3333333,0.1215686,0.1843137" />
+      <color name="Amaranth purple" cs="RGB" tints="0.6705883,0.1529412,0.3098039" />
+      <color name="Rich carmine" cs="RGB" tints="0.8431373,0,0.2509804" />
+      <color name="Piggy pink" cs="RGB" tints="0.9921569,0.8666667,0.9019608" />
+      <color name="Mauve taupe" cs="RGB" tints="0.5686275,0.372549,0.427451" />
+      <color name="Cinnamon Satin" cs="RGB" tints="0.8039216,0.3764706,0.4941177" />
+      <color name="Light crimson" cs="RGB" tints="0.9607844,0.4117647,0.5686275" />
+      <color name="Watermelon" cs="RGB" tints="0.9411765,0.3607843,0.5215687" />
+      <color name="Cerise" cs="RGB" tints="0.8705883,0.1921569,0.3882353" />
+      <color name="Claret" cs="RGB" tints="0.4980392,0.09019608,0.2039216" />
+      <color name="Rose dust" cs="RGB" tints="0.6196079,0.3686275,0.4352942" />
+      <color name="Vanilla ice" cs="RGB" tints="0.9529412,0.5607843,0.6627451" />
+      <color name="Baker-Miller pink" cs="RGB" tints="1,0.5686275,0.6862745" />
+      <color name="Schauss pink" cs="RGB" tints="1,0.5686275,0.6862745" />
+      <color name="Pink Diamond (Ace Hardware Color)" cs="RGB" tints="0.9647059,0.8392158,0.8705883" />
+      <color name="Puce" cs="RGB" tints="0.8000001,0.5333334,0.6" />
+      <color name="Big dip o?ruby" cs="RGB" tints="0.6117647,0.145098,0.2588235" />
+      <color name="Spanish crimson" cs="RGB" tints="0.8980393,0.1019608,0.2980392" />
+      <color name="Red (NCS)" cs="RGB" tints="0.7686275,0.007843138,0.2" />
+      <color name="Oxblood" cs="RGB" tints="0.5019608,0,0.1254902" />
+      <color name="Burgundy" cs="RGB" tints="0.5019608,0,0.1254902" />
+      <color name="Vivid crimson" cs="RGB" tints="0.8000001,0,0.2" />
+      <color name="Red (Munsell)" cs="RGB" tints="0.9490197,0,0.2352941" />
+      <color name="Pink Sherbet" cs="RGB" tints="0.9686275,0.5607843,0.654902" />
+      <color name="Maroon (Crayola)" cs="RGB" tints="0.764706,0.1294118,0.282353" />
+      <color name="Bright maroon" cs="RGB" tints="0.764706,0.1294118,0.282353" />
+      <color name="Crimson (UA)" cs="RGB" tints="0.6862745,0,0.1647059" />
+      <color name="Turkish rose" cs="RGB" tints="0.7098039,0.4470589,0.5058824" />
+      <color name="Paradise pink" cs="RGB" tints="0.9019608,0.2431373,0.3843138" />
+      <color name="Dingy Dungeon" cs="RGB" tints="0.7725491,0.1921569,0.3176471" />
+      <color name="Red (Crayola)" cs="RGB" tints="0.9333334,0.1254902,0.3019608" />
+      <color name="Cherry blossom pink" cs="RGB" tints="1,0.7176471,0.7725491" />
+      <color name="Mauvelous" cs="RGB" tints="0.937255,0.5960785,0.6666667" />
+      <color name="Catawba" cs="RGB" tints="0.4392157,0.2117647,0.2588235" />
+      <color name="Brink pink" cs="RGB" tints="0.9843138,0.3764706,0.4980392" />
+      <color name="Radical Red" cs="RGB" tints="1,0.2078432,0.3686275" />
+      <color name="Amaranth" cs="RGB" tints="0.8980393,0.1686275,0.3137255" />
+      <color name="Crimson" cs="RGB" tints="0.8627452,0.07843138,0.2352941" />
+      <color name="Black Shadows" cs="RGB" tints="0.7490196,0.6862745,0.6980392" />
+      <color name="Shimmering Blush" cs="RGB" tints="0.8509805,0.5254902,0.5843138" />
+      <color name="Temptress" cs="RGB" tints="0.2352941,0.1294118,0.1490196" />
+      <color name="Red-violet (Color wheel)" cs="RGB" tints="0.572549,0.1686275,0.2431373" />
+      <color name="Neon fuchsia" cs="RGB" tints="0.9960785,0.254902,0.3921569" />
+      <color name="French raspberry" cs="RGB" tints="0.7803922,0.172549,0.282353" />
+      <color name="Vivid burgundy" cs="RGB" tints="0.6235294,0.1137255,0.2078432" />
+      <color name="Pink" cs="RGB" tints="1,0.7529413,0.7960785" />
+      <color name="Salmon pink" cs="RGB" tints="1,0.5686275,0.6431373" />
+      <color name="Wild watermelon" cs="RGB" tints="0.9882354,0.4235294,0.5215687" />
+      <color name="Ultra red" cs="RGB" tints="0.9882354,0.4235294,0.5215687" />
+      <color name="Red rum" cs="RGB" tints="0.5921569,0.227451,0.2901961" />
+      <color name="Fiery rose" cs="RGB" tints="1,0.3294118,0.4392157" />
+      <color name="Antique ruby" cs="RGB" tints="0.5176471,0.1058824,0.1764706" />
+      <color name="Royal red" cs="RGB" tints="0.6078432,0.1098039,0.1921569" />
+      <color name="Cardinal" cs="RGB" tints="0.7686275,0.1176471,0.227451" />
+      <color name="Tractor red" cs="RGB" tints="0.9921569,0.05490196,0.2078432" />
+      <color name="Scarlet (Crayola)" cs="RGB" tints="0.9921569,0.05490196,0.2078432" />
+      <color name="Medium candy apple red" cs="RGB" tints="0.8862746,0.02352941,0.172549" />
+      <color name="Carmine" cs="RGB" tints="0.5882353,0,0.09411766" />
+      <color name="Spanish red" cs="RGB" tints="0.9019608,0,0.1490196" />
+      <color name="Sizzling Red" cs="RGB" tints="1,0.2196079,0.3333333" />
+      <color name="Cadmium red" cs="RGB" tints="0.8901961,0,0.1333333" />
+      <color name="Solid pink" cs="RGB" tints="0.5372549,0.2196079,0.2627451" />
+      <color name="Brick red" cs="RGB" tints="0.7960785,0.254902,0.3294118" />
+      <color name="Alizarin" cs="RGB" tints="0.8588236,0.1764706,0.2627451" />
+      <color name="Rusty red" cs="RGB" tints="0.854902,0.172549,0.2627451" />
+      <color name="Wine red" cs="RGB" tints="0.6941177,0.07058824,0.1490196" />
+      <color name="Puce red" cs="RGB" tints="0.4470589,0.1843137,0.2156863" />
+      <color name="Wine" cs="RGB" tints="0.4470589,0.1843137,0.2156863" />
+      <color name="Stop red" cs="RGB" tints="0.8117648,0.07843138,0.1686275" />
+      <color name="Philippine red" cs="RGB" tints="0.8078432,0.06666667,0.1529412" />
+      <color name="Red cola" cs="RGB" tints="0.8745099,0.003921569,0.09411766" />
+      <color name="Rocket metallic" cs="RGB" tints="0.5411765,0.4980392,0.5019608" />
+      <color name="Candy pink" cs="RGB" tints="0.8941177,0.4431373,0.4784314" />
+      <color name="Tango pink" cs="RGB" tints="0.8941177,0.4431373,0.4784314" />
+      <color name="Cordovan" cs="RGB" tints="0.5372549,0.2470588,0.2705882" />
+      <color name="Light carmine pink" cs="RGB" tints="0.9019608,0.4039216,0.4431373" />
+      <color name="Japanese carmine" cs="RGB" tints="0.6156863,0.1607843,0.2" />
+      <color name="Red Salsa" cs="RGB" tints="0.9921569,0.227451,0.2901961" />
+      <color name="Imperial red" cs="RGB" tints="0.9294118,0.1607843,0.2235294" />
+      <color name="Red (Pantone)" cs="RGB" tints="0.9294118,0.1607843,0.2235294" />
+      <color name="Lava" cs="RGB" tints="0.8117648,0.0627451,0.1254902" />
+      <color name="Deep Taupe" cs="RGB" tints="0.4941177,0.3686275,0.3764706" />
+      <color name="English red" cs="RGB" tints="0.6705883,0.2941177,0.3215686" />
+      <color name="Strawberry red" cs="RGB" tints="0.7843138,0.2470588,0.2862745" />
+      <color name="Upsdell red" cs="RGB" tints="0.682353,0.1254902,0.1607843" />
+      <color name="Venetian red" cs="RGB" tints="0.7843138,0.03137255,0.08235294" />
+      <color name="Nintendo red" cs="RGB" tints="0.8941177,0,0.05882353" />
+      <color name="Tulip" cs="RGB" tints="1,0.5294118,0.5529412" />
+      <color name="Watermelon red" cs="RGB" tints="0.7490196,0.254902,0.2784314" />
+      <color name="Fire engine red" cs="RGB" tints="0.8078432,0.1254902,0.1607843" />
+      <color name="Vivid red" cs="RGB" tints="0.9686275,0.0509804,0.1019608" />
+      <color name="Pale chestnut" cs="RGB" tints="0.8666667,0.6784314,0.6862745" />
+      <color name="English vermillion" cs="RGB" tints="0.8000001,0.2784314,0.2941177" />
+      <color name="Red (pigment)" cs="RGB" tints="0.9294118,0.1098039,0.1411765" />
+      <color name="Old rose" cs="RGB" tints="0.7529413,0.5019608,0.5058824" />
+      <color name="Bittersweet shimmer" cs="RGB" tints="0.7490196,0.3098039,0.3176471" />
+      <color name="Madder Lake" cs="RGB" tints="0.8000001,0.2,0.2117647" />
+      <color name="UP maroon" cs="RGB" tints="0.482353,0.06666667,0.07450981" />
+      <color name="Spartan Crimson" cs="RGB" tints="0.6196079,0.07450981,0.08627451" />
+      <color name="Cedar Chest" cs="RGB" tints="0.7921569,0.2039216,0.2078432" />
+      <color name="Medium red" cs="RGB" tints="0.6941177,0.01176471,0.01568628" />
+      <color name="Red strawberry" cs="RGB" tints="0.9254903,0.01176471,0.01568628" />
+    </page>
+  </colors>
+</palette>
