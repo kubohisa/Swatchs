@@ -1,10 +1,6 @@
 # Swatchs
 Free Swatchs.
 
-### COPIC322_RGB_for_GIMP.gpl
-
-2010年ごろコピック社のウェブにて配布されていたCOPICのスウォッチを規約を守りながらgplファイルへコンバートした物です。リメイク前のデータを原本としてます
-
 ### ListOfColors.gpl
 
 [List of colors (alphabetical)](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical)) を拙作のPHPプロンプトでgplファイル化した物です。いくつ色分データが抜け落ちてますが、１０００色以上分のデータはあります
@@ -29,6 +25,10 @@ Googleのマテリアル・デザインで使われるスウォッチデータ�
 
 
 # 他サイトから転載しているスウォッチ
+
+### COPIC322_RGB_for_GIMP.gpl
+
+2010年ごろコピック社のウェブにて配布されていたCOPICのスウォッチを規約を守りながらgplファイルへコンバートした物です。リメイク前のデータを原本としてます
 
 ### open-color_1.9.1.gpl
 
