@@ -21,11 +21,16 @@ Free Swatchs.
 
 Googleのマテリアル・デザインで使われるスウォッチデータをgplファイル化しました。デジタルな発想で作られた人工的なスウォッチで、見やすさなどを考慮してまとめられてます
 
-### open-color_1.9.1.gpl
-
-Open Color [github](https://yeun.github.io/open-color/) からの転載です（MITライセンス）。色覚異常な人でも見やすい配色が可能なスウォッチです
-
 ### CSS_Color.gpl
 
 ブラウザーで使われる色のデータをgplファイル化しました
+
+
+
+
+# 他サイトから転載しているスウォッチ
+
+### open-color_1.9.1.gpl
+
+Open Color [github](https://yeun.github.io/open-color/) からの転載です（MITライセンス）。色覚異常な人でも見やすい配色が可能なスウォッチです
 
