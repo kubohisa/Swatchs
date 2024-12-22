@@ -3,11 +3,11 @@ Free Swatchs.
 
 ### ListOfColors.gpl
 
-[List of colors (alphabetical)](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical)) を拙作のPHPスクリプトでgplファイル化した物です。いくつ色分データが抜け落ちてますが、１０００色以上分のデータはあります
+[List of colors (alphabetical)](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical)) を拙作のPHPスクリプトでgplファイル化した物です。１０００色以上分のデータはあります
 
 ### ListOfColorsJapan.gpl
 
-[色名一覧](https://ja.wikipedia.org/wiki/%E8%89%B2%E5%90%8D%E4%B8%80%E8%A6%A7) を拙作のPHPスクリプトでgplファイル化した物（概定版）です。７４２色分のデータはあります。抜け落ちがあるかは、あとで精査します
+[色名一覧](https://ja.wikipedia.org/wiki/%E8%89%B2%E5%90%8D%E4%B8%80%E8%A6%A7) を拙作のPHPスクリプトでgplファイル化した物です。７４２色分のデータはあります
 
 ### ColorsOfJapan.gpl
 
