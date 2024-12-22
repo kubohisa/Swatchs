@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<palette guid="52591db5-1097-4fa2-9bc9-9bf04fc6c738" name="" resid="" prefix="" locked="false">
+  <colors>
+    <page>
+      <color name="eerie black" cs="RGB" tints="0.1058824,0.1058824,0.1058824" />
+      <color name="黒" cs="RGB" tints="0.1647059,0.1647059,0.1647059" />
+      <color name="jet black" cs="RGB" tints="0.2039216,0.2039216,0.2039216" />
+      <color name="dark charcoal" cs="RGB" tints="0.2,0.2,0.2" />
+      <color name="shadow gray" cs="RGB" tints="0.2470588,0.2470588,0.2470588" />
+      <color name="davy's gray" cs="RGB" tints="0.3333333,0.3333333,0.3333333" />
+      <color name="granite gray" cs="RGB" tints="0.4039216,0.4039216,0.4039216" />
+      <color name="dim gray" cs="RGB" tints="0.4117647,0.4117647,0.4117647" />
+      <color name="spanish gray" cs="RGB" tints="0.5019608,0.5019608,0.5019608" />
+      <color name="neon gray" cs="RGB" tints="0.5019608,0.5019608,0.5019608" />
+      <color name="maroon" cs="RGB" tints="0.5019608,0,0" />
+      <color name="銀色" cs="RGB" tints="0.627451,0.627451,0.627451" />
+      <color name="silver" cs="RGB" tints="0.627451,0.627451,0.627451" />
+      <color name="白銀色 / 銀色" cs="RGB" tints="0.627451,0.627451,0.627451" />
+      <color name="quick silver" cs="RGB" tints="0.6509804,0.6509804,0.6509804" />
+      <color name="dark gray" cs="RGB" tints="0.6627451,0.6627451,0.6627451" />
+      <color name="medium gray" cs="RGB" tints="0.7450981,0.7450981,0.7450981" />
+      <color name="neon silver" cs="RGB" tints="0.8000001,0.8000001,0.8000001" />
+      <color name="light gray" cs="RGB" tints="0.8274511,0.8274511,0.8274511" />
+      <color name="gainsboro" cs="RGB" tints="0.8627452,0.8627452,0.8627452" />
+      <color name="白" cs="RGB" tints="0.9411765,0.9411765,0.9411765" />
+      <color name="red" cs="RGB" tints="0.9450981,0.3568628,0.3568628" />
+      <color name="hunting pink" cs="RGB" tints="0.9529412,0.003921569,0" />
+      <color name="white smoke" cs="RGB" tints="0.9607844,0.9607844,0.9607844" />
+      <color name="Pompeian red" cs="RGB" tints="0.5529412,0.2117647,0.2078432" />
+      <color name="geranium red" cs="RGB" tints="0.8941177,0.3372549,0.3254902" />
+      <color name="薄紅" cs="RGB" tints="0.9647059,0.5960785,0.5882353" />
+      <color name="mahogany" cs="RGB" tints="0.4117647,0.1607843,0.1529412" />
+      <color name="紅海老茶" cs="RGB" tints="0.5882353,0.2078432,0.1921569" />
+      <color name="burnt orange" cs="RGB" tints="0.7843138,0.3647059,0.3529412" />
+      <color name="tomato red" cs="RGB" tints="0.9450981,0.3568628,0.3333333" />
+      <color name="Candy apple red" cs="RGB" tints="1,0.03137255,0" />
+      <color name="cardinal / cardinal red" cs="RGB" tints="0.6941177,0.1333333,0.1019608" />
+      <color name="紅緋" cs="RGB" tints="0.937255,0.254902,0.2117647" />
+      <color name="begonia" cs="RGB" tints="0.9529412,0.4431373,0.4039216" />
+      <color name="鴇色 / 朱鷺色" cs="RGB" tints="0.9607844,0.7882354,0.7764707" />
+      <color name="pink" cs="RGB" tints="0.9725491,0.6705883,0.6509804" />
+      <color name="桜色" cs="RGB" tints="0.9960785,0.9333334,0.9294118" />
+      <color name="鳶色" cs="RGB" tints="0.5215687,0.2509804,0.227451" />
+      <color name="小豆色" cs="RGB" tints="0.5960785,0.3176471,0.2941177" />
+      <color name="深緋" cs="RGB" tints="0.7058824,0.3254902,0.2941177" />
+      <color name="紅樺色" cs="RGB" tints="0.7058824,0.3254902,0.2941177" />
+      <color name="潤朱" cs="RGB" tints="0.8431373,0.372549,0.3333333" />
+      <color name="shrimp pink" cs="RGB" tints="0.9647059,0.5921569,0.5607843" />
+      <color name="coral red" cs="RGB" tints="0.9725491,0.654902,0.627451" />
+      <color name="珊瑚色" cs="RGB" tints="0.9725491,0.654902,0.627451" />
+      <color name="退紅 / 褪紅" cs="RGB" tints="0.8862746,0.682353,0.6588235" />
+      <color name="朱華色 / 唐棣色" cs="RGB" tints="0.9803922,0.7803922,0.7568628" />
+      <color name="scarlet" cs="RGB" tints="0.9450981,0.3568628,0.2784314" />
+      <color name="鉛丹色" cs="RGB" tints="0.9019608,0.4196079,0.345098" />
+      <color name="海老茶 / 葡萄茶" cs="RGB" tints="0.4862745,0.2509804,0.2117647" />
+      <color name="緋色" cs="RGB" tints="0.854902,0.3215686,0.227451" />
+      <color name="浅緋" cs="RGB" tints="0.8705883,0.4862745,0.4196079" />
+      <color name="flesh pink" cs="RGB" tints="0.8901961,0.7568628,0.7333333" />
+      <color name="bronze red" cs="RGB" tints="0.937255,0.254902,0.1372549" />
+      <color name="金赤" cs="RGB" tints="0.937255,0.254902,0.1372549" />
+      <color name="fire red" cs="RGB" tints="0.9450981,0.3568628,0.2509804" />
+      <color name="flamingo" cs="RGB" tints="0.9607844,0.5568628,0.4901961" />
+      <color name="lamp black" cs="RGB" tints="0.1333333,0.09411766,0.08627451" />
+      <color name="灰赤" cs="RGB" tints="0.5019608,0.4235294,0.4078432" />
+      <color name="真赭 / 真朱" cs="RGB" tints="0.8745099,0.5529412,0.4901961" />
+      <color name="vermilion / vermillion" cs="RGB" tints="0.9490197,0.4,0.2862745" />
+      <color name="vermilion / vermillion" cs="RGB" tints="0.9490197,0.4,0.2862745" />
+      <color name="銀朱" cs="RGB" tints="0.9490197,0.4,0.2862745" />
+      <color name="百塩茶" cs="RGB" tints="0.3294118,0.1764706,0.1411765" />
+      <color name="羊羹色" cs="RGB" tints="0.3294118,0.1764706,0.1411765" />
+      <color name="紅殻色" cs="RGB" tints="0.5372549,0.1843137,0.1058824" />
+      <color name="弁柄色 / 紅殻色" cs="RGB" tints="0.5372549,0.1843137,0.1058824" />
+      <color name="terracotta" cs="RGB" tints="0.7137255,0.4,0.3333333" />
+      <color name="丹" cs="RGB" tints="0.9529412,0.4392157,0.3254902" />
+      <color name="丹 / 丹色" cs="RGB" tints="0.9529412,0.4392157,0.3254902" />
+      <color name="錆色" cs="RGB" tints="0.4156863,0.2039216,0.1529412" />
+      <color name="鉄錆色" cs="RGB" tints="0.4156863,0.2039216,0.1529412" />
+      <color name="赤錆色" cs="RGB" tints="0.5176471,0.2,0.1215686" />
+      <color name="栗梅" cs="RGB" tints="0.5333334,0.2313726,0.1568628" />
+      <color name="樺色" cs="RGB" tints="0.682353,0.3137255,0.2235294" />
+      <color name="蒲色" cs="RGB" tints="0.682353,0.3137255,0.2235294" />
+      <color name="煉瓦色" cs="RGB" tints="0.682353,0.3137255,0.2235294" />
+      <color name="赤茶" cs="RGB" tints="0.7058824,0.3254902,0.2352941" />
+      <color name="檜皮色 / 桧皮色" cs="RGB" tints="0.5607843,0.2941177,0.2196079" />
+      <color name="burnt sienna" cs="RGB" tints="0.6705883,0.3215686,0.2235294" />
+      <color name="赭 / 朱 / 赭土" cs="RGB" tints="0.8313726,0.4470589,0.345098" />
+      <color name="肉桂色" cs="RGB" tints="0.854902,0.4627451,0.3568628" />
+      <color name="洗朱" cs="RGB" tints="0.8862746,0.4784314,0.3686275" />
+      <color name="柿色" cs="RGB" tints="0.9529412,0.4392157,0.2941177" />
+      <color name="Coquelicot" cs="RGB" tints="1,0.2196079,0" />
+      <color name="chocolate / chocolate brown" cs="RGB" tints="0.3764706,0.1764706,0.1137255" />
+      <color name="赤褐色" cs="RGB" tints="0.4862745,0.2509804,0.1803922" />
+      <color name="cocoa brown" cs="RGB" tints="0.5294118,0.3372549,0.2784314" />
+      <color name="Indian red / 印度赤" cs="RGB" tints="0.9647059,0.5882353,0.4745098" />
+      <color name="黄丹" cs="RGB" tints="0.9568628,0.4784314,0.3333333" />
+      <color name="鉄黒" cs="RGB" tints="0.1568628,0.09803922,0.07843138" />
+      <color name="煤竹色" cs="RGB" tints="0.4078432,0.3019608,0.2666667" />
+      <color name="柿茶" cs="RGB" tints="0.7058824,0.3254902,0.1960784" />
+      <color name="一斤染" cs="RGB" tints="0.9764706,0.682353,0.5803922" />
+      <color name="曙色" cs="RGB" tints="0.9764706,0.6666667,0.5607843" />
+      <color name="東雲色" cs="RGB" tints="0.9764706,0.6666667,0.5607843" />
+      <color name="焦茶" cs="RGB" tints="0.4196079,0.2862745,0.2392157" />
+      <color name="cinnabar" cs="RGB" tints="0.882353,0.3529412,0.1568628" />
+      <color name="赤橙" cs="RGB" tints="0.9450981,0.3529412,0.1333333" />
+      <color name="Chinese red" cs="RGB" tints="0.9568628,0.4784314,0.3019608" />
+      <color name="orange red" cs="RGB" tints="1,0.2705882,0" />
+      <color name="Van Dyck brown" cs="RGB" tints="0.5647059,0.3411765,0.2509804" />
+      <color name="Vandyke brown / Van Dyck brown" cs="RGB" tints="0.5647059,0.3411765,0.2509804" />
+      <color name="渋紙色" cs="RGB" tints="0.5647059,0.3411765,0.2509804" />
+      <color name="茶褐色" cs="RGB" tints="0.5568628,0.2431373,0.1215686" />
+      <color name="樺茶 / 蒲茶" cs="RGB" tints="0.6,0.3647059,0.2745098" />
+      <color name="土器色" cs="RGB" tints="0.7176471,0.4392157,0.3333333" />
+      <color name="carrot orange" cs="RGB" tints="0.8666667,0.4196079,0.2392157" />
+      <color name="代赭 / 代赭色" cs="RGB" tints="0.7058824,0.3254902,0.1647059" />
+      <color name="salmon pink" cs="RGB" tints="0.9333334,0.4745098,0.282353" />
+      <color name="人参色" cs="RGB" tints="0.9568628,0.4784314,0.2666667" />
+      <color name="baby pink" cs="RGB" tints="0.9960785,0.8901961,0.8431373" />
+      <color name="栗色" cs="RGB" tints="0.4470589,0.1843137,0.0627451" />
+      <color name="丁子茶" cs="RGB" tints="0.5647059,0.3490196,0.2470588" />
+      <color name="枯茶 / 唐茶" cs="RGB" tints="0.5647059,0.3372549,0.2352941" />
+      <color name="henna" cs="RGB" tints="0.5921569,0.2666667,0.1137255" />
+      <color name="団十郎茶" cs="RGB" tints="0.6,0.3647059,0.254902" />
+      <color name="焦香" cs="RGB" tints="0.7019608,0.427451,0.3019608" />
+      <color name="駱駝色" cs="RGB" tints="0.7176471,0.4392157,0.3098039" />
+      <color name="纁 / 蘇比 / 素緋 / 纁色" cs="RGB" tints="0.8941177,0.5450981,0.3882353" />
+      <color name="灰桜" cs="RGB" tints="0.9019608,0.8235295,0.7882354" />
+      <color name="international orange" cs="RGB" tints="1,0.3098039,0" />
+      <color name="赤銅色" cs="RGB" tints="0.482353,0.1568628,0" />
+      <color name="coffee brown" cs="RGB" tints="0.4901961,0.2901961,0.1921569" />
+      <color name="茶色" cs="RGB" tints="0.5254902,0.2901961,0.1686275" />
+      <color name="黄櫨色 / 櫨色" cs="RGB" tints="0.7058824,0.454902,0.3294118" />
+      <color name="shell pink" cs="RGB" tints="0.9921569,0.8666667,0.8039216" />
+      <color name="mystic red" cs="RGB" tints="1,0.3333333,0" />
+      <color name="brown" cs="RGB" tints="0.5294118,0.3607843,0.2666667" />
+      <color name="灰茶" cs="RGB" tints="0.5647059,0.3607843,0.2509804" />
+      <color name="yellow red" cs="RGB" tints="0.9529412,0.4235294,0.1294118" />
+      <color name="黄赤" cs="RGB" tints="0.9529412,0.4235294,0.1294118" />
+      <color name="黒茶" cs="RGB" tints="0.2941177,0.1764706,0.1098039" />
+      <color name="赤朽葉" cs="RGB" tints="0.8627452,0.5215687,0.3176471" />
+      <color name="nail pink" cs="RGB" tints="0.9921569,0.854902,0.7725491" />
+      <color name="洗柿" cs="RGB" tints="0.9921569,0.8235295,0.7254902" />
+      <color name="胡桃色" cs="RGB" tints="0.7176471,0.4352942,0.2627451" />
+      <color name="梅染" cs="RGB" tints="0.7254902,0.4941177,0.3529412" />
+      <color name="raw sienna" cs="RGB" tints="0.8352942,0.4784314,0.2392157" />
+      <color name="黄枯茶 / 黄唐茶" cs="RGB" tints="0.4941177,0.3294118,0.2078432" />
+      <color name="russet / russet brown" cs="RGB" tints="0.5921569,0.2666667,0.02745098" />
+      <color name="茶鼠" cs="RGB" tints="0.6156863,0.5647059,0.5294118" />
+      <color name="土色" cs="RGB" tints="0.7058824,0.4431373,0.2588235" />
+      <color name="琥珀色" cs="RGB" tints="0.7176471,0.4352942,0.2313726" />
+      <color name="amber" cs="RGB" tints="0.7254902,0.4941177,0.3294118" />
+      <color name="江戸茶" cs="RGB" tints="0.764706,0.5215687,0.3490196" />
+      <color name="小麦色" cs="RGB" tints="0.882353,0.5882353,0.3803922" />
+      <color name="apricot" cs="RGB" tints="0.9803922,0.6980392,0.5019608" />
+      <color name="褐色" cs="RGB" tints="0.5176471,0.2235294,0" />
+      <color name="煙草色" cs="RGB" tints="0.5686275,0.3843138,0.2470588" />
+      <color name="fawn" cs="RGB" tints="0.5764706,0.482353,0.4117647" />
+      <color name="tan" cs="RGB" tints="0.7215686,0.4627451,0.2666667" />
+      <color name="黄茶" cs="RGB" tints="0.7333333,0.3921569,0.1294118" />
+      <color name="宍色 / 肉色" cs="RGB" tints="0.9450981,0.7333333,0.5764706" />
+      <color name="赤香" cs="RGB" tints="0.9843138,0.7411765,0.5568628" />
+      <color name="杏色 / 杏子色" cs="RGB" tints="0.9803922,0.6980392,0.482353" />
+      <color name="peach" cs="RGB" tints="0.9921569,0.8196079,0.6901961" />
+      <color name="pêche" cs="RGB" tints="0.9921569,0.8196079,0.6901961" />
+      <color name="hazel brown" cs="RGB" tints="0.7254902,0.4941177,0.3019608" />
+      <color name="丁子色" cs="RGB" tints="0.7254902,0.4941177,0.3019608" />
+      <color name="伽羅色" cs="RGB" tints="0.8941177,0.6705883,0.482353" />
+      <color name="burnt umber" cs="RGB" tints="0.4627451,0.3411765,0.2352941" />
+      <color name="cork" cs="RGB" tints="0.7294118,0.5529412,0.3960785" />
+      <color name="芝翫茶" cs="RGB" tints="0.7294118,0.5529412,0.3960785" />
+      <color name="薄茶" cs="RGB" tints="0.7725491,0.5843138,0.4196079" />
+      <color name="pale brown" cs="RGB" tints="0.7725491,0.5843138,0.4196079" />
+      <color name="orange / オレンジ色" cs="RGB" tints="0.9607844,0.509804,0.1254902" />
+      <color name="橙色" cs="RGB" tints="0.9607844,0.509804,0.1254902" />
+      <color name="safety orange" cs="RGB" tints="1,0.4745098,0" />
+      <color name="sepia / セピア色" cs="RGB" tints="0.4196079,0.2901961,0.1686275" />
+      <color name="chestnut / chestnut brown" cs="RGB" tints="0.4156863,0.2,0" />
+      <color name="pumpkin" cs="RGB" tints="0.8862746,0.6,0.3372549" />
+      <color name="flesh" cs="RGB" tints="1,0.9019608,0.8078432" />
+      <color name="pale orange" cs="RGB" tints="1,0.9019608,0.8078432" />
+      <color name="薄橙" cs="RGB" tints="0.9960785,0.8627452,0.7411765" />
+      <color name="肌色" cs="RGB" tints="0.9960785,0.8627452,0.7411765" />
+      <color name="肉色" cs="RGB" tints="0.9960785,0.8627452,0.7411765" />
+      <color name="medium brown" cs="RGB" tints="0.5019608,0.2509804,0" />
+      <color name="bronze" cs="RGB" tints="0.6039216,0.3843138,0.1607843" />
+      <color name="青銅色" cs="RGB" tints="0.6039216,0.3843138,0.1607843" />
+      <color name="camel" cs="RGB" tints="0.7333333,0.5529412,0.372549" />
+      <color name="狐色" cs="RGB" tints="0.7607844,0.4588236,0.1490196" />
+      <color name="蜜柑色" cs="RGB" tints="0.9647059,0.5450981,0.1215686" />
+      <color name="柑子色" cs="RGB" tints="0.9803922,0.654902,0.3333333" />
+      <color name="柑子色" cs="RGB" tints="0.9803922,0.654902,0.3333333" />
+      <color name="rose gray" cs="RGB" tints="0.5803922,0.5294118,0.4745098" />
+      <color name="cinnamon" cs="RGB" tints="0.6784314,0.4078432,0.1254902" />
+      <color name="golden olive" cs="RGB" tints="0.6980392,0.4666667,0.2156863" />
+      <color name="marigold" cs="RGB" tints="0.9686275,0.5803922,0.1568628" />
+      <color name="golden yellow" cs="RGB" tints="0.9843138,0.6941177,0.3803922" />
+      <color name="萱草色" cs="RGB" tints="0.9882354,0.7333333,0.4627451" />
+      <color name="萱草色" cs="RGB" tints="0.9882354,0.7333333,0.4627451" />
+      <color name="黄橡" cs="RGB" tints="0.7333333,0.5490196,0.345098" />
+      <color name="黄土色" cs="RGB" tints="0.7294118,0.5176471,0.282353" />
+      <color name="biscuit" cs="RGB" tints="0.7372549,0.6117647,0.4705883" />
+      <color name="champagne" cs="RGB" tints="0.9019608,0.7450981,0.5686275" />
+      <color name="朽葉 / 朽葉色" cs="RGB" tints="0.5372549,0.4156863,0.2705882" />
+      <color name="桑茶" cs="RGB" tints="0.6862745,0.4627451,0.1960784" />
+      <color name="黄褐色" cs="RGB" tints="0.7764707,0.6196079,0.4313726" />
+      <color name="buff" cs="RGB" tints="0.7764707,0.6196079,0.4313726" />
+      <color name="金茶" cs="RGB" tints="0.8784314,0.5254902,0.1019608" />
+      <color name="dark orange" cs="RGB" tints="1,0.5490196,0" />
+      <color name="topaz" cs="RGB" tints="0.8039216,0.509804,0.1215686" />
+      <color name="涅色" cs="RGB" tints="0.3843138,0.2784314,0.1333333" />
+      <color name="Khaki" cs="RGB" tints="0.6941177,0.5450981,0.3333333" />
+      <color name="砥粉色" cs="RGB" tints="0.8901961,0.764706,0.5843138" />
+      <color name="Indian yellow" cs="RGB" tints="0.8901961,0.6588235,0.3411765" />
+      <color name="飴色" cs="RGB" tints="0.8980393,0.7019608,0.4313726" />
+      <color name="mandarin orange" cs="RGB" tints="0.9294118,0.6196079,0.1921569" />
+      <color name="écru / ecru beige" cs="RGB" tints="0.9568628,0.8784314,0.7686275" />
+      <color name="香色" cs="RGB" tints="0.8196079,0.6745098,0.4627451" />
+      <color name="枯色 / 枯草色" cs="RGB" tints="0.9058824,0.7764707,0.5803922" />
+      <color name="雄黄" cs="RGB" tints="1,0.854902,0.6352941" />
+      <color name="憲法色" cs="RGB" tints="0.3411765,0.2745098,0.1686275" />
+      <color name="raw umber" cs="RGB" tints="0.5372549,0.3960785,0.1686275" />
+      <color name="空五倍子色" cs="RGB" tints="0.5803922,0.5019608,0.3764706" />
+      <color name="金色" cs="RGB" tints="0.7843138,0.5254902,0.1215686" />
+      <color name="gold" cs="RGB" tints="0.7843138,0.5254902,0.1215686" />
+      <color name="黄金色" cs="RGB" tints="0.7843138,0.5254902,0.1215686" />
+      <color name="金色" cs="RGB" tints="0.7843138,0.5254902,0.1215686" />
+      <color name="橙黄色" cs="RGB" tints="0.9843138,0.6901961,0.2039216" />
+      <color name="orange peel" cs="RGB" tints="1,0.6235294,0" />
+      <color name="yellow ocher" cs="RGB" tints="0.7333333,0.5450981,0.2196079" />
+      <color name="ocher" cs="RGB" tints="0.7333333,0.5450981,0.2196079" />
+      <color name="beige" cs="RGB" tints="0.9058824,0.8156863,0.6627451" />
+      <color name="卵色 / 玉子色" cs="RGB" tints="1,0.8078432,0.482353" />
+      <color name="黄櫨染" cs="RGB" tints="0.5058824,0.3843138,0.1607843" />
+      <color name="桑染" cs="RGB" tints="0.654902,0.5372549,0.3215686" />
+      <color name="薄香" cs="RGB" tints="0.9490197,0.8745099,0.7333333" />
+      <color name="off white" cs="RGB" tints="1,0.9764706,0.9333334" />
+      <color name="黄鉛" cs="RGB" tints="1,0.654902,0" />
+      <color name="生壁色" cs="RGB" tints="0.5803922,0.509804,0.3647059" />
+      <color name="mustard" cs="RGB" tints="0.654902,0.5372549,0.2941177" />
+      <color name="亜麻色" cs="RGB" tints="0.909804,0.854902,0.7450981" />
+      <color name="鬱金色" cs="RGB" tints="0.9921569,0.7254902,0.2" />
+      <color name="黄橙" cs="RGB" tints="0.9882354,0.6862745,0.09019608" />
+      <color name="山吹色" cs="RGB" tints="0.9882354,0.6862745,0.09019608" />
+      <color name="薄卵色" cs="RGB" tints="1,0.937255,0.8117648" />
+      <color name="木蘭 / 木蘭色" cs="RGB" tints="0.7803922,0.6352941,0.3215686" />
+      <color name="蘭茶" cs="RGB" tints="0.7803922,0.6352941,0.3215686" />
+      <color name="蜂蜜色" cs="RGB" tints="0.9058824,0.7333333,0.3686275" />
+      <color name="honey" cs="RGB" tints="0.9058824,0.7333333,0.3686275" />
+      <color name="blond, blonde" cs="RGB" tints="0.9529412,0.8196079,0.5411765" />
+      <color name="鶯茶" cs="RGB" tints="0.427451,0.345098,0.1490196" />
+      <color name="国防色" cs="RGB" tints="0.5019608,0.4078432,0.1882353" />
+      <color name="路考茶" cs="RGB" tints="0.5411765,0.4392157,0.2078432" />
+      <color name="灰汁色" cs="RGB" tints="0.5803922,0.5215687,0.3843138" />
+      <color name="straw / straw yellow" cs="RGB" tints="0.909804,0.7686275,0.4509804" />
+      <color name="玉蜀黍色" cs="RGB" tints="0.9333334,0.764706,0.3843138" />
+      <color name="練色" cs="RGB" tints="1,0.9568628,0.8588236" />
+      <color name="Naples yellow" cs="RGB" tints="1,0.8196079,0.4039216" />
+      <color name="sand / sand beige" cs="RGB" tints="0.8274511,0.7764707,0.6509804" />
+      <color name="砂色" cs="RGB" tints="0.8274511,0.7764707,0.6509804" />
+      <color name="bamboo" cs="RGB" tints="0.8941177,0.7529413,0.4078432" />
+      <color name="jasmine" cs="RGB" tints="0.9215687,0.7882354,0.4627451" />
+      <color name="leghorn" cs="RGB" tints="1,0.909804,0.6862745" />
+      <color name="雌黄" cs="RGB" tints="1,0.8000001,0.3058824" />
+      <color name="藤黄" cs="RGB" tints="1,0.8000001,0.3058824" />
+      <color name="油色" cs="RGB" tints="0.6627451,0.5882353,0.3882353" />
+      <color name="ivory / ivory white" cs="RGB" tints="0.9529412,0.9254903,0.8470589" />
+      <color name="象牙色" cs="RGB" tints="0.9529412,0.9254903,0.8470589" />
+      <color name="支子色 / 梔子色" cs="RGB" tints="1,0.8431373,0.4078432" />
+      <color name="maize" cs="RGB" tints="1,0.8431373,0.4078432" />
+      <color name="saffron yellow / サフラン色" cs="RGB" tints="1,0.8000001,0.2509804" />
+      <color name="selective yellow" cs="RGB" tints="1,0.7294118,0" />
+      <color name="芥子色 / 辛子色" cs="RGB" tints="0.7882354,0.6705883,0.3254902" />
+      <color name="鳥の子色" cs="RGB" tints="1,0.9647059,0.8627452" />
+      <color name="浅黄 / 浅黄色" cs="RGB" tints="1,0.8000001,0.2" />
+      <color name="向日葵色" cs="RGB" tints="1,0.7607844,0.05490196" />
+      <color name="Mikado Yellow" cs="RGB" tints="1,0.7686275,0.04705883" />
+      <color name="fluorescent orange" cs="RGB" tints="1,0.7490196,0" />
+      <color name="cadmium yellow" cs="RGB" tints="0.9803922,0.7764707,0.1176471" />
+      <color name="cream yellow / クリーム色" cs="RGB" tints="1,0.9294118,0.7019608" />
+      <color name="赤黄" cs="RGB" tints="1,0.7843138,0" />
+      <color name="olive drab" cs="RGB" tints="0.4313726,0.3882353,0.2235294" />
+      <color name="chrome yellow" cs="RGB" tints="1,0.7960785,0.01960784" />
+      <color name="dark yellow" cs="RGB" tints="1,0.8000001,0" />
+      <color name="olive / オリーブ色" cs="RGB" tints="0.427451,0.372549,0.1019608" />
+      <color name="利休茶" cs="RGB" tints="0.4666667,0.427451,0.227451" />
+      <color name="胡粉色" cs="RGB" tints="1,0.9960785,0.9764706" />
+      <color name="淡黄色" cs="RGB" tints="1,0.9450981,0.6705883" />
+      <color name="黄 / 黄色" cs="RGB" tints="1,0.8313726,0" />
+      <color name="蒲公英色" cs="RGB" tints="1,0.8313726,0" />
+      <color name="媚茶" cs="RGB" tints="0.4313726,0.4039216,0.2470588" />
+      <color name="璃寛茶" cs="RGB" tints="0.4313726,0.4,0.2117647" />
+      <color name="鶸茶" cs="RGB" tints="0.5843138,0.5490196,0.3490196" />
+      <color name="蒸栗色" cs="RGB" tints="0.9215687,0.882353,0.6627451" />
+      <color name="苅安色" cs="RGB" tints="0.9411765,0.8627452,0.4392157" />
+      <color name="yellow" cs="RGB" tints="1,0.8470589,0" />
+      <color name="jaune brillant" cs="RGB" tints="1,0.8470589,0" />
+      <color name="milky white / ミルク色" cs="RGB" tints="1,0.9960785,0.9647059" />
+      <color name="乳白色" cs="RGB" tints="1,0.9960785,0.9647059" />
+      <color name="canary yellow / 金糸雀色 / 金絲雀色" cs="RGB" tints="1,0.937255,0.4235294" />
+      <color name="菜の花色" cs="RGB" tints="1,0.9254903,0.3137255" />
+      <color name="硫黄色" cs="RGB" tints="0.9450981,0.8862746,0.4" />
+      <color name="sulfur yellow" cs="RGB" tints="0.9450981,0.8862746,0.4" />
+      <color name="中黄" cs="RGB" tints="1,0.8980393,0" />
+      <color name="生成色" cs="RGB" tints="0.9647059,0.9607844,0.9176471" />
+      <color name="黄蘗色" cs="RGB" tints="0.9882354,0.9450981,0.4313726" />
+      <color name="chartreuse yellow" cs="RGB" tints="0.9882354,0.9450981,0.4313726" />
+      <color name="pearl white" cs="RGB" tints="1,0.9960785,0.9490197" />
+      <color name="真珠色" cs="RGB" tints="1,0.9960785,0.9490197" />
+      <color name="middle yellow" cs="RGB" tints="1,0.9215687,0" />
+      <color name="海松色 / 水松色" cs="RGB" tints="0.4313726,0.4196079,0.254902" />
+      <color name="根岸色" cs="RGB" tints="0.4313726,0.4156863,0.2156863" />
+      <color name="威光茶" cs="RGB" tints="0.7294118,0.7058824,0.3294118" />
+      <color name="柳茶" cs="RGB" tints="0.7294118,0.7058824,0.3294118" />
+      <color name="青黄" cs="RGB" tints="0.9568628,0.8980393,0.06666667" />
+      <color name="lemon yellow / 檸檬色" cs="RGB" tints="1,0.9568628,0.3137255" />
+      <color name="鶯色" cs="RGB" tints="0.5686275,0.5529412,0.2509804" />
+      <color name="鶸色" cs="RGB" tints="0.7960785,0.7725491,0.2784314" />
+      <color name="御召茶" cs="RGB" tints="0.5176471,0.5176471,0.3333333" />
+      <color name="pearl gray" cs="RGB" tints="0.7411765,0.7411765,0.7176471" />
+      <color name="white" cs="RGB" tints="1,1,0.9843138" />
+      <color name="藍海松茶" cs="RGB" tints="0.3607843,0.3647059,0.1921569" />
+      <color name="信楽利休" cs="RGB" tints="0.427451,0.4352942,0.2431373" />
+      <color name="抹茶色" cs="RGB" tints="0.7176471,0.7294118,0.4196079" />
+      <color name="parchment" cs="RGB" tints="0.8862746,0.8901961,0.7960785" />
+      <color name="利休白茶" cs="RGB" tints="0.8000001,0.8117648,0.6039216" />
+      <color name="ebony" cs="RGB" tints="0.2784314,0.2862745,0.1921569" />
+      <color name="duck green" cs="RGB" tints="0.5960785,0.6196079,0.345098" />
+      <color name="蓬色" cs="RGB" tints="0.3803922,0.4196079,0.02745098" />
+      <color name="青白橡" cs="RGB" tints="0.5137255,0.5254902,0.4235294" />
+      <color name="山鳩色" cs="RGB" tints="0.5137255,0.5254902,0.4235294" />
+      <color name="moss gray" cs="RGB" tints="0.5607843,0.5686275,0.4980392" />
+      <color name="chartreuse green" cs="RGB" tints="0.8274511,0.882353,0.4509804" />
+      <color name="chartreuse" cs="RGB" tints="0.8274511,0.882353,0.4509804" />
+      <color name="若草色" cs="RGB" tints="0.764706,0.8509805,0.254902" />
+      <color name="olive green" cs="RGB" tints="0.3411765,0.3803922,0.1568628" />
+      <color name="利休色" cs="RGB" tints="0.4,0.4431373,0.2156863" />
+      <color name="麹塵" cs="RGB" tints="0.4901961,0.5137255,0.3803922" />
+      <color name="青丹" cs="RGB" tints="0.4745098,0.5215687,0.2627451" />
+      <color name="oyster white" cs="RGB" tints="0.9294118,0.9411765,0.8784314" />
+      <color name="牡蠣色" cs="RGB" tints="0.9294118,0.9411765,0.8784314" />
+      <color name="生牡蠣色" cs="RGB" tints="0.9294118,0.9411765,0.8784314" />
+      <color name="yellow green" cs="RGB" tints="0.6980392,0.8235295,0.2078432" />
+      <color name="黄緑色" cs="RGB" tints="0.6980392,0.8235295,0.2078432" />
+      <color name="黄緑" cs="RGB" tints="0.6980392,0.8235295,0.2078432" />
+      <color name="fluorescent orange" cs="RGB" tints="0.8000001,1,0" />
+      <color name="elm green" cs="RGB" tints="0.4784314,0.5647059,0.2431373" />
+      <color name="仙斎茶 / 千歳茶" cs="RGB" tints="0.2666667,0.3058824,0.1686275" />
+      <color name="利休生壁" cs="RGB" tints="0.3333333,0.3686275,0.2627451" />
+      <color name="苗色" cs="RGB" tints="0.6862745,0.7843138,0.4901961" />
+      <color name="萌黄 / 萌黄色 / 萌木色" cs="RGB" tints="0.6627451,0.8196079,0.3490196" />
+      <color name="草色" cs="RGB" tints="0.427451,0.5137255,0.2745098" />
+      <color name="grass green" cs="RGB" tints="0.427451,0.5137255,0.2745098" />
+      <color name="苔色" cs="RGB" tints="0.3882353,0.509804,0.1764706" />
+      <color name="moss green" cs="RGB" tints="0.3568628,0.4352942,0.227451" />
+      <color name="柳色" cs="RGB" tints="0.6784314,0.7921569,0.5019608" />
+      <color name="leaf green" cs="RGB" tints="0.5686275,0.7294118,0.345098" />
+      <color name="pea green" cs="RGB" tints="0.5372549,0.6392157,0.4078432" />
+      <color name="若葉色" cs="RGB" tints="0.6705883,0.7843138,0.5450981" />
+      <color name="ash grey" cs="RGB" tints="0.5803922,0.5843138,0.5764706" />
+      <color name="chartreuse" cs="RGB" tints="0.5019608,1,0" />
+      <color name="裏葉柳" cs="RGB" tints="0.8274511,0.909804,0.7568628" />
+      <color name="松葉色 / 松の葉色" cs="RGB" tints="0.454902,0.5647059,0.3647059" />
+      <color name="pistacho green" cs="RGB" tints="0.7058824,0.8117648,0.6196079" />
+      <color name="海緑色" cs="RGB" tints="0.5411765,0.7803922,0.3529412" />
+      <color name="sea green" cs="RGB" tints="0.5411765,0.7803922,0.3529412" />
+      <color name="黄草色" cs="RGB" tints="0.3411765,0.4470589,0.2666667" />
+      <color name="山葵色" cs="RGB" tints="0.6509804,0.7803922,0.5568628" />
+      <color name="celadon" cs="RGB" tints="0.7725491,0.8392158,0.7254902" />
+      <color name="老竹色" cs="RGB" tints="0.4627451,0.5686275,0.3921569" />
+      <color name="bright green" cs="RGB" tints="0.4,1,0" />
+      <color name="sage green" cs="RGB" tints="0.5333334,0.6431373,0.4627451" />
+      <color name="藍利休" cs="RGB" tints="0.3294118,0.454902,0.2627451" />
+      <color name="利休藍" cs="RGB" tints="0.3294118,0.454902,0.2627451" />
+      <color name="薄緑 / 淡緑" cs="RGB" tints="0.8078432,0.9019608,0.7568628" />
+      <color name="淡緑色" cs="RGB" tints="0.8078432,0.9019608,0.7568628" />
+      <color name="lime / lime green" cs="RGB" tints="0.3529412,1,0.09803922" />
+      <color name="深川鼠" cs="RGB" tints="0.5921569,0.654902,0.5686275" />
+      <color name="Harlequin" cs="RGB" tints="0.2470588,1,0" />
+      <color name="ivy green" cs="RGB" tints="0.282353,0.4862745,0.2196079" />
+      <color name="白緑" cs="RGB" tints="0.8039216,0.9019608,0.7803922" />
+      <color name="apple green" cs="RGB" tints="0.5882353,0.7803922,0.5490196" />
+      <color name="若緑" cs="RGB" tints="0.6156863,0.8235295,0.6117647" />
+      <color name="濡烏" cs="RGB" tints="0,0.04313726,0" />
+      <color name="濡羽色" cs="RGB" tints="0,0.04313726,0" />
+      <color name="黒橡" cs="RGB" tints="0.1568628,0.1607843,0.1568628" />
+      <color name="緑" cs="RGB" tints="0,0.5019608,0" />
+      <color name="浅緑" cs="RGB" tints="0.5176471,0.7882354,0.5450981" />
+      <color name="mint green" cs="RGB" tints="0.5647059,0.8078432,0.6117647" />
+      <color name="灰緑" cs="RGB" tints="0.3568628,0.5019608,0.3882353" />
+      <color name="灰緑色" cs="RGB" tints="0.3568628,0.5019608,0.3882353" />
+      <color name="almond green" cs="RGB" tints="0.3647059,0.5058824,0.3960785" />
+      <color name="利休鼠" cs="RGB" tints="0.3294118,0.454902,0.3607843" />
+      <color name="薄青" cs="RGB" tints="0.5764706,0.7137255,0.6117647" />
+      <color name="erin" cs="RGB" tints="0,1,0.2509804" />
+      <color name="ice green" cs="RGB" tints="0.8000001,0.9058824,0.8274511" />
+      <color name="evergreen" cs="RGB" tints="0.1882353,0.345098,0.2313726" />
+      <color name="opal green / オパール色" cs="RGB" tints="0.7058824,0.8666667,0.7529413" />
+      <color name="緑青色" cs="RGB" tints="0.2784314,0.5176471,0.3686275" />
+      <color name="緑青色" cs="RGB" tints="0.2784314,0.5176471,0.3686275" />
+      <color name="千歳緑" cs="RGB" tints="0.1686275,0.3921569,0.2588235" />
+      <color name="千歳緑" cs="RGB" tints="0.1686275,0.3921569,0.2588235" />
+      <color name="革色" cs="RGB" tints="0.2392157,0.3607843,0.2980392" />
+      <color name="青鈍" cs="RGB" tints="0.3215686,0.4117647,0.3647059" />
+      <color name="翠" cs="RGB" tints="0,0.4745098,0.2392157" />
+      <color name="若竹色" cs="RGB" tints="0.3960785,0.7607844,0.5803922" />
+      <color name="guppie green" cs="RGB" tints="0,1,0.4980392" />
+      <color name="spring green" cs="RGB" tints="0,1,0.5019608" />
+      <color name="spray green" cs="RGB" tints="0.6431373,0.8352942,0.7411765" />
+      <color name="spruce" cs="RGB" tints="0,0.3098039,0.1647059" />
+      <color name="深緑" cs="RGB" tints="0,0.3490196,0.1921569" />
+      <color name="深緑色" cs="RGB" tints="0,0.3490196,0.1921569" />
+      <color name="千草色 / 千種色" cs="RGB" tints="0.5921569,0.7725491,0.6901961" />
+      <color name="hunter green" cs="RGB" tints="0,0.3882353,0.227451" />
+      <color name="chrome green" cs="RGB" tints="0,0.4196079,0.2431373" />
+      <color name="malachite green / 孔雀緑" cs="RGB" tints="0,0.6156863,0.3568628" />
+      <color name="木賊色 / 砥草色" cs="RGB" tints="0.2196079,0.4588236,0.3647059" />
+      <color name="常磐色 / 常盤色" cs="RGB" tints="0,0.482353,0.2862745" />
+      <color name="green" cs="RGB" tints="0,0.6941177,0.4196079" />
+      <color name="暗緑色" cs="RGB" tints="0,0.3176471,0.2" />
+      <color name="翡翠色" cs="RGB" tints="0.2470588,0.5960785,0.4666667" />
+      <color name="jade green" cs="RGB" tints="0.2470588,0.5960785,0.4666667" />
+      <color name="cobalt green" cs="RGB" tints="0.2509804,0.7294118,0.5529412" />
+      <color name="bottle green" cs="RGB" tints="0,0.3411765,0.2235294" />
+      <color name="Nile green" cs="RGB" tints="0.2,0.8000001,0.6" />
+      <color name="emerald green" cs="RGB" tints="0,0.7019608,0.4745098" />
+      <color name="Hooker's green" cs="RGB" tints="0.2862745,0.4745098,0.4196079" />
+      <color name="forest green" cs="RGB" tints="0.1490196,0.5372549,0.427451" />
+      <color name="虫襖" cs="RGB" tints="0.227451,0.3568628,0.3215686" />
+      <color name="萌葱色" cs="RGB" tints="0,0.4235294,0.3098039" />
+      <color name="青竹色" cs="RGB" tints="0.4470589,0.7294118,0.654902" />
+      <color name="青磁色 / 青瓷色" cs="RGB" tints="0.3764706,0.7058824,0.6235294" />
+      <color name="山藍摺" cs="RGB" tints="0.4509804,0.5215687,0.5058824" />
+      <color name="viridian" cs="RGB" tints="0,0.5372549,0.4196079" />
+      <color name="water green" cs="RGB" tints="0.6470588,0.7882354,0.7568628" />
+      <color name="秘色" cs="RGB" tints="0.7921569,0.909804,0.8862746" />
+      <color name="鉄色" cs="RGB" tints="0,0.3254902,0.2666667" />
+      <color name="鉄色" cs="RGB" tints="0,0.3254902,0.2666667" />
+      <color name="鴨の羽色" cs="RGB" tints="0,0.4117647,0.3372549" />
+      <color name="teal green" cs="RGB" tints="0,0.4117647,0.3372549" />
+      <color name="billiard green" cs="RGB" tints="0,0.3647059,0.3019608" />
+      <color name="fir green" cs="RGB" tints="0.2078432,0.427451,0.3921569" />
+      <color name="青緑" cs="RGB" tints="0,0.682353,0.5843138" />
+      <color name="blue green" cs="RGB" tints="0,0.682353,0.5843138" />
+      <color name="青緑色" cs="RGB" tints="0,0.682353,0.5843138" />
+      <color name="Nile blue / ナイル青" cs="RGB" tints="0.1529412,0.6196079,0.5686275" />
+      <color name="peacock green" cs="RGB" tints="0,0.682353,0.6156863" />
+      <color name="御納戸茶" cs="RGB" tints="0.1647059,0.4313726,0.4196079" />
+      <color name="納戸茶 / 御納戸茶 / 納戸鼠" cs="RGB" tints="0.1647059,0.4313726,0.4196079" />
+      <color name="錆浅葱" cs="RGB" tints="0.3137255,0.5411765,0.5333334" />
+      <color name="水浅葱 / 水浅黄" cs="RGB" tints="0.4392157,0.6313726,0.6235294" />
+      <color name="aqua green" cs="RGB" tints="0.5333334,0.7490196,0.7490196" />
+      <color name="peacock blue" cs="RGB" tints="0,0.6352941,0.6431373" />
+      <color name="錆鼠" cs="RGB" tints="0.2235294,0.3529412,0.3568628" />
+      <color name="浅葱 / 浅葱色" cs="RGB" tints="0,0.6431373,0.6745098" />
+      <color name="白群" cs="RGB" tints="0.4705883,0.8039216,0.8196079" />
+      <color name="瓶覗 / 甕覗" cs="RGB" tints="0.5803922,0.8392158,0.854902" />
+      <color name="金春色" cs="RGB" tints="0.3529412,0.7254902,0.7568628" />
+      <color name="新橋色" cs="RGB" tints="0.3529412,0.7254902,0.7568628" />
+      <color name="御納戸色" cs="RGB" tints="0,0.4862745,0.5411765" />
+      <color name="納戸色 / 御納戸色" cs="RGB" tints="0,0.4862745,0.5411765" />
+      <color name="aqua / aqua blue" cs="RGB" tints="0.6862745,0.8745099,0.8941177" />
+      <color name="water blue" cs="RGB" tints="0.6862745,0.8745099,0.8941177" />
+      <color name="水色" cs="RGB" tints="0.6862745,0.8745099,0.8941177" />
+      <color name="水縹" cs="RGB" tints="0.6862745,0.8745099,0.8941177" />
+      <color name="湊鼠" cs="RGB" tints="0.5019608,0.5960785,0.6078432" />
+      <color name="turquoise blue" cs="RGB" tints="0,0.7176471,0.8078432" />
+      <color name="river blue" cs="RGB" tints="0.2156863,0.3529412,0.372549" />
+      <color name="熨斗目色" cs="RGB" tints="0.09019608,0.3568628,0.4" />
+      <color name="aquamarine" cs="RGB" tints="0,0.4352942,0.5254902" />
+      <color name="藍緑色" cs="RGB" tints="0,0.4352942,0.5254902" />
+      <color name="花浅葱" cs="RGB" tints="0,0.4509804,0.5411765" />
+      <color name="horizon blue" cs="RGB" tints="0.572549,0.8431373,0.9058824" />
+      <color name="marine blue" cs="RGB" tints="0,0.4078432,0.5058824" />
+      <color name="cerulean blue" cs="RGB" tints="0,0.5490196,0.6862745" />
+      <color name="薄縹" cs="RGB" tints="0.6078432,0.7882354,0.8352942" />
+      <color name="Vivid sky blue" cs="RGB" tints="0,0.8000001,1" />
+      <color name="duck blue" cs="RGB" tints="0,0.4509804,0.5803922" />
+      <color name="baby blue" cs="RGB" tints="0.6784314,0.8784314,0.9333334" />
+      <color name="藍気鼠" cs="RGB" tints="0.3686275,0.4862745,0.5215687" />
+      <color name="藍鼠" cs="RGB" tints="0.3686275,0.4862745,0.5215687" />
+      <color name="saxe blue / Saxony blue" cs="RGB" tints="0.1803922,0.5294118,0.6313726" />
+      <color name="薄藍" cs="RGB" tints="0.5921569,0.764706,0.8156863" />
+      <color name="sky blue" cs="RGB" tints="0.5647059,0.8431373,0.9254903" />
+      <color name="空色 / 天色" cs="RGB" tints="0.5647059,0.8431373,0.9254903" />
+      <color name="deep sky blue" cs="RGB" tints="0,0.7490196,1" />
+      <color name="鉄納戸 / 鉄御納戸" cs="RGB" tints="0.145098,0.3372549,0.4078432" />
+      <color name="cyan / cyan blue" cs="RGB" tints="0,0.682353,0.937255" />
+      <color name="藍紫色" cs="RGB" tints="0,0.682353,0.937255" />
+      <color name="teal blue" cs="RGB" tints="0,0.282353,0.3921569" />
+      <color name="卯の花色" cs="RGB" tints="0.9686275,0.9882354,0.9960785" />
+      <color name="褐返し" cs="RGB" tints="0.1686275,0.2980392,0.3529412" />
+      <color name="snow white" cs="RGB" tints="0.9568628,0.9843138,0.9960785" />
+      <color name="藍色" cs="RGB" tints="0.05882353,0.3294118,0.454902" />
+      <color name="千草色" cs="RGB" tints="0.1294118,0.627451,0.8588236" />
+      <color name="月草色" cs="RGB" tints="0.1294118,0.627451,0.8588236" />
+      <color name="露草色" cs="RGB" tints="0.1294118,0.627451,0.8588236" />
+      <color name="淡青色" cs="RGB" tints="0.6705883,0.882353,0.9803922" />
+      <color name="light blue" cs="RGB" tints="0.6705883,0.882353,0.9803922" />
+      <color name="縹 / 縹色 / 花田色" cs="RGB" tints="0.1490196,0.4862745,0.654902" />
+      <color name="中縹" cs="RGB" tints="0.1490196,0.4862745,0.654902" />
+      <color name="forget-me-not" cs="RGB" tints="0.4470589,0.7764707,0.937255" />
+      <color name="天色" cs="RGB" tints="0.3960785,0.7333333,0.9137256" />
+      <color name="熨斗目花色" cs="RGB" tints="0.2588235,0.3960785,0.4745098" />
+      <color name="blue" cs="RGB" tints="0,0.4901961,0.7725491" />
+      <color name="浅縹" cs="RGB" tints="0.4039216,0.654902,0.8000001" />
+      <color name="浅縹" cs="RGB" tints="0.4039216,0.654902,0.8000001" />
+      <color name="白縹" cs="RGB" tints="0.6392157,0.8470589,0.9647059" />
+      <color name="indigo" cs="RGB" tints="0.02745098,0.2784314,0.4392157" />
+      <color name="勿忘草色" cs="RGB" tints="0.482353,0.7490196,0.9176471" />
+      <color name="light saxe blue" cs="RGB" tints="0.5294118,0.8078432,0.9803922" />
+      <color name="cobalt blue / コバルト色" cs="RGB" tints="0,0.4470589,0.7372549" />
+      <color name="薄花色" cs="RGB" tints="0.4313726,0.6431373,0.7921569" />
+      <color name="maya blue" cs="RGB" tints="0.4509804,0.7607844,0.9843138" />
+      <color name="鉛色" cs="RGB" tints="0.4470589,0.4666667,0.482353" />
+      <color name="青藍" cs="RGB" tints="0,0.2941177,0.5333334" />
+      <color name="次縹" cs="RGB" tints="0.3803922,0.5450981,0.6784314" />
+      <color name="steel blue" cs="RGB" tints="0.2745098,0.509804,0.7058824" />
+      <color name="sky gray" cs="RGB" tints="0.7490196,0.7725491,0.7921569" />
+      <color name="青 / 蒼 / 藍 / 碧" cs="RGB" tints="0,0.4039216,0.7529413" />
+      <color name="Alice blue" cs="RGB" tints="0.9411765,0.9725491,1" />
+      <color name="深縹" cs="RGB" tints="0.1529412,0.2784314,0.3960785" />
+      <color name="深縹 / 紺" cs="RGB" tints="0.1529412,0.2784314,0.3960785" />
+      <color name="fog blue" cs="RGB" tints="0.4588236,0.5176471,0.572549" />
+      <color name="blue fog" cs="RGB" tints="0.4588236,0.5176471,0.572549" />
+      <color name="相思鼠" cs="RGB" tints="0.5372549,0.6901961,0.8352942" />
+      <color name="灰色" cs="RGB" tints="0.4431373,0.4509804,0.4588236" />
+      <color name="鼠色" cs="RGB" tints="0.5411765,0.5490196,0.5568628" />
+      <color name="sapphire blue / サファイア色" cs="RGB" tints="0,0.3294118,0.6509804" />
+      <color name="灰白色" cs="RGB" tints="0.9019608,0.9058824,0.909804" />
+      <color name="薄花桜" cs="RGB" tints="0.6784314,0.8039216,0.9254903" />
+      <color name="Azure" cs="RGB" tints="0,0.4980392,1" />
+      <color name="iron blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Antwerp blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="狼色" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Paris blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Prussian Blue / プルシア藍" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="bronze blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Berlin Blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="紺青" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Milori blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Turnbull's blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Chinese blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="Diesbach blue" cs="RGB" tints="0.1019608,0.2666667,0.4470589" />
+      <color name="花紺青" cs="RGB" tints="0.1568628,0.3490196,0.5607843" />
+      <color name="smalt" cs="RGB" tints="0.1568628,0.3490196,0.5607843" />
+      <color name="hyacinth" cs="RGB" tints="0.3960785,0.6039216,0.8235295" />
+      <color name="midnight blue" cs="RGB" tints="0,0.1215686,0.2627451" />
+      <color name="fountain blue" cs="RGB" tints="0.7529413,0.8039216,0.8627452" />
+      <color name="ink blue" cs="RGB" tints="0,0.2470588,0.5568628" />
+      <color name="royal blue" cs="RGB" tints="0.09803922,0.3333333,0.6509804" />
+      <color name="濃藍" cs="RGB" tints="0.0509804,0.1647059,0.3215686" />
+      <color name="青墨" cs="RGB" tints="0.1568628,0.2039216,0.2745098" />
+      <color name="薄墨色" cs="RGB" tints="0.5764706,0.5843138,0.5960785" />
+      <color name="銀灰色" cs="RGB" tints="0.6313726,0.6392157,0.6509804" />
+      <color name="銀鼠" cs="RGB" tints="0.6313726,0.6392157,0.6509804" />
+      <color name="silver gray" cs="RGB" tints="0.6313726,0.6392157,0.6509804" />
+      <color name="薄鈍色" cs="RGB" tints="0.6941177,0.7019608,0.7137255" />
+      <color name="紺瑠璃" cs="RGB" tints="0.1333333,0.2941177,0.5607843" />
+      <color name="瑠璃紺" cs="RGB" tints="0.1333333,0.2941177,0.5607843" />
+      <color name="瑠璃色" cs="RGB" tints="0.1647059,0.3607843,0.6666667" />
+      <color name="花色" cs="RGB" tints="0.2588235,0.4156863,0.7019608" />
+      <color name="lapis lazuli" cs="RGB" tints="0.2588235,0.4156863,0.7019608" />
+      <color name="薄群青" cs="RGB" tints="0.3843138,0.5137255,0.7607844" />
+      <color name="cornflower blue" cs="RGB" tints="0.3921569,0.5843138,0.9294118" />
+      <color name="橡色" cs="RGB" tints="0.3176471,0.3215686,0.3294118" />
+      <color name="鈍色" cs="RGB" tints="0.3882353,0.3921569,0.4" />
+      <color name="紺色" cs="RGB" tints="0.1372549,0.2313726,0.4235294" />
+      <color name="sea blue" cs="RGB" tints="0.1372549,0.3568628,0.7843138" />
+      <color name="藍鉄色" cs="RGB" tints="0.1411765,0.1960784,0.3137255" />
+      <color name="navy / navy blue" cs="RGB" tints="0.1215686,0.1843137,0.3294118" />
+      <color name="oriental blue" cs="RGB" tints="0.1921569,0.3333333,0.6509804" />
+      <color name="china blue" cs="RGB" tints="0.1921569,0.3333333,0.6509804" />
+      <color name="gray" cs="RGB" tints="0.4666667,0.4705883,0.482353" />
+      <color name="ultramarine / ultramarine blue" cs="RGB" tints="0.2745098,0.3647059,0.6666667" />
+      <color name="bice blue" cs="RGB" tints="0.2745098,0.3647059,0.6666667" />
+      <color name="Vermeer blue" cs="RGB" tints="0.2745098,0.3647059,0.6666667" />
+      <color name="群青色" cs="RGB" tints="0.2745098,0.3647059,0.6666667" />
+      <color name="Madonna / Madonna blue" cs="RGB" tints="0.2745098,0.3647059,0.6666667" />
+      <color name="Raphael" cs="RGB" tints="0.2745098,0.3647059,0.6666667" />
+      <color name="紺鉄" cs="RGB" tints="0.05882353,0.1019608,0.2705882" />
+      <color name="鉄紺" cs="RGB" tints="0.05882353,0.1019608,0.2705882" />
+      <color name="杜若色 / 燕子花色" cs="RGB" tints="0.2941177,0.3686275,0.6666667" />
+      <color name="褐色 / 搗色 / 勝色" cs="RGB" tints="0.3019608,0.3215686,0.4117647" />
+      <color name="飾磨紺" cs="RGB" tints="0.3019608,0.3215686,0.4117647" />
+      <color name="藍錆色" cs="RGB" tints="0.2784314,0.3176471,0.5372549" />
+      <color name="藤色" cs="RGB" tints="0.6862745,0.7058824,0.8588236" />
+      <color name="青褐" cs="RGB" tints="0.1372549,0.1529412,0.3098039" />
+      <color name="紺藍" cs="RGB" tints="0.2745098,0.2901961,0.5333334" />
+      <color name="桔梗色" cs="RGB" tints="0.345098,0.3686275,0.6666667" />
+      <color name="藤納戸 / 藤御納戸" cs="RGB" tints="0.4156863,0.427451,0.6627451" />
+      <color name="wistaria / wisteria" cs="RGB" tints="0.5254902,0.5372549,0.764706" />
+      <color name="暗黒色" cs="RGB" tints="0,0,0.1098039" />
+      <color name="黝色" cs="RGB" tints="0.2509804,0.2509804,0.282353" />
+      <color name="消炭色" cs="RGB" tints="0.3019608,0.3019608,0.3098039" />
+      <color name="slate gray" cs="RGB" tints="0.3647059,0.3647059,0.3882353" />
+      <color name="石板色 / 石盤色" cs="RGB" tints="0.3647059,0.3647059,0.3882353" />
+      <color name="dark blue" cs="RGB" tints="0.003921569,0,0.4" />
+      <color name="濃青色" cs="RGB" tints="0.003921569,0,0.4" />
+      <color name="taupe" cs="RGB" tints="0.3372549,0.3333333,0.3960785" />
+      <color name="紫苑色" cs="RGB" tints="0.4588236,0.4431373,0.6" />
+      <color name="crocus" cs="RGB" tints="0.6470588,0.627451,0.8117648" />
+      <color name="藤紫" cs="RGB" tints="0.6078432,0.5843138,0.7882354" />
+      <color name="大正藤" cs="RGB" tints="0.6078432,0.5843138,0.7882354" />
+      <color name="楝 / 樗 / 楝色 / 樗色" cs="RGB" tints="0.6078432,0.572549,0.7764707" />
+      <color name="bellflower" cs="RGB" tints="0.4,0.345098,0.6509804" />
+      <color name="サフラン色" cs="RGB" tints="0.8078432,0.7725491,0.9411765" />
+      <color name="薄鼠" cs="RGB" tints="0.572549,0.5568628,0.6196079" />
+      <color name="菫色" cs="RGB" tints="0.4392157,0.3647059,0.6588235" />
+      <color name="electric ultramarine" cs="RGB" tints="0.2470588,0,1" />
+      <color name="pansy" cs="RGB" tints="0.345098,0.2470588,0.6" />
+      <color name="花紫" cs="RGB" tints="0.372549,0.282353,0.5803922" />
+      <color name="heliotrope" cs="RGB" tints="0.5411765,0.4666667,0.7176471" />
+      <color name="violet" cs="RGB" tints="0.4431373,0.3490196,0.6509804" />
+      <color name="菖蒲色" cs="RGB" tints="0.4117647,0.3019608,0.6235294" />
+      <color name="半色 / 端色" cs="RGB" tints="0.6509804,0.6039216,0.7411765" />
+      <color name="江戸紫" cs="RGB" tints="0.427451,0.3294118,0.5960785" />
+      <color name="紺青 / 金青" cs="RGB" tints="0.4117647,0.3098039,0.5803922" />
+      <color name="青紫" cs="RGB" tints="0.4352942,0.3176471,0.6313726" />
+      <color name="purple blue" cs="RGB" tints="0.4352942,0.3176471,0.6313726" />
+      <color name="lavender" cs="RGB" tints="0.7176471,0.6588235,0.8000001" />
+      <color name="漆黒" cs="RGB" tints="0.03921569,0,0.09019608" />
+      <color name="electric indigo" cs="RGB" tints="0.4352942,0,1" />
+      <color name="gunmetal gray" cs="RGB" tints="0.345098,0.3254902,0.3686275" />
+      <color name="竜胆色" cs="RGB" tints="0.5647059,0.4745098,0.6784314" />
+      <color name="似紫" cs="RGB" tints="0.4470589,0.345098,0.5372549" />
+      <color name="鳩羽色" cs="RGB" tints="0.5882353,0.5294118,0.6392157" />
+      <color name="鳩羽鼠" cs="RGB" tints="0.5882353,0.5294118,0.6392157" />
+      <color name="black" cs="RGB" tints="0.0509804,0.003921569,0.08627451" />
+      <color name="electric violet" cs="RGB" tints="0.5607843,0,1" />
+      <color name="lilac" cs="RGB" tints="0.7803922,0.6980392,0.8392158" />
+      <color name="neon violet" cs="RGB" tints="0.5843138,0,1" />
+      <color name="purple" cs="RGB" tints="0.5843138,0.427451,0.6862745" />
+      <color name="extreme violet" cs="RGB" tints="0.6235294,0,1" />
+      <color name="amethyst" cs="RGB" tints="0.6196079,0.4627451,0.7058824" />
+      <color name="dove gray" cs="RGB" tints="0.5529412,0.5294118,0.5647059" />
+      <color name="薄色" cs="RGB" tints="0.7294118,0.6431373,0.7686275" />
+      <color name="鋼色" cs="RGB" tints="0.4235294,0.4039216,0.4313726" />
+      <color name="steel gray" cs="RGB" tints="0.4235294,0.4039216,0.4313726" />
+      <color name="二藍" cs="RGB" tints="0.4196079,0.2862745,0.4705883" />
+      <color name="紫" cs="RGB" tints="0.5450981,0.3215686,0.6313726" />
+      <color name="藤鼠" cs="RGB" tints="0.6313726,0.5803922,0.6509804" />
+      <color name="mauve" cs="RGB" tints="0.5215687,0.345098,0.5882353" />
+      <color name="濃鼠" cs="RGB" tints="0.345098,0.3098039,0.3568628" />
+      <color name="濃鼠" cs="RGB" tints="0.345098,0.3098039,0.3568628" />
+      <color name="electric purple" cs="RGB" tints="0.7490196,0,1" />
+      <color name="紫黒色" cs="RGB" tints="0.07843138,0,0.1019608" />
+      <color name="京紫" cs="RGB" tints="0.509804,0.3607843,0.5490196" />
+      <color name="古代紫" cs="RGB" tints="0.4901961,0.3294118,0.5176471" />
+      <color name="psychedelic purple" cs="RGB" tints="0.8745099,0,1" />
+      <color name="charcoal gray" cs="RGB" tints="0.2980392,0.2666667,0.3019608" />
+      <color name="茄子紺" cs="RGB" tints="0.2705882,0.1215686,0.2862745" />
+      <color name="紫紺 / 紫根" cs="RGB" tints="0.254902,0.07843138,0.2705882" />
+      <color name="紅紫" cs="RGB" tints="0.5843138,0.2980392,0.5764706" />
+      <color name="orchid" cs="RGB" tints="0.8235295,0.6392157,0.7960785" />
+      <color name="hot magenta" cs="RGB" tints="1,0,0.8000001" />
+      <color name="烏羽色" cs="RGB" tints="0.09411766,0.02352941,0.07843138" />
+      <color name="fuchsia purple" cs="RGB" tints="0.7058824,0.3333333,0.627451" />
+      <color name="滅紫" cs="RGB" tints="0.3607843,0.2313726,0.3294118" />
+      <color name="滅紫" cs="RGB" tints="0.3607843,0.2313726,0.3294118" />
+      <color name="菖蒲色" cs="RGB" tints="0.7803922,0.4941177,0.7098039" />
+      <color name="Mountbatten pink" cs="RGB" tints="0.6,0.4784314,0.5529412" />
+      <color name="紅紫色" cs="RGB" tints="0.9254903,0,0.5490196" />
+      <color name="magenta" cs="RGB" tints="0.9254903,0,0.5490196" />
+      <color name="solferino 品红" cs="RGB" tints="0.9254903,0,0.5490196" />
+      <color name="ivory black" cs="RGB" tints="0.2,0.1921569,0.1960784" />
+      <color name="墨 / 墨色" cs="RGB" tints="0.2,0.1921569,0.1960784" />
+      <color name="濃赤紫" cs="RGB" tints="0.5333334,0.1333333,0.3333333" />
+      <color name="azalea" cs="RGB" tints="0.8039216,0.254902,0.5294118" />
+      <color name="牡丹色" cs="RGB" tints="0.9058824,0.3803922,0.6431373" />
+      <color name="azalea pink" cs="RGB" tints="1,0.2,0.6" />
+      <color name="暗紅色 / 殷紅色" cs="RGB" tints="0.4901961,0.254902,0.3686275" />
+      <color name="殷紅色" cs="RGB" tints="0.4901961,0.254902,0.3686275" />
+      <color name="赤紫" cs="RGB" tints="0.9411765,0.4039216,0.6509804" />
+      <color name="red purple" cs="RGB" tints="0.9411765,0.4039216,0.6509804" />
+      <color name="rose madder" cs="RGB" tints="0.5843138,0,0.2588235" />
+      <color name="fuchsia" cs="RGB" tints="0.8000001,0.08627451,0.4117647" />
+      <color name="Tyrian purple" cs="RGB" tints="0.5568628,0.2470588,0.3803922" />
+      <color name="躑躅色" cs="RGB" tints="0.937255,0.3568628,0.6117647" />
+      <color name="葡萄染" cs="RGB" tints="0.4941177,0.3411765,0.4039216" />
+      <color name="raspberry" cs="RGB" tints="0.5529412,0.1019608,0.2901961" />
+      <color name="cherry pink" cs="RGB" tints="0.9450981,0.4470589,0.6392157" />
+      <color name="葡萄鼠" cs="RGB" tints="0.4470589,0.3411765,0.3803922" />
+      <color name="撫子色" cs="RGB" tints="0.9647059,0.6784314,0.7764707" />
+      <color name="紫鳶" cs="RGB" tints="0.372549,0.254902,0.2941177" />
+      <color name="梅鼠" cs="RGB" tints="0.7254902,0.5647059,0.6196079" />
+      <color name="rose red" cs="RGB" tints="0.9411765,0.372549,0.5529412" />
+      <color name="Folly" cs="RGB" tints="1,0,0.3098039" />
+      <color name="真紅 / 深紅" cs="RGB" tints="0.6941177,0.02352941,0.227451" />
+      <color name="灰赤紫" cs="RGB" tints="0.882353,0.6862745,0.7450981" />
+      <color name="cyclamen pink" cs="RGB" tints="0.9686275,0.6784314,0.764706" />
+      <color name="cochineal red" cs="RGB" tints="0.7725491,0.1960784,0.345098" />
+      <color name="洋紅" cs="RGB" tints="0.7725491,0.1960784,0.345098" />
+      <color name="ruby red" cs="RGB" tints="0.8117648,0.2078432,0.3647059" />
+      <color name="呂色 / 蝋色" cs="RGB" tints="0.1372549,0.1215686,0.1254902" />
+      <color name="濃色" cs="RGB" tints="0.4235294,0.282353,0.3176471" />
+      <color name="紅色" cs="RGB" tints="0.8431373,0.07450981,0.2705882" />
+      <color name="唐紅 / 韓紅 / 韓紅花" cs="RGB" tints="0.8431373,0.07450981,0.2705882" />
+      <color name="紅色" cs="RGB" tints="0.8431373,0.07450981,0.2705882" />
+      <color name="strawberry" cs="RGB" tints="0.8470589,0.2196079,0.3803922" />
+      <color name="石竹色" cs="RGB" tints="0.9764706,0.7568628,0.8117648" />
+      <color name="Chinese pink" cs="RGB" tints="0.9764706,0.7568628,0.8117648" />
+      <color name="electric crimson" cs="RGB" tints="1,0,0.2470588" />
+      <color name="fuchsia red" cs="RGB" tints="0.909804,0.1254902,0.3058824" />
+      <color name="wine red / wine color" cs="RGB" tints="0.5529412,0.1882353,0.2627451" />
+      <color name="crimson" cs="RGB" tints="0.8627452,0.07843138,0.2352941" />
+      <color name="雄黄" cs="RGB" tints="0.9529412,0.6313726,0.6980392" />
+      <color name="bougainvillaea" cs="RGB" tints="0.9450981,0.4,0.509804" />
+      <color name="海老色 / 蝦色" cs="RGB" tints="0.4117647,0.1098039,0.1647059" />
+      <color name="葡萄色" cs="RGB" tints="0.4117647,0.1098039,0.1647059" />
+      <color name="葡萄色" cs="RGB" tints="0.4117647,0.1098039,0.1647059" />
+      <color name="rose" cs="RGB" tints="0.937255,0.282353,0.4078432" />
+      <color name="今様 / 今様色" cs="RGB" tints="0.7803922,0.3294118,0.4039216" />
+      <color name="赤 / 紅 / 朱 / 緋 / 丹" cs="RGB" tints="0.9294118,0.1019608,0.2392157" />
+      <color name="赤 / 朱 / 緋" cs="RGB" tints="0.9294118,0.1019608,0.2392157" />
+      <color name="burgundy" cs="RGB" tints="0.3372549,0.1058824,0.1411765" />
+      <color name="Deep red" cs="RGB" tints="0.6862745,0.003921569,0.1098039" />
+      <color name="薔薇色" cs="RGB" tints="0.9411765,0.3372549,0.4313726" />
+      <color name="薔薇色" cs="RGB" tints="0.9411765,0.3372549,0.4313726" />
+      <color name="薔薇色" cs="RGB" tints="0.9411765,0.3372549,0.4313726" />
+      <color name="ruddy" cs="RGB" tints="1,0,0.1568628" />
+      <color name="cherry / cherry red" cs="RGB" tints="0.8509805,0.2235294,0.3058824" />
+      <color name="苺色" cs="RGB" tints="0.7058824,0.3294118,0.3764706" />
+      <color name="dawn pink" cs="RGB" tints="0.8156863,0.7215686,0.7333333" />
+      <color name="fuchsia pink" cs="RGB" tints="0.9137256,0.3568628,0.4196079" />
+      <color name="bordeaux" cs="RGB" tints="0.372549,0.08627451,0.1137255" />
+      <color name="old rose" cs="RGB" tints="0.8352942,0.5176471,0.5490196" />
+      <color name="紅赤" cs="RGB" tints="0.8509805,0.227451,0.2862745" />
+      <color name="garnet" cs="RGB" tints="0.4117647,0.1098039,0.1372549" />
+      <color name="carmine" cs="RGB" tints="0.8196079,0.1098039,0.172549" />
+      <color name="karmijn" cs="RGB" tints="0.8196079,0.1098039,0.172549" />
+      <color name="signal red" cs="RGB" tints="0.937255,0.2509804,0.3137255" />
+      <color name="peach blossom" cs="RGB" tints="0.9607844,0.5607843,0.5960785" />
+      <color name="桃色 / 桃花色" cs="RGB" tints="0.9607844,0.5607843,0.5960785" />
+      <color name="赤墨" cs="RGB" tints="0.2980392,0.1803922,0.1882353" />
+      <color name="臙脂 / 臙脂色" cs="RGB" tints="0.7019608,0.2588235,0.2901961" />
+      <color name="茜色" cs="RGB" tints="0.6980392,0.1764706,0.2078432" />
+      <color name="poppy red" cs="RGB" tints="0.9411765,0.3058824,0.345098" />
+      <color name="rose pink" cs="RGB" tints="0.9607844,0.5960785,0.6156863" />
+      <color name="薄色" cs="RGB" tints="0.9921569,0.909804,0.9137256" />
+      <color name="蘇芳 / 蘇方 / 蘇枋" cs="RGB" tints="0.5921569,0.2352941,0.2470588" />
+      <color name="深緋" cs="RGB" tints="0.7882354,0.09019608,0.1176471" />
+      <color name="猩々緋" cs="RGB" tints="0.9294118,0.1098039,0.1411765" />
+      <color name="本朱" cs="RGB" tints="0.937255,0.2705882,0.2901961" />
+      <color name="朱色" cs="RGB" tints="0.937255,0.2705882,0.2901961" />
+      <color name="真朱" cs="RGB" tints="0.937255,0.2705882,0.2901961" />
+      <color name="薄紅梅" cs="RGB" tints="0.9647059,0.7294118,0.7372549" />
+      <color name="紅梅色" cs="RGB" tints="0.9647059,0.6117647,0.6235294" />
+    </page>
+  </colors>
+</palette>
