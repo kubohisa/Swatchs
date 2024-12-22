@@ -15,7 +15,7 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 ### JIS_Z_8102_2001.gpl
 
-「JIS慣用色名」のスウォッチです
+「[JIS慣用色名](https://ja.wikipedia.org/wiki/JIS%E6%85%A3%E7%94%A8%E8%89%B2%E5%90%8D)」のスウォッチです
 
 ### WadaColorSwatch.gpl
 
