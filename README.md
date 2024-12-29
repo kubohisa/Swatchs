@@ -21,6 +21,10 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 和田三造氏の配色事典のデータがMITライセンスで [github](https://github.com/dblodorn/sanzo-wada) で置いてあったので、容赦なくgplファイル化しました
 
+### ColorNames.gpl
+
+Color Names [ [github](https://github.com/meodai/color-names) ] の３００００色以上のデータをgplファイル化しました
+
 ### CSS_Color.gpl
 
 ブラウザーで使われる色のデータをgplファイル化しました
@@ -40,5 +44,5 @@ Googleのマテリアル・デザインで使われるスウォッチデータ�
 
 ### open-color_1.9.1.gpl
 
-Open Color [github](https://yeun.github.io/open-color/) からの転載です（MITライセンス）。色覚異常な人でも見やすい配色が可能なスウォッチです
+Open Color [ [github](https://yeun.github.io/open-color/) ] からの転載です（MITライセンス）。色覚異常な人でも見やすい配色が可能なスウォッチです
 
