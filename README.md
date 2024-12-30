@@ -56,7 +56,7 @@ Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/
 
 ### VOC-ColorNumber-2022.gpl
 
-PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです。
+PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです
 
 
 
