@@ -48,15 +48,15 @@ Open Color [ [github](https://yeun.github.io/open-color/) ] からの転載で�
 
 ### Resene Total Colour System Master 2021.gpl
 
-Resene [ [WEB](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm) ] からの転載です。ニュージーランドのペンキメーカーのスウォッチです
+Resene [ [WEB](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm) ] のファイルをgplファイルへコンバートしました。ニュージーランドのペンキメーカーのスウォッチです
 
 ### PerfectPalette2023.gpl
 
-Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/) ] からの転載です。（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
+Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/) ] のファイルをgplファイルへコンバートしました。（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
 
 ### PerfectPalette2023.gpl
 
-PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] からの転載です。アメリカの塗料メーカーのスウォッチです。
+PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです。
 
 
 
