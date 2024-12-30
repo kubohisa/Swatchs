@@ -54,7 +54,7 @@ Resene [ [WEB](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm
 
 Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/) ] のファイルをgplファイルへコンバートしました。（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
 
-### PerfectPalette2023.gpl
+### VOC-ColorNumber-2022.gpl
 
 PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです。
 
