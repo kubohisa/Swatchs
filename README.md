@@ -58,5 +58,6 @@ Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/
 
 PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです
 
+# その他のスウォッチ
 
-
+[CSI ColorWall](https://csicolors.com/color-communication-tools/downloadable-digital-media/)　シンガポールの総合化学メーカーによる「今の色」を３０００色以上選んでコレクションしているスウォッチ。現時点ではgpl化出来ませんがKritaなどでは読み込めます
