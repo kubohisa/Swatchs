@@ -58,6 +58,10 @@ Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/
 
 PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです
 
+### uigradientsdotcom.gpl
+
+uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライセンス）の[データをコンバートしている方のデータ](https://github.com/mhulse/swatches/tree/master/interwebs)を見つけてスウォッチデータは読み込めなかったけどテキストデータがあったので。Notepad++の正規表現機能を使って手作業でgplファイルを作成しました
+
 # その他のスウォッチ
 
 [CSI ColorWall](https://csicolors.com/color-communication-tools/downloadable-digital-media/)：シンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチ。現時点ではgplファイル化出来ませんがKritaなどでは読み込めます
