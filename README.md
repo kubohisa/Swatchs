@@ -46,6 +46,10 @@ Googleのマテリアル・デザインで使われるスウォッチデータ�
 
 Open Color [ [github](https://yeun.github.io/open-color/) ] からの転載です（MITライセンス）。色覚異常な人でも見やすい配色が可能なスウォッチです
 
+### open-color_1.9.1.gpl
+
+東京大学分子細胞生物学研究所・脳神経回路研究分野 [ [WEB](https://jfly.uni-koeln.de/colorset/) ] からの転載です。カラーユニバーサルデザイン推奨配色セットのスウォッチです
+
 ### Resene Total Colour System Master 2021.gpl
 
 Resene [ [WEB](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm) ] のファイルをgplファイルへコンバートしました。ニュージーランドのペンキメーカーのスウォッチです
