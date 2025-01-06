@@ -78,7 +78,7 @@ OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-colle
 
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
 
-# なんで、こー言う変な事してんねん？
+# なぜ、こー言う変な事してんねん？
 
 現代のデジタルの色は約281兆色使えるのですが。多過ぎて、普通、どの色を使えば良いのか判らないので。昔からある色や絵の具の色のデータから色を選ぶんです
 
