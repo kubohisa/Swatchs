@@ -74,7 +74,7 @@ OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-colle
 
 ### ColorWall.gpl
 
-CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです。2025/1/1版をコンバートしてます
+CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです。2025年1月1日の分のファイルをコンバートしてます
 
 # その他のスウォッチ
 
