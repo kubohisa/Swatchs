@@ -68,7 +68,7 @@ uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライ�
 
 ### OCSC 2.0
 
-OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] はドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です
+OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] はドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です。検索してたら[見つけた](https://design.blog.documentfoundation.org/2016/12/30/new-color-palettes-in-libreoffice/)んですよ
 
 # その他のスウォッチ
 
