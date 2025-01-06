@@ -90,3 +90,8 @@ OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-colle
 
 それらのデータやフリーでダウンロード出来るファイルをコレクションしてgithubへ置いてます
 
+# Tools.
+
+[Cyotek Color Palette Editor](https://www.cyotek.com/cyotek-palette-editor)：　スウォッチファイルをコンバート出来るフリーウェアです
+
+[SwitchBooker](https://www.selapa.net/swatchbooker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです
