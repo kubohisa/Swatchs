@@ -72,9 +72,13 @@ uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライ�
 
 OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] はドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です。検索してたら[見つけた](https://design.blog.documentfoundation.org/2016/12/30/new-color-palettes-in-libreoffice/)んですよ
 
+### ColorWall.gpl
+
+CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです
+
 # その他のスウォッチ
 
-[CSI ColorWall](https://csicolors.com/color-communication-tools/downloadable-digital-media/)：　シンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチ。現時点ではgplファイル化出来ませんがKritaなどでは読み込めます
+
 
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
 
@@ -96,4 +100,4 @@ OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-colle
 
 [SwitchBooker](https://www.selapa.net/swatchbooker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです
 
-[Gpikck](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは[ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ]で可能です
+[Gpikck](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です
