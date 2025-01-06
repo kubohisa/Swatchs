@@ -1,6 +1,8 @@
 # Swatchs
 Free Swatchs. ウェブ上で公開しているデータを元としてフリーウェアで使えるスウォッチ・データ（gplファイル）を作成した物です。ライセンスはそれぞれの元のウェブを参照してください。ＲＧＢ印刷などで利用出来ると思います
 
+もちろん、著作権者から削除の申し込みがございましたら、速やかな削除を行わせてもらいますので
+
 ### ListOfColors.gpl
 
 [List of colors (alphabetical)](https://en.wikipedia.org/wiki/List_of_colors_(alphabetical)) を拙作のPHPスクリプトでgplファイル化した物です。１０００色以上分のデータはあります
