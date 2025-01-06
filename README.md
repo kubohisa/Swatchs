@@ -78,3 +78,15 @@ OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-colle
 
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
 
+# なんで、こー言う変な事してんねん？
+
+現代のデジタルの色は約281兆色使えるのですが。多過ぎて、普通、どの色を使えば良いのか判らないので。昔からある色や絵の具の色のデータから色を選ぶんです
+
+でも、無料の色のデータが無いのでフリーウェアで使われている色のほとんどがデジタルな発想で作られた人工的な色で
+
+フリーウェアで作ったデータは、adobeなどのパントンやDICなど絵の具の色を使えるアプリで作ったデータよりも安っぽく見えてしまう
+
+なので、オープンソースで完全無料なデータから完全無料な色のパレットデータのファイルを作るとフリーウェアで絵の具の色などが使えるんですよ
+
+なので、それらのデータのファイルをコレクションしてgithubへ置いてます
+
