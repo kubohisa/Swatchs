@@ -1,0 +1,1375 @@
+GIMP Palette
+Name: Baumann System Prase
+#
+242 238 230	Baumann-Prase 1·W
+218 216 212	Baumann-Prase 2·1X
+191 192 191	Baumann-Prase 3·2X
+175 176 176	Baumann-Prase 4·3X
+158 159 161	Baumann-Prase 5·4X
+135 136 137	Baumann-Prase 6·5X
+123 125 127	Baumann-Prase 7·6X
+113 114 117	Baumann-Prase 8·7X
+ 93  94  96	Baumann-Prase 9·8X
+ 87  88  90	Baumann-Prase 10·9X
+ 77  78  79	Baumann-Prase 11·10X
+ 66  66  67	Baumann-Prase 12·11X
+ 58  58  58	Baumann-Prase 13·12X
+ 48  47  46	Baumann-Prase 14·X
+181 170 167	Baumann-Prase 15·2 Pr 3
+150 141 141	Baumann-Prase 16·4 Pr 3
+120 112 110	Baumann-Prase 17·6 Pr 3
+102  94  94	Baumann-Prase 18·8 Pr 3
+ 86  79  79	Baumann-Prase 19·10 Pr 3
+ 63  58  58	Baumann-Prase 20·12 Pr 3
+185 172 168	Baumann-Prase 21·2 Rp 4
+151 136 133	Baumann-Prase 22·4 Rp 4
+136 120 118	Baumann-Prase 23·6 Rp 4
+111  98  96	Baumann-Prase 24·8 Rp 4
+ 87  75  75	Baumann-Prase 25·10 Rp 4
+ 59  51  50	Baumann-Prase 26·12 Rp 4
+198 177 170	Baumann-Prase 27·2 R 4
+154 131 126	Baumann-Prase 28·4 R 4
+130 105 103	Baumann-Prase 29·6 R 4
+109  87  84	Baumann-Prase 30·8 R 4
+ 92  71  68	Baumann-Prase 31·10 R 4
+ 71  55  53	Baumann-Prase 32·12 R 4
+192 178 169	Baumann-Prase 33·2 Ro 5
+161 146 142	Baumann-Prase 34·4 Ro 5
+135 117 109	Baumann-Prase 35·6 Ro 5
+106  89  82	Baumann-Prase 36·8 Ro 5
+ 85  70  64	Baumann-Prase 37·10 Ro 5
+ 68  55  51	Baumann-Prase 38·12 Ro 5
+190 171 157	Baumann-Prase 39·2 Or 6
+160 143 132	Baumann-Prase 40·4 Or 6
+145 124 111	Baumann-Prase 41·6 Or 6
+116  96  85	Baumann-Prase 42·8 Or 6
+ 88  70  61	Baumann-Prase 43·10 Or 6
+ 74  61  55	Baumann-Prase 44·12 Or 6
+197 184 172	Baumann-Prase 45·2 O 7
+160 146 136	Baumann-Prase 46·4 O 7
+130 116 104	Baumann-Prase 47·6 O 7
+108  93  81	Baumann-Prase 48·8 O 7
+ 88  75  65	Baumann-Prase 49·10 O 7
+ 70  60  55	Baumann-Prase 50·12 O 7
+185 175 160	Baumann-Prase 51·2 Oc 7
+172 157 140	Baumann-Prase 52·4 Oc 7
+133 118 106	Baumann-Prase 53·6 Oc 7
+105  92  80	Baumann-Prase 54·8 Oc 7
+ 82  71  60	Baumann-Prase 55·10 Oc 7
+ 71  62  58	Baumann-Prase 56·12 Oc 7
+190 181 170	Baumann-Prase 57·2 CO 8
+155 147 139	Baumann-Prase 58·4 CO 8
+119 110 101	Baumann-Prase 59·6 CO 8
+101  92  86	Baumann-Prase 60·8 CO 8
+ 81  75  69	Baumann-Prase 61·10 CO 8
+ 62  57  53	Baumann-Prase 62·12 CO 8
+197 181 157	Baumann-Prase 63·2 Co 9
+164 151 133	Baumann-Prase 64·4 Co 9
+128 119 103	Baumann-Prase 65·6 Co 9
+ 97  88  78	Baumann-Prase 66·8 Co 9
+ 82  74  65	Baumann-Prase 67·10 Co 9
+ 59  55  50	Baumann-Prase 68·12 Co 9
+180 175 168	Baumann-Prase 69·2 C 10
+149 146 138	Baumann-Prase 70·4 C 10
+116 112 106	Baumann-Prase 71·6 C 10
+ 99  96  91	Baumann-Prase 72·8 C 10
+ 78  74  69	Baumann-Prase 73·10 C 10
+ 59  57  55	Baumann-Prase 74·12 C 10
+191 185 166	Baumann-Prase 75·2 Cg 9
+151 146 131	Baumann-Prase 76·4 Cg 9
+120 115 102	Baumann-Prase 77·6 Cg 9
+ 99  94  83	Baumann-Prase 78·8 Cg 9
+ 79  74  64	Baumann-Prase 79·10 Cg 9
+ 67  62  55	Baumann-Prase 80·12 Cg 9
+186 179 164	Baumann-Prase 81·2 Cgg 8
+145 141 131	Baumann-Prase 82·4 Cgg 8
+110 106  97	Baumann-Prase 83·6 Cgg 8
+ 92  89  81	Baumann-Prase 84·8 Cgg 8
+ 73  70  64	Baumann-Prase 85·10 Cgg 8
+ 51  50  48	Baumann-Prase 86·12 Cgg 8
+185 186 168	Baumann-Prase 87·2 Gcc 7
+155 154 141	Baumann-Prase 88·4 Gcc 7
+120 118 106	Baumann-Prase 89·6 Gcc 7
+105 105  95	Baumann-Prase 90·8 Gcc 7
+ 84  84  78	Baumann-Prase 91·10 Gcc 7
+ 59  59  55	Baumann-Prase 92·12 Gcc 7
+187 190 179	Baumann-Prase 93·2 Gc 6
+153 158 144	Baumann-Prase 94·4 Gc 6
+134 140 123	Baumann-Prase 95·6 Gc 6
+100 104  93	Baumann-Prase 96·8 Gc 6
+ 78  84  73	Baumann-Prase 97·10 Gc 6
+ 60  61  56	Baumann-Prase 98·12 Gc 6
+170 181 177	Baumann-Prase 99·2 Gb 6
+144 156 153	Baumann-Prase 100·4 Gb 6
+111 124 117	Baumann-Prase 101·6 Gb 6
+ 91 101  96	Baumann-Prase 102·8 Gb 6
+ 71  78  74	Baumann-Prase 103·10 Gb 6
+ 55  59  59	Baumann-Prase 104·12 Gb 6
+165 181 178	Baumann-Prase 105·2 Gbb 5
+133 147 142	Baumann-Prase 106·4 Gbb 5
+113 125 122	Baumann-Prase 107·6 Gbb 5
+ 89  99  98	Baumann-Prase 108·8 Gbb 5
+ 65  74  76	Baumann-Prase 109·10 Gbb 5
+ 49  55  60	Baumann-Prase 110·12 Gbb 5
+184 191 192	Baumann-Prase 111·2 Bgg 4
+144 153 157	Baumann-Prase 112·4 Bgg 4
+113 121 123	Baumann-Prase 113·6 Bgg 4
+ 86  93  95	Baumann-Prase 114·8 Bgg 4
+ 66  80  84	Baumann-Prase 115·10 Bgg 4
+ 43  48  57	Baumann-Prase 116·12 Bgg 4
+174 185 190	Baumann-Prase 117·2 Bg 4
+134 147 155	Baumann-Prase 118·4 Bg 4
+107 125 137	Baumann-Prase 119·6 Bg 4
+ 77  93 103	Baumann-Prase 120·8 Bg 4
+ 60  68  80	Baumann-Prase 121·10 Bg 4
+ 49  50  59	Baumann-Prase 122·12 Bg 4
+163 175 181	Baumann-Prase 123·2 B 4
+114 127 136	Baumann-Prase 124·4 B 4
+101 115 126	Baumann-Prase 125·6 B 4
+ 75  86  97	Baumann-Prase 126·8 B 4
+ 62  71  85	Baumann-Prase 127·10 B 4
+ 47  49  57	Baumann-Prase 128·12 B 4
+175 180 189	Baumann-Prase 129·2 Bv 3
+140 147 157	Baumann-Prase 130·4 Bv 3
+107 112 122	Baumann-Prase 131·6 Bv 3
+ 84  88  98	Baumann-Prase 132·8 Bv 3
+ 64  67  77	Baumann-Prase 133·10 Bv 3
+ 52  52  60	Baumann-Prase 134·12 Bv 3
+168 166 183	Baumann-Prase 135·2 Vb 3
+144 142 155	Baumann-Prase 136·4 Vb 3
+114 111 125	Baumann-Prase 137·6 Vb 3
+ 93  89 103	Baumann-Prase 138·8 Vb 3
+ 71  68  79	Baumann-Prase 139·10 Vb 3
+ 58  51  59	Baumann-Prase 140·12 Vb 3
+178 173 177	Baumann-Prase 141·2 V 2
+151 146 151	Baumann-Prase 142·4 V 2
+112 107 115	Baumann-Prase 143·6 V 2
+ 94  89  94	Baumann-Prase 144·8 V 2
+ 70  66  72	Baumann-Prase 145·10 V 2
+ 57  54  59	Baumann-Prase 146·12 V 2
+183 175 177	Baumann-Prase 147·2 Vp 2
+153 143 146	Baumann-Prase 148·4 Vp 2
+122 110 118	Baumann-Prase 149·6 Vp 2
+ 95  88  95	Baumann-Prase 150·8 Vp 2
+ 72  65  71	Baumann-Prase 151·10 Vp 2
+ 58  51  54	Baumann-Prase 152·12 Vp 2
+186 172 173	Baumann-Prase 153·2 Pv 2
+153 136 141	Baumann-Prase 154·4 Pv 2
+126 109 115	Baumann-Prase 155·6 Pv 2
+103  87  91	Baumann-Prase 156·8 Pv 2
+ 82  70  74	Baumann-Prase 157·10 Pv 2
+ 61  55  58	Baumann-Prase 158·12 Pv 2
+213 197 189	Baumann-Prase 32a·1 R 4½
+170 153 144	Baumann-Prase 32b·3 R 4½
+130 115 111	Baumann-Prase 32c·5 R 4½
+118 103  99	Baumann-Prase 32d·7 R 4½
+174 159 149	Baumann-Prase 44a·3 Or 6½
+141 130 121	Baumann-Prase 44b·5 Or 6½
+116 104  98	Baumann-Prase 44c·7 Or 6½
+202 194 185	Baumann-Prase 56a·1 Oc 7½
+161 153 145	Baumann-Prase 56b·3 Oc 7½
+133 126 121	Baumann-Prase 56c·5 Oc 7½
+110 106 102	Baumann-Prase 56d·7 Oc 7½
+165 163 156	Baumann-Prase 68a·3 Co 9½
+128 126 122	Baumann-Prase 68b·5 Co 9½
+107 103  99	Baumann-Prase 68c·7 Co 9½
+201 196 187	Baumann-Prase 80a·1 Cg 9½
+162 159 150	Baumann-Prase 80b·3 Cg 9½
+131 128 121	Baumann-Prase 80c·5 Cg 9½
+202 200 190	Baumann-Prase 98a·1 Gc 6½
+155 155 147	Baumann-Prase 98b·3 Gc 6½
+134 131 122	Baumann-Prase 98c·5 Gc 6½
+162 164 160	Baumann-Prase 110a·1 Gbb 5½
+127 134 131	Baumann-Prase 110b·3 Gbb 5½
+106 112 111	Baumann-Prase 110c·5 Gbb 5½
+198 200 196	Baumann-Prase 128a·1 B 4½
+154 159 164	Baumann-Prase 128b·3 B 4½
+122 129 135	Baumann-Prase 128c·5 B 4½
+102 107 113	Baumann-Prase 128d·7 B 4½
+166 158 161	Baumann-Prase 140a·3 Vb 3½
+127 123 128	Baumann-Prase 140b·5 Vb 3½
+107 104 110	Baumann-Prase 140c·7 Vb 3½
+207 193 185	Baumann-Prase 158a·1 Pv 2½
+163 151 151	Baumann-Prase 158b·3 Pv 2½
+130 120 119	Baumann-Prase 158c·5 Pv 2½
+106  98  99	Baumann-Prase 158d·7 Pv 2½
+243 222 226	Baumann-Prase 159·W-Pr
+247 227 218	Baumann-Prase 160·W-R
+245 233 217	Baumann-Prase 161·W-Or
+247 234 210	Baumann-Prase 162·W-Oc
+233 225 199	Baumann-Prase 163·W-Co
+242 238 210	Baumann-Prase 164·W-Cg
+238 238 211	Baumann-Prase 165·W-Gcc
+239 238 228	Baumann-Prase 166·W-Gb
+231 237 230	Baumann-Prase 167·W-Bgg
+242 244 242	Baumann-Prase 168·W-B
+227 223 220	Baumann-Prase 169·W-Vb
+228 215 211	Baumann-Prase 170·W-Vp
+134 104  82	Baumann-Prase m
+164 111  61	Baumann-Prase l
+155 114  59	Baumann-Prase k
+154 116  61	Baumann-Prase j
+152 124  70	Baumann-Prase i
+145 123  73	Baumann-Prase h
+169 148  77	Baumann-Prase g
+169 146  84	Baumann-Prase f
+165 140  86	Baumann-Prase e
+167 137  84	Baumann-Prase d
+191 182 157	Baumann-Prase c
+190 191 192	Baumann-Prase b
+117 116  97	Baumann-Prase a
+232 216 204	Baumann-Prase 171·W-Rp 3
+234 220 201	Baumann-Prase 172·W-Ro 3
+233 218 200	Baumann-Prase 173·W-O 4
+241 233 220	Baumann-Prase 174·W-CO 5
+241 230 207	Baumann-Prase 175·W-C 6
+233 221 195	Baumann-Prase 176·W-Cgg 5
+227 218 200	Baumann-Prase 177·W-Gc 4
+224 220 203	Baumann-Prase 178·W-Gbb 3
+219 217 202	Baumann-Prase 179·W-Bg 3
+222 217 212	Baumann-Prase 180·W-Bv 2
+213 206 198	Baumann-Prase 181·W-V 2
+227 213 207	Baumann-Prase 182·W-Pv 2
+229 186 193	Baumann-Prase 195·1 Pr
+222 158 179	Baumann-Prase 196·2 Pr
+203 132 152	Baumann-Prase 197·3 Pr
+198 105 134	Baumann-Prase 198·4 Pr
+191  96 122	Baumann-Prase 199·5 Pr
+178  83 109	Baumann-Prase 200·6 Pr
+161  69  90	Baumann-Prase 201·7 Pr
+151  53  73	Baumann-Prase 202·8 Pr
+130  50  58	Baumann-Prase 203·9 Pr
+202 169 182	Baumann-Prase 204·2 Pr 1
+195 146 160	Baumann-Prase 205·3 Pr 1
+186 127 148	Baumann-Prase 206·4 Pr 1
+177 114 134	Baumann-Prase 207·5 Pr 1
+160  93 114	Baumann-Prase 208·6 Pr 1
+153  76  96	Baumann-Prase 209·7 Pr 1
+137  66  83	Baumann-Prase 210·8 Pr 1
+128  54  72	Baumann-Prase 211·9 Pr 1
+106  52  61	Baumann-Prase 212·10 Pr 1
+220 196 198	Baumann-Prase 213·1 Pr 2
+188 157 165	Baumann-Prase 214·3 Pr 2
+154 121 131	Baumann-Prase 215·5 Pr 2
+126  89 103	Baumann-Prase 216·7 Pr 2
+103  68  73	Baumann-Prase 217·9 Pr 2
+ 79  53  56	Baumann-Prase 218·11 Pr 2
+235 180 209	Baumann-Prase 183·2 P
+221 153 193	Baumann-Prase 184·3 P
+219 124 177	Baumann-Prase 185·4 P
+205 102 150	Baumann-Prase 186·5 P
+178  57 114	Baumann-Prase 187·6 P
+158  60  97	Baumann-Prase 188·7 P
+140  52  75	Baumann-Prase 189·8 P
+115  47  67	Baumann-Prase 190·9 P
+174 118 140	Baumann-Prase 191·4 P 1
+154  92 116	Baumann-Prase 192·6 P 1
+126  64  86	Baumann-Prase 193·8 P 1
+105  52  64	Baumann-Prase 194·10 P 1
+236 170 188	Baumann-Prase 219·2 Rp-Pr
+228 136 166	Baumann-Prase 220·3 Rp-Pr
+223 110 143	Baumann-Prase 221·4 Rp-Pr
+217  88 122	Baumann-Prase 222·5 Rp-Pr
+210  67  99	Baumann-Prase 223·6 Rp-Pr
+183  52  79	Baumann-Prase 224·7 Rp-Pr
+164  46  68	Baumann-Prase 225·8 Rp-Pr
+149  53  64	Baumann-Prase 226·9 Rp-Pr
+200 115 134	Baumann-Prase 227·4 Rp-Pr 1
+169  85 101	Baumann-Prase 228·6 Rp-Pr 1
+145  64  81	Baumann-Prase 229·8 Rp-Pr 1
+128  48  62	Baumann-Prase 230·10 Rp-Pr 1
+242 184 183	Baumann-Prase 231·1 Rp
+224 147 155	Baumann-Prase 232·2 Rp
+225 127 141	Baumann-Prase 233·3 Rp
+213 105 123	Baumann-Prase 234·4 Rp
+199  82 101	Baumann-Prase 235·5 Rp
+191  69  87	Baumann-Prase 236·6 Rp
+186  62  79	Baumann-Prase 237·7 Rp
+156  56  64	Baumann-Prase 238·8 Rp
+223 166 170	Baumann-Prase 239·2 Rp 1
+209 139 150	Baumann-Prase 240·3 Rp 1
+203 127 136	Baumann-Prase 241·4 Rp 1
+185 103 112	Baumann-Prase 242·5 Rp 1
+177  89  96	Baumann-Prase 243·6 Rp 1
+150  72  82	Baumann-Prase 244·7 Rp 1
+152  64  71	Baumann-Prase 245·8 Rp 1
+127  52  57	Baumann-Prase 246·9 Rp 1
+210 160 163	Baumann-Prase 247·2 Rp 2
+201 140 140	Baumann-Prase 248·4 Rp 2
+170 103 106	Baumann-Prase 249·6 Rp 2
+150  86  90	Baumann-Prase 250·8 Rp 2
+107  59  58	Baumann-Prase 251·10 Rp 2
+218 197 190	Baumann-Prase 252·1 Rp 3
+182 149 154	Baumann-Prase 253·3 Rp 3
+154 119 118	Baumann-Prase 254·5 Rp 3
+129  94  97	Baumann-Prase 255·7 Rp 3
+107  75  79	Baumann-Prase 256·9 Rp 3
+ 87  58  58	Baumann-Prase 257·11 Rp 3
+240 183 179	Baumann-Prase 272·1 R
+236 162 158	Baumann-Prase 273·2 R
+228 136 132	Baumann-Prase 274·3 R
+216 109 109	Baumann-Prase 275·4 R
+204  98 100	Baumann-Prase 276·5 R
+202  76  78	Baumann-Prase 277·6 R
+186  67  65	Baumann-Prase 278·7 R
+182  57  57	Baumann-Prase 279·8 R
+230 159 157	Baumann-Prase 280·2 R 1
+225 143 142	Baumann-Prase 281·3 R 1
+211 130 131	Baumann-Prase 282·4 R 1
+201 109 113	Baumann-Prase 283·5 R 1
+193  94 101	Baumann-Prase 284·6 R 1
+176  74  80	Baumann-Prase 285·7 R 1
+171  69  70	Baumann-Prase 286·8 R 1
+151  55  58	Baumann-Prase 287·9 R 1
+212 162 160	Baumann-Prase 288·2 R 2
+197 136 134	Baumann-Prase 289·4 R 2
+170 102 103	Baumann-Prase 290·6 R 2
+143  81  81	Baumann-Prase 291·8 R 2
+124  68  65	Baumann-Prase 292·10 R 2
+217 180 174	Baumann-Prase 293·1 R 3
+191 151 149	Baumann-Prase 294·3 R 3
+161 119 119	Baumann-Prase 295·5 R 3
+141 100  99	Baumann-Prase 296·7 R 3
+115  75  73	Baumann-Prase 297·9 R 3
+ 94  61  59	Baumann-Prase 298·11 R 3
+226 139 142	Baumann-Prase 258·2 R-Rp
+213 117 130	Baumann-Prase 259·3 R-Rp
+209 102 116	Baumann-Prase 260·4 R-Rp
+205  93 103	Baumann-Prase 261·5 R-Rp
+199  77  90	Baumann-Prase 262·6 R-Rp
+189  63  71	Baumann-Prase 263·7 R-Rp
+172  53  60	Baumann-Prase 264·8 R-Rp
+201 102 115	Baumann-Prase 265·5 R-Rp 1
+181  73  83	Baumann-Prase 266·7 R-Rp 1
+157  48  56	Baumann-Prase 267·9 R-Rp 1
+210 141 148	Baumann-Prase 268·4 R-Rp 2
+171  95  98	Baumann-Prase 269·6 R-Rp 2
+146  74  79	Baumann-Prase 270·8 R-Rp 2
+125  56  56	Baumann-Prase 271·10 R-Rp 2
+206 140 130	Baumann-Prase 309·3 R-Ro 2
+176 106  99	Baumann-Prase 310·5 R-Ro 2
+153  80  70	Baumann-Prase 311·7 R-Ro 2
+126  64  56	Baumann-Prase 312·9 R-Ro 2
+173 123 120	Baumann-Prase 313·4 R-Ro 3
+156 106 103	Baumann-Prase 314·6 R-Ro 3
+124  76  72	Baumann-Prase 315·8 R-Ro 3
+114  63  57	Baumann-Prase 316·10 R-Ro 3
+235 154 144	Baumann-Prase 299·2 R-Ro
+233 133 125	Baumann-Prase 300·3 R-Ro
+225 108  99	Baumann-Prase 301·4 R-Ro
+220  93  84	Baumann-Prase 302·5 R-Ro
+208  70  61	Baumann-Prase 303·6 R-Ro
+175  64  60	Baumann-Prase 304·7 R-Ro
+232 155 144	Baumann-Prase 305·2 R-Ro 1
+210 112 105	Baumann-Prase 306·4 R-Ro 1
+177  88  85	Baumann-Prase 307·6 R-Ro 1
+148  60  50	Baumann-Prase 308·8 R-Ro 1
+243 179 161	Baumann-Prase 317·1 Ro
+235 143 126	Baumann-Prase 318·2 Ro
+231 122 107	Baumann-Prase 319·3 Ro
+229 107  89	Baumann-Prase 320·4 Ro
+224  90  67	Baumann-Prase 321·5 Ro
+213  76  52	Baumann-Prase 322·6 Ro
+196  66  48	Baumann-Prase 323·7 Ro
+242 173 165	Baumann-Prase 324·2 Ro 1
+236 145 134	Baumann-Prase 325·3 Ro 1
+221 130 122	Baumann-Prase 326·4 Ro 1
+217 108  96	Baumann-Prase 327·5 Ro 1
+198  85  72	Baumann-Prase 328·6 Ro 1
+184  70  56	Baumann-Prase 329·7 Ro 1
+157  67  56	Baumann-Prase 330·8 Ro 1
+231 194 186	Baumann-Prase 331·1 Ro 2
+214 147 135	Baumann-Prase 332·3 Ro 2
+194 115 102	Baumann-Prase 333·5 Ro 2
+170  90  80	Baumann-Prase 334·7 Ro 2
+145  65  54	Baumann-Prase 335·9 Ro 2
+221 171 159	Baumann-Prase 336·2 Ro 3
+189 131 120	Baumann-Prase 337·4 Ro 3
+165 105  94	Baumann-Prase 338·6 Ro 3
+140  81  73	Baumann-Prase 339·8 Ro 3
+115  65  56	Baumann-Prase 340·10 Ro 3
+217 189 178	Baumann-Prase 341·1 Ro 4
+183 152 145	Baumann-Prase 342·3 Ro 4
+153 118 112	Baumann-Prase 343·5 Ro 4
+136  99  89	Baumann-Prase 344·7 Ro 4
+116  80  68	Baumann-Prase 345·9 Ro 4
+ 93  63  55	Baumann-Prase 346·11 Ro 4
+236 185 159	Baumann-Prase 362·1 Or
+239 163 128	Baumann-Prase 363·2 Or
+241 144 103	Baumann-Prase 364·3 Or
+232 124  79	Baumann-Prase 365·4 Or
+226 111  59	Baumann-Prase 366·5 Or
+224  85  39	Baumann-Prase 367·6 Or
+226 157 128	Baumann-Prase 368·2 Or 1
+225 140 107	Baumann-Prase 369·3 Or 1
+222 128  88	Baumann-Prase 370·4 Or 1
+210 118  76	Baumann-Prase 371·5 Or 1
+205 109  67	Baumann-Prase 372·6 Or 1
+187  88  48	Baumann-Prase 373·7 Or 1
+223 164 146	Baumann-Prase 374·2 Or 2
+218 151 127	Baumann-Prase 375·3 Or 2
+203 134 107	Baumann-Prase 376·4 Or 2
+192 117  89	Baumann-Prase 377·5 Or 2
+189 108  78	Baumann-Prase 378·6 Or 2
+180  99  72	Baumann-Prase 379·7 Or 2
+158  82  58	Baumann-Prase 380·8 Or 2
+222 185 167	Baumann-Prase 381·1 Or 3
+209 155 136	Baumann-Prase 382·3 Or 3
+175 117  95	Baumann-Prase 383·Or 3
+156  95  72	Baumann-Prase 384·7 Or 3
+134  77  56	Baumann-Prase 385·9 Or 3
+214 163 144	Baumann-Prase 386·2 Or 4
+180 134 113	Baumann-Prase 387·4 Or 4
+161 115  98	Baumann-Prase 388·6 Or 4
+134  91  76	Baumann-Prase 389·8 Or 4
+103  65  54	Baumann-Prase 390·10 Or 4
+190 154 135	Baumann-Prase 391·3 Or 5
+159 126 112	Baumann-Prase 392·5 Or 5
+136 106  94	Baumann-Prase 393·7 Or 5
+114  88  77	Baumann-Prase 394·9 Or 5
+ 83  62  54	Baumann-Prase 395·11 Or 5
+237 149 118	Baumann-Prase 347·2 Ro-Or
+235 139 107	Baumann-Prase 348·3 Ro-Or
+226 127  95	Baumann-Prase 349·4 Ro-Or
+225 103  68	Baumann-Prase 350·5 Ro-Or
+214  90  61	Baumann-Prase 351·6 Ro-Or
+212  77  44	Baumann-Prase 352·7 Ro-Or
+224 161 145	Baumann-Prase 353·2 Ro-Or 1
+214 133 109	Baumann-Prase 354·4 Ro-Or 1
+186  95  72	Baumann-Prase 355·6 Ro-Or 1
+158  75  54	Baumann-Prase 356·8 Ro-Or 1
+220 150 130	Baumann-Prase 357·3 Ro-Or 2
+188 120  99	Baumann-Prase 358·5 Ro-Or 2
+155  87  70	Baumann-Prase 359·7 Ro-Or 2
+136  72  59	Baumann-Prase 360·9 Ro-Or 2
+107  65  57	Baumann-Prase 361·10 Ro-Or 3
+205 151 122	Baumann-Prase 407·3 O-Or 3
+179 119  87	Baumann-Prase 408·5 O-Or 3
+155 102  76	Baumann-Prase 409·7 O-Or 3
+125  76  57	Baumann-Prase 410·9 O-Or 3
+109  75  60	Baumann-Prase 411·10 O-Or 4
+237 170 124	Baumann-Prase 396·2 O-Or
+239 156  99	Baumann-Prase 397·3 O-Or
+234 143  84	Baumann-Prase 398·4 O-Or
+229 125  58	Baumann-Prase 399·5 O-Or
+223  99  37	Baumann-Prase 400·6 O-Or
+224 155 108	Baumann-Prase 401·3 O-Or 1
+212 129  76	Baumann-Prase 402·5 O-Or 1
+180  98  53	Baumann-Prase 403·7 O-Or 1
+198 136  97	Baumann-Prase 404·4 O-Or 2
+175 111  76	Baumann-Prase 405·6 O-Or 2
+155  87  54	Baumann-Prase 406·8 O-Or 2
+237 200 155	Baumann-Prase 412·1 O
+238 184 132	Baumann-Prase 413·2 O
+236 159  94	Baumann-Prase 414·3 O
+226 138  69	Baumann-Prase 415·4 O
+228 119  47	Baumann-Prase 416·5 O
+236 179 130	Baumann-Prase 417·2 O 1
+229 163 106	Baumann-Prase 418·3 O 1
+219 141  78	Baumann-Prase 419·4 O 1
+209 123  58	Baumann-Prase 420·5 O 1
+193 111  49	Baumann-Prase 421·6 O 1
+231 195 165	Baumann-Prase 422·1 O 2
+224 177 139	Baumann-Prase 423·2 O 2
+215 158 114	Baumann-Prase 424·3 O 2
+206 145 100	Baumann-Prase 425·4 O 2
+200 130  79	Baumann-Prase 426·5 O 2
+187 117  71	Baumann-Prase 427·6 O 2
+160 101  61	Baumann-Prase 428·7 O 2
+218 171 139	Baumann-Prase 429·2 O 3
+205 156 122	Baumann-Prase 430·3 O 3
+193 143 111	Baumann-Prase 431·4 O 3
+184 128  90	Baumann-Prase 432·5 O 3
+174 118  83	Baumann-Prase 433·6 O 3
+154 104  72	Baumann-Prase 434·7 O 3
+151  97  65	Baumann-Prase 435·8 O 3
+201 162 138	Baumann-Prase 436·3 O 4
+163 120  94	Baumann-Prase 437·5 O 4
+149 100  73	Baumann-Prase 438·7 O 4
+130  86  61	Baumann-Prase 439·9 O 4
+210 183 161	Baumann-Prase 440·2 O 5
+178 144 120	Baumann-Prase 441·4 O 5
+163 125 102	Baumann-Prase 442·6 O 5
+139 103  81	Baumann-Prase 443·8 O 5
+118  80  60	Baumann-Prase 444·10 O 5
+215 194 174	Baumann-Prase 445·1 O 6
+184 158 140	Baumann-Prase 446·3 O 6
+153 130 113	Baumann-Prase 447·5 O 6
+137 111  95	Baumann-Prase 448·7 O 6
+109  88  75	Baumann-Prase 449·9 O 6
+ 88  68  58	Baumann-Prase 450·11 O 6
+238 181 127	Baumann-Prase 451·2 O-Oc
+235 161  97	Baumann-Prase 452·3 O-Oc
+229 145  73	Baumann-Prase 453·4 O-Oc
+230 135  48	Baumann-Prase 454·5 O-Oc
+212 117  37	Baumann-Prase 455·6 O-Oc
+224 164 104	Baumann-Prase 456·3 O-Oc 1
+198 121  57	Baumann-Prase 457·5 O-Oc 1
+163  98  52	Baumann-Prase 458·7 O-Oc 1
+194 139  94	Baumann-Prase 459·4 O-Oc 2
+175 116  70	Baumann-Prase 460·6 O-Oc 2
+129  83  55	Baumann-Prase 461·8 O-Oc 2
+173 128  89	Baumann-Prase 462·5 O-Oc 3
+144 101  70	Baumann-Prase 463·7 O-Oc 3
+124  84  57	Baumann-Prase 464·9 O-Oc 3
+109  77  59	Baumann-Prase 465·10 O-Oc 4
+242 200 147	Baumann-Prase 466·1 Oc
+239 185 118	Baumann-Prase 467·2 Oc
+236 167  81	Baumann-Prase 468·3 Oc
+233 151  64	Baumann-Prase 469·4 Oc
+229 137  38	Baumann-Prase 470·5 Oc
+236 185 129	Baumann-Prase 471·2 Oc 1
+227 166 100	Baumann-Prase 472·3 Oc 1
+219 153  81	Baumann-Prase 473·4 Oc 1
+208 139  67	Baumann-Prase 474·5 Oc 1
+207 129  47	Baumann-Prase 475·6 Oc 1
+227 195 154	Baumann-Prase 476·1 Oc 2
+226 183 137	Baumann-Prase 477·2 Oc 2
+222 171 121	Baumann-Prase 478·3 Oc 2
+211 156 103	Baumann-Prase 479·4 Oc 2
+195 136  80	Baumann-Prase 480·5 Oc 2
+188 125  68	Baumann-Prase 481·6 Oc 2
+181 117  60	Baumann-Prase 482·7 Oc 2
+220 181 148	Baumann-Prase 483·2 Oc 3
+208 165 127	Baumann-Prase 484·3 Oc 3
+202 154 113	Baumann-Prase 485·4 Oc 3
+185 137  97	Baumann-Prase 486·5 Oc 3
+176 128  89	Baumann-Prase 487·6 Oc 3
+165 112  69	Baumann-Prase 488·7 Oc 3
+145  95  57	Baumann-Prase 489·8 Oc 3
+223 193 162	Baumann-Prase 490·1 Oc 4
+199 162 130	Baumann-Prase 491·3 Oc 4
+175 136 106	Baumann-Prase 492·5 Oc 4
+150 109  78	Baumann-Prase 493·7 Oc 4
+131  89  56	Baumann-Prase 494·9 Oc 4
+213 188 162	Baumann-Prase 495·2 Oc 5
+186 157 131	Baumann-Prase 496·4 Oc 5
+162 129 102	Baumann-Prase 497·6 Oc 5
+139 108  83	Baumann-Prase 498·8 Oc 5
+114  83  61	Baumann-Prase 499·10 Oc 5
+191 165 139	Baumann-Prase 500·3 Oc 6
+172 149 127	Baumann-Prase 501·5 Oc 6
+144 120  99	Baumann-Prase 502·7 Oc 6
+109  86  70	Baumann-Prase 503·9 Oc 6
+ 91  72  55	Baumann-Prase 504·11 Oc 6
+242 187 113	Baumann-Prase 505·2 CO-Oc
+240 165  67	Baumann-Prase 506·3 CO-Oc
+228 147  43	Baumann-Prase 507·4 CO-Oc
+215 131  34	Baumann-Prase 508·5 CO-Oc
+234 192 123	Baumann-Prase 509·2 CO-Oc 1
+213 149  69	Baumann-Prase 510·4 CO-Oc 1
+187 119  52	Baumann-Prase 511·6 CO-Oc 1
+209 157  81	Baumann-Prase 512·3 CO-Oc 2
+191 132  58	Baumann-Prase 513·5 CO-Oc 2
+157 102  53	Baumann-Prase 514·7 CO-Oc 2
+199 144  88	Baumann-Prase 515·4 CO-Oc 3
+160 107  58	Baumann-Prase 516·6 CO-Oc 3
+137  92  53	Baumann-Prase 517·8 CO-Oc 3
+176 127  84	Baumann-Prase 518·5 CO-Oc 4
+139  99  66	Baumann-Prase 519·7 CO-Oc 4
+114  80  57	Baumann-Prase 520·9 CO-Oc 4
+ 96  74  56	Baumann-Prase 521·10 CO-Oc 5
+244 209 140	Baumann-Prase 522·1 CO
+235 182  88	Baumann-Prase 523·2 CO
+238 169  54	Baumann-Prase 524·3 CO
+240 159  24	Baumann-Prase 525·4 CO
+240 206 150	Baumann-Prase 526·1 CO 1
+240 193 114	Baumann-Prase 527·2 CO 1
+228 173  86	Baumann-Prase 528·3 CO 1
+227 162  63	Baumann-Prase 529·4 CO 1
+216 147  42	Baumann-Prase 530·5 CO 1
+225 187 132	Baumann-Prase 531·2 CO 2
+224 176 103	Baumann-Prase 532·3 CO 2
+208 151  74	Baumann-Prase 533·4 CO 2
+201 144  69	Baumann-Prase 534·5 CO 2
+185 125  54	Baumann-Prase 535·6 CO 2
+231 207 168	Baumann-Prase 536·1 CO 3
+218 186 144	Baumann-Prase 537·2 CO 3
+210 168 113	Baumann-Prase 538·3 CO 3
+201 153  94	Baumann-Prase 539·4 CO 3
+185 137  80	Baumann-Prase 540·5 CO 3
+175 125  67	Baumann-Prase 541·6 CO 3
+162 114  58	Baumann-Prase 542·7 CO 3
+218 185 142	Baumann-Prase 543·2 CO 4
+200 167 123	Baumann-Prase 544·3 CO 4
+186 149 102	Baumann-Prase 545·4 CO 4
+182 142  96	Baumann-Prase 546·5 CO 4
+160 120  78	Baumann-Prase 547·6 CO 4
+152 113  71	Baumann-Prase 548·7 CO 4
+137  98  59	Baumann-Prase 549·8 CO 4
+194 163 127	Baumann-Prase 550·3 CO 5
+167 133  98	Baumann-Prase 551·5 CO 5
+149 112  76	Baumann-Prase 552·7 CO 5
+125  92  62	Baumann-Prase 553·9 CO 5
+209 188 161	Baumann-Prase 554·2 CO 6
+180 151 118	Baumann-Prase 555·4 CO 6
+153 120  89	Baumann-Prase 556·6 CO 6
+128  98  69	Baumann-Prase 557·8 CO 6
+108  80  57	Baumann-Prase 558·10 CO 6
+216 200 170	Baumann-Prase 559·1 CO 7
+189 170 142	Baumann-Prase 560·3 CO 7
+160 137 109	Baumann-Prase 561·5 CO 7
+142 122  98	Baumann-Prase 562·7 CO 7
+112  95  75	Baumann-Prase 563·9 CO 7
+ 87  72  60	Baumann-Prase 564·11 CO 7
+242 191  87	Baumann-Prase 565·2 Co-CO
+241 174  37	Baumann-Prase 566·3 Co-CO
+240 171  33	Baumann-Prase 567·4 Co-CO
+233 186  96	Baumann-Prase 568·2 Co-CO 1
+227 175  75	Baumann-Prase 569·3 Co-CO 1
+213 159  63	Baumann-Prase 570·4 Co-CO 1
+203 143  41	Baumann-Prase 571·5 Co-CO 1
+223 183 111	Baumann-Prase 572·2 Co-CO 2
+207 157  75	Baumann-Prase 573·4 Co-CO 2
+173 123  53	Baumann-Prase 574·6 Co-CO 2
+206 167  99	Baumann-Prase 575·3 Co-CO 3
+182 137  74	Baumann-Prase 576·5 Co-CO 3
+148 109  56	Baumann-Prase 577·7 Co-CO 3
+184 149  98	Baumann-Prase 578·4 Co-CO 4
+157 122  73	Baumann-Prase 579·6 Co-CO 4
+135 101  61	Baumann-Prase 580·8 Co-CO 4
+171 141 100	Baumann-Prase 581·5 Co-CO 5
+144 112  73	Baumann-Prase 582·7 Co-CO 5
+118  91  62	Baumann-Prase 583·9 Co-CO 5
+103  81  58	Baumann-Prase 584·10 Co-CO 6
+239 222 157	Baumann-Prase 585·½ Co
+237 209 118	Baumann-Prase 586·1 Co
+245 204  82	Baumann-Prase 587·1½ Co
+247 201  75	Baumann-Prase 588·2 Co
+244 192  44	Baumann-Prase 589·2½ Co
+238 181  38	Baumann-Prase 590·3 Co
+235 210 130	Baumann-Prase 591·1 Co 1
+235 193  87	Baumann-Prase 592·2 Co 1
+233 181  60	Baumann-Prase 593·3 Co 1
+228 170  46	Baumann-Prase 594·4 Co 1
+228 195 114	Baumann-Prase 595·2 Co 2
+219 174  76	Baumann-Prase 596·3 Co 2
+211 161  59	Baumann-Prase 597·4 Co 2
+200 151  53	Baumann-Prase 598·5 Co 2
+227 203 145	Baumann-Prase 599·1 Co 3
+218 186 113	Baumann-Prase 600·2 Co 3
+210 170  87	Baumann-Prase 601·3 Co 3
+202 160  73	Baumann-Prase 602·4 Co 3
+188 146  61	Baumann-Prase 603·5 Co 3
+172 132  59	Baumann-Prase 604·6 Co 3
+213 182 119	Baumann-Prase 605·2 Co 4
+194 161  93	Baumann-Prase 606·3 Co 4
+190 152  80	Baumann-Prase 607·4 Co 4
+174 139  73	Baumann-Prase 608·5 Co 4
+160 124  64	Baumann-Prase 609·6 Co 4
+145 113  63	Baumann-Prase 610·7 Co 4
+206 179 130	Baumann-Prase 611·2 Co 5
+181 149  91	Baumann-Prase 612·4 Co 5
+163 128  73	Baumann-Prase 613·6 Co 5
+136 106  63	Baumann-Prase 614·8 Co 5
+220 198 153	Baumann-Prase 615·1 Co 6
+190 162 115	Baumann-Prase 616·3 Co 6
+166 138  92	Baumann-Prase 617·5 Co 6
+144 116  75	Baumann-Prase 618·7 Co 6
+116  90  61	Baumann-Prase 619·9 Co 6
+203 181 142	Baumann-Prase 620·2 Co 7
+173 149 110	Baumann-Prase 621·4 Co 7
+152 130  95	Baumann-Prase 622·6 Co 7
+131 106  75	Baumann-Prase 623·8 Co 7
+101  83  63	Baumann-Prase 624·10 Co 7
+183 165 133	Baumann-Prase 625·3 Co 8
+157 137 105	Baumann-Prase 626·5 Co 8
+132 115  90	Baumann-Prase 627·7 Co 8
+106  93  74	Baumann-Prase 628·9 Co 8
+ 81  70  56	Baumann-Prase 629·11 Co 8
+237 211 123	Baumann-Prase 630·1 C-Co
+240 203  78	Baumann-Prase 631·1½ C-Co
+240 194  25	Baumann-Prase 632·2 C-Co
+229 209 122	Baumann-Prase 633·1 C-Co 1
+231 193  68	Baumann-Prase 634·2 C-Co 1
+221 176  38	Baumann-Prase 635·3 C-Co 1
+228 198 100	Baumann-Prase 636·2 C-Co 2
+218 179  67	Baumann-Prase 637·3 C-Co 2
+208 165  45	Baumann-Prase 638·4 C-Co 2
+212 176  77	Baumann-Prase 639·3 C-Co 3
+200 158  59	Baumann-Prase 640·4 C-Co 3
+189 146  48	Baumann-Prase 641·5 C-Co 3
+214 186 115	Baumann-Prase 642·2 C-Co 4
+193 157  77	Baumann-Prase 643·4 C-Co 4
+173 135  59	Baumann-Prase 644·6 C-Co 4
+206 176 107	Baumann-Prase 645·3 C-Co 5
+173 140  74	Baumann-Prase 646·5 C-Co 5
+154 124  63	Baumann-Prase 647·7 C-Co 5
+179 153 102	Baumann-Prase 648·4 C-Co 6
+165 139  88	Baumann-Prase 649·6 C-Co 6
+136 109  65	Baumann-Prase 650·8 C-Co 6
+116  92  62	Baumann-Prase 651·9 C-Co 7
+238 227 169	Baumann-Prase 652·½ C
+234 214 114	Baumann-Prase 653·1 C
+235 211  83	Baumann-Prase 654·1½ C
+233 206  60	Baumann-Prase 655·2 C
+233 215 128	Baumann-Prase 656·1 C 1
+234 210  98	Baumann-Prase 657·1½ C 1
+234 206  75	Baumann-Prase 658·2 C 1
+227 195  49	Baumann-Prase 659·2½ C 1
+221 190  41	Baumann-Prase 660·3 C 1
+226 200  88	Baumann-Prase 661·2 C 2
+217 188  66	Baumann-Prase 662·3 C 2
+203 173  44	Baumann-Prase 663·4 C 2
+229 214 150	Baumann-Prase 664·1 C 3
+223 199 116	Baumann-Prase 665·2 C 3
+204 174  88	Baumann-Prase 666·3 C 3
+196 166  70	Baumann-Prase 667·4 C 3
+179 148  57	Baumann-Prase 668·5 C 3
+207 184 109	Baumann-Prase 669·2 C 4
+200 174 103	Baumann-Prase 670·3 C 4
+197 168  94	Baumann-Prase 671·4 C 4
+179 150  74	Baumann-Prase 672·5 C 4
+159 135  66	Baumann-Prase 673·6 C 4
+231 215 166	Baumann-Prase 674·1 C 5
+203 179 120	Baumann-Prase 675·3 C 5
+179 149  83	Baumann-Prase 676·5 C 5
+151 124  63	Baumann-Prase 677·7 C 5
+201 182 137	Baumann-Prase 678·2 C 6
+175 147  90	Baumann-Prase 679·4 C 6
+145 121  73	Baumann-Prase 680·6 C 6
+137 112  65	Baumann-Prase 681·8 C 6
+189 166 120	Baumann-Prase 682·3 C 7
+163 141  98	Baumann-Prase 683·5 C 7
+141 117  76	Baumann-Prase 684·7 C 7
+123 102  69	Baumann-Prase 685·9 C 7
+201 181 146	Baumann-Prase 686·2 C 8
+172 150 113	Baumann-Prase 687·4 C 8
+150 127  92	Baumann-Prase 688·6 C 8
+127 105  70	Baumann-Prase 689·8 C 8
+107  89  62	Baumann-Prase 690·10 C 8
+213 202 177	Baumann-Prase 691·1 C 9
+175 162 135	Baumann-Prase 692·3 C 9
+148 136 113	Baumann-Prase 693·5 C 9
+124 113  93	Baumann-Prase 694·7 C 9
+104  91  74	Baumann-Prase 695·9 C 9
+ 86  77  63	Baumann-Prase 696·11 C 9
+229 217 137	Baumann-Prase 697·1 C-Cg
+221 205  90	Baumann-Prase 698·1½ C-Cg
+216 198  48	Baumann-Prase 699·2 C-Cg
+223 206  96	Baumann-Prase 700·2 C-Cg 1
+207 195  64	Baumann-Prase 701·2½ C-Cg 1
+201 187  44	Baumann-Prase 702·3 C-Cg 1
+219 201  91	Baumann-Prase 703·2 C-Cg 2
+204 185  65	Baumann-Prase 704·3 C-Cg 2
+191 170  46	Baumann-Prase 705·4 C-Cg 2
+203 183  79	Baumann-Prase 706·3 C-Cg 3
+188 169  68	Baumann-Prase 707·4 C-Cg 3
+171 154  58	Baumann-Prase 708·5 C-Cg 3
+210 192 112	Baumann-Prase 709·2 C-Cg 4
+188 169  84	Baumann-Prase 710·4 C-Cg 4
+161 138  57	Baumann-Prase 711·6 C-Cg 4
+202 178 107	Baumann-Prase 712·3 C-Cg 5
+176 154  82	Baumann-Prase 713·5 C-Cg 5
+147 130  60	Baumann-Prase 714·7 C-Cg 5
+181 163 105	Baumann-Prase 715·4 C-Cg 6
+144 131  78	Baumann-Prase 716·6 C-Cg 6
+125 113  66	Baumann-Prase 717·8 C-Cg 6
+113 103  65	Baumann-Prase 718·9 C-Cg 7
+235 229 171	Baumann-Prase 719·½ Cg
+232 224 142	Baumann-Prase 720·1 Cg
+223 221 124	Baumann-Prase 721·1½ Cg
+218 215  98	Baumann-Prase 722·2 Cg
+206 201  78	Baumann-Prase 723·2½ Cg
+197 190  60	Baumann-Prase 724·3 Cg
+217 207 106	Baumann-Prase 725·2 Cg 1
+200 190  73	Baumann-Prase 726·3 Cg 1
+184 173  55	Baumann-Prase 727·4 Cg 1
+208 198 114	Baumann-Prase 728·2 Cg 2
+194 182  84	Baumann-Prase 729·3 Cg 2
+175 163  68	Baumann-Prase 730·4 Cg 2
+168 159  54	Baumann-Prase 731·5 Cg 2
+218 211 160	Baumann-Prase 732·1 Cg 3
+203 193 127	Baumann-Prase 733·2 Cg 3
+186 172  91	Baumann-Prase 734·3 Cg 3
+181 164  77	Baumann-Prase 735·4 Cg 3
+171 156  68	Baumann-Prase 736·5 Cg 3
+162 149  61	Baumann-Prase 737·6 Cg 3
+210 197 144	Baumann-Prase 738·2 Cg 4
+192 179 119	Baumann-Prase 739·3 Cg 4
+178 164  98	Baumann-Prase 740·4 Cg 4
+163 150  86	Baumann-Prase 741·5 Cg 4
+154 139  74	Baumann-Prase 742·6 Cg 4
+146 131  69	Baumann-Prase 743·7 Cg 4
+200 189 143	Baumann-Prase 744·2 Cg 5
+173 157 105	Baumann-Prase 745·4 Cg 5
+148 135  85	Baumann-Prase 746·6 Cg 5
+127 115  66	Baumann-Prase 747·8 Cg 5
+216 205 169	Baumann-Prase 748·1 Cg 6
+189 176 136	Baumann-Prase 749·3 Cg 6
+165 152 108	Baumann-Prase 750·5 Cg 6
+139 125  82	Baumann-Prase 751·7 Cg 6
+115 104  67	Baumann-Prase 752·9 Cg 6
+198 187 160	Baumann-Prase 753·2 Cg 7
+171 162 136	Baumann-Prase 754·4 Cg 7
+146 133 101	Baumann-Prase 755·6 Cg 7
+116 104  73	Baumann-Prase 756·8 Cg 7
+ 96  87  64	Baumann-Prase 757·10 Cg 7
+175 162 131	Baumann-Prase 758·3 Cg 8
+143 133 108	Baumann-Prase 759·5 Cg 8
+108 104  82	Baumann-Prase 760·7 Cg 8
+ 98  93  73	Baumann-Prase 761·9 Cg 8
+ 75  69  54	Baumann-Prase 762·11 Cg 8
+219 217 149	Baumann-Prase 763·1 Cg-Cgg
+196 203 110	Baumann-Prase 764·2 Cg-Cgg
+187 197  81	Baumann-Prase 765·3 Cg-Cgg
+163 175  64	Baumann-Prase 766·4 Cg-Cgg
+206 202 107	Baumann-Prase 767·2 Cg-Cgg 1
+191 191  91	Baumann-Prase 768·3 Cg-Cgg 1
+180 179  73	Baumann-Prase 769·4 Cg-Cgg 1
+170 171  60	Baumann-Prase 770·5 Cg-Cgg 1
+207 199 128	Baumann-Prase 771·2 Cg-Cgg 2
+193 187 107	Baumann-Prase 772·3 Cg-Cgg 2
+180 173  89	Baumann-Prase 773·4 Cg-Cgg 2
+166 158  70	Baumann-Prase 774·5 Cg-Cgg 2
+155 148  64	Baumann-Prase 775·6 Cg-Cgg 2
+194 181 116	Baumann-Prase 776·3 Cg-Cgg 3
+171 155  86	Baumann-Prase 777·5 Cg-Cgg 3
+151 140  72	Baumann-Prase 778·7 Cg-Cgg 3
+189 173 112	Baumann-Prase 779·4 Cg-Cgg 4
+161 145  84	Baumann-Prase 780·6 Cg-Cgg 4
+136 121  67	Baumann-Prase 781·8 Cg-Cgg 4
+195 183 137	Baumann-Prase 782·3 Cg-Cgg 5
+163 151 102	Baumann-Prase 783·5 Cg-Cgg 5
+139 127  84	Baumann-Prase 784·7 Cg-Cgg 5
+119 105  70	Baumann-Prase 785·9 Cg-Cgg 5
+102  93  66	Baumann-Prase 786·10 Cg-Cgg 6
+216 222 165	Baumann-Prase 787·1 Cgg
+196 209 127	Baumann-Prase 788·2 Cgg
+173 193  87	Baumann-Prase 789·3 Cgg
+169 179  64	Baumann-Prase 790·4 Cgg
+203 207 144	Baumann-Prase 791·2 Cgg 1
+179 196 109	Baumann-Prase 792·3 Cgg 1
+173 185  81	Baumann-Prase 793·4 Cgg 1
+160 173  67	Baumann-Prase 794·5 Cgg 1
+203 206 143	Baumann-Prase 795·2 Cgg 2
+181 185 116	Baumann-Prase 796·3 Cgg 2
+171 178  92	Baumann-Prase 797·4 Cgg 2
+160 164  82	Baumann-Prase 798·5 Cgg 2
+147 152  68	Baumann-Prase 799·6 Cgg 2
+215 210 172	Baumann-Prase 800·1 Cgg 3
+204 201 153	Baumann-Prase 801·2 Cgg 3
+190 190 136	Baumann-Prase 802·3 Cgg 3
+171 169 106	Baumann-Prase 803·4 Cgg 3
+157 158  94	Baumann-Prase 804·5 Cgg 3
+145 141  78	Baumann-Prase 805·6 Cgg 3
+131 123  66	Baumann-Prase 806·7 Cgg 3
+204 195 155	Baumann-Prase 807·2 Cgg 4
+176 168 118	Baumann-Prase 808·4 Cgg 4
+153 143  90	Baumann-Prase 809·6 Cgg 4
+127 119  63	Baumann-Prase 810·8 Cgg 4
+201 194 152	Baumann-Prase 811·3 Cgg 5
+167 162 115	Baumann-Prase 812·5 Cgg 5
+141 135  87	Baumann-Prase 813·7 Cgg 5
+119 115  71	Baumann-Prase 814·9 Cgg 5
+204 196 160	Baumann-Prase 815·2 Cgg 6
+170 164 124	Baumann-Prase 816·4 Cgg 6
+148 142 106	Baumann-Prase 817·6 Cgg 6
+128 123  85	Baumann-Prase 818·8 Cgg 6
+ 98  96  66	Baumann-Prase 819·10 Cgg 6
+202 197 165	Baumann-Prase 820·1 Cgg 7
+191 185 155	Baumann-Prase 821·3 Cgg 7
+148 142 113	Baumann-Prase 822·5 Cgg 7
+134 127  98	Baumann-Prase 823·7 Cgg 7
+106 101  80	Baumann-Prase 824·9 Cgg 7
+ 83  81  65	Baumann-Prase 825·11 Cgg 7
+184 205 122	Baumann-Prase 826·2 Cgg-Gcc
+165 192  89	Baumann-Prase 827·3 Cgg-Gcc
+140 173  72	Baumann-Prase 828·4 Cgg-Gcc
+139 162  69	Baumann-Prase 829·5 Cgg-Gcc
+191 209 145	Baumann-Prase 830·2 Cgg-Gcc 1
+184 198 123	Baumann-Prase 831·3 Cgg-Gcc 1
+180 191 109	Baumann-Prase 832·4 Cgg-Gcc 1
+163 179  82	Baumann-Prase 833·5 Cgg-Gcc 1
+139 156  75	Baumann-Prase 834·6 Cgg-Gcc 1
+194 199 137	Baumann-Prase 835·3 Cgg-Gcc 2
+160 173  92	Baumann-Prase 836·5 Cgg-Gcc 2
+138 145  68	Baumann-Prase 837·7 Cgg-Gcc 2
+199 206 165	Baumann-Prase 838·2 Cgg-Gcc 3
+163 172 114	Baumann-Prase 839·4 Cgg-Gcc 3
+146 156  94	Baumann-Prase 840·6 Cgg-Gcc 3
+127 132  70	Baumann-Prase 841·8 Cgg-Gcc 3
+184 181 127	Baumann-Prase 842·3 Cgg-Gcc 4
+161 162 112	Baumann-Prase 843·5 Cgg-Gcc 4
+130 133  82	Baumann-Prase 844·7 Cgg-Gcc 4
+109 112  68	Baumann-Prase 845·9 Cgg-Gcc 4
+179 184 141	Baumann-Prase 846·4 Cgg-Gcc 5
+143 146 101	Baumann-Prase 847·6 Cgg-Gcc 5
+113 120  78	Baumann-Prase 848·8 Cgg-Gcc 5
+100 107  67	Baumann-Prase 849·10 Cgg-Gcc 5
+204 216 161	Baumann-Prase 850·1 Gcc
+182 202 134	Baumann-Prase 851·2 Gcc
+161 187 100	Baumann-Prase 852·3 Gcc
+152 182  80	Baumann-Prase 853·4 Gcc
+136 169  72	Baumann-Prase 854·5 Gcc
+192 211 154	Baumann-Prase 855·2 Gcc 1
+174 202 134	Baumann-Prase 856·3 Gcc 1
+151 185 105	Baumann-Prase 857·4 Gcc 1
+139 176  92	Baumann-Prase 858·5 Gcc 1
+119 166  81	Baumann-Prase 859·6 Gcc 1
+194 208 160	Baumann-Prase 860·2 Gcc 2
+187 201 151	Baumann-Prase 861·3 Gcc 2
+163 183 125	Baumann-Prase 862·4 Gcc 2
+146 171 104	Baumann-Prase 863·5 Gcc 2
+132 161  95	Baumann-Prase 864·6 Gcc 2
+114 145  79	Baumann-Prase 865·7 Gcc 2
+214 220 189	Baumann-Prase 866·1 Gcc 3
+196 208 171	Baumann-Prase 867·2 Gcc 3
+184 197 152	Baumann-Prase 868·3 Gcc 3
+166 185 137	Baumann-Prase 869·4 Gcc 3
+154 174 121	Baumann-Prase 870·5 Gcc 3
+132 156 104	Baumann-Prase 871·6 Gcc 3
+116 142  88	Baumann-Prase 872·7 Gcc 3
+108 131  78	Baumann-Prase 873·8 Gcc 3
+179 190 151	Baumann-Prase 874·3 Gcc 4
+146 164 115	Baumann-Prase 875·5 Gcc 4
+110 134  84	Baumann-Prase 876·7 Gcc 4
+ 90 111  73	Baumann-Prase 877·9 Gcc 4
+198 200 169	Baumann-Prase 878·2 Gcc 5
+160 169 132	Baumann-Prase 879·4 Gcc 5
+134 143 108	Baumann-Prase 880·6 Gcc 5
+109 121  88	Baumann-Prase 881·8 Gcc 5
+ 89 100  69	Baumann-Prase 882·10 Gcc 5
+197 198 172	Baumann-Prase 883·1 Gcc 6
+176 179 153	Baumann-Prase 884·3 Gcc 6
+145 154 129	Baumann-Prase 885·5 Gcc 6
+114 126 100	Baumann-Prase 886·7 Gcc 6
+ 99 104  83	Baumann-Prase 887·9 Gcc 6
+ 73  85  63	Baumann-Prase 888·11 Gcc 6
+179 208 142	Baumann-Prase 889·2 Gc-Gcc
+157 191 119	Baumann-Prase 890·3 Gc-Gcc
+147 186 106	Baumann-Prase 891·4 Gc-Gcc
+114 177  90	Baumann-Prase 892·5 Gc-Gcc
+158 203 126	Baumann-Prase 893·3 Gc-Gcc 1
+136 187 101	Baumann-Prase 894·4 Gc-Gcc 1
+120 172  82	Baumann-Prase 895·5 Gc-Gcc 1
+ 99 159  81	Baumann-Prase 896·6 Gc-Gcc 1
+163 196 132	Baumann-Prase 897·3 Gc-Gcc 2
+125 171 101	Baumann-Prase 898·5 Gc-Gcc 2
+105 155  85	Baumann-Prase 899·7 Gc-Gcc 2
+151 174 129	Baumann-Prase 900·4 Gc-Gcc 3
+122 152 100	Baumann-Prase 901·6 Gc-Gcc 3
+105 141  84	Baumann-Prase 902·8 Gc-Gcc 3
+142 166 125	Baumann-Prase 903·5 Gc-Gcc 4
+115 140  94	Baumann-Prase 904·7 Gc-Gcc 4
+ 89 112  69	Baumann-Prase 905·9 Gc-Gcc 4
+ 75  93  70	Baumann-Prase 906·10 Gc-Gcc 5
+202 218 182	Baumann-Prase 907·1 Gc
+172 203 155	Baumann-Prase 908·2 Gc
+149 190 133	Baumann-Prase 909·3 Gc
+126 173 108	Baumann-Prase 910·4 Gc
+115 173 100	Baumann-Prase 911·5 Gc
+ 88 152  81	Baumann-Prase 912·6 Gc
+183 209 167	Baumann-Prase 913·2 Gc 1
+150 190 139	Baumann-Prase 914·3 Gc 1
+132 175 117	Baumann-Prase 915·4 Gc 1
+120 169 112	Baumann-Prase 916·5 Gc 1
+100 161  98	Baumann-Prase 917·6 Gc 1
+ 86 145  82	Baumann-Prase 918·7 Gc 1
+212 223 194	Baumann-Prase 919·1 Gc 2
+177 198 160	Baumann-Prase 920·2 Gc 2
+169 193 151	Baumann-Prase 921·3 Gc 2
+150 177 131	Baumann-Prase 922·4 Gc 2
+127 162 113	Baumann-Prase 923·5 Gc 2
+110 148  91	Baumann-Prase 924·6 Gc 2
+ 91 143  91	Baumann-Prase 925·7 Gc 2
+ 77 138  74	Baumann-Prase 926·8 Gc 2
+167 188 157	Baumann-Prase 927·3 Gc 3
+120 152 112	Baumann-Prase 928·5 Gc 3
+ 92 126  88	Baumann-Prase 929·7 Gc 3
+ 65 126  70	Baumann-Prase 930·9 Gc 3
+184 196 167	Baumann-Prase 931·2 Gc 4
+144 168 137	Baumann-Prase 932·4 Gc 4
+116 140 106	Baumann-Prase 933·6 Gc 4
+ 99 120  92	Baumann-Prase 934·8 Gc 4
+ 71 100  69	Baumann-Prase 935·10 Gc 4
+199 207 185	Baumann-Prase 936·1 Gc 5
+157 174 151	Baumann-Prase 937·3 Gc 5
+140 157 134	Baumann-Prase 938·5 Gc 5
+108 125 105	Baumann-Prase 939·7 Gc 5
+ 83  99  79	Baumann-Prase 940·9 Gc 5
+ 69  77  61	Baumann-Prase 941·11 Gc 5
+177 210 169	Baumann-Prase 942·2 G
+147 194 146	Baumann-Prase 943·3 G
+121 177 119	Baumann-Prase 944·4 G
+ 91 170 106	Baumann-Prase 945·5 G
+ 63 162  96	Baumann-Prase 946·6 G
+153 196 147	Baumann-Prase 947·3 G 1
+ 97 172 121	Baumann-Prase 948·5 G 1
+ 80 159 103	Baumann-Prase 949·7 G 1
+137 182 137	Baumann-Prase 950·4 G 2
+109 159 117	Baumann-Prase 951·6 G 2
+ 53 133  85	Baumann-Prase 952·8 G 2
+126 169 137	Baumann-Prase 953·5 G 3
+ 97 145 112	Baumann-Prase 954·7 G 3
+ 55 104  78	Baumann-Prase 955·9 G 3
+ 60  91  75	Baumann-Prase 956·10 G 4
+121 161 147	Baumann-Prase 1002·5 Gb-Gbb 3
+ 80 127 111	Baumann-Prase 1003·7 Gb-Gbb 3
+ 43 105  95	Baumann-Prase 1004·9 Gb-Gbb 3
+ 40  88  83	Baumann-Prase 1005·10 Gb-Gbb 4
+165 213 191	Baumann-Prase 991·2 Gb-Gbb
+121 193 166	Baumann-Prase 992·3 Gb-Gbb
+ 92 181 152	Baumann-Prase 993·4 Gb-Gbb
+ 68 176 140	Baumann-Prase 994·5 Gb-Gbb
+ 68 149 124	Baumann-Prase 995·6 Gb-Gbb
+141 189 173	Baumann-Prase 996·3 Gb-Gbb 1
+104 166 142	Baumann-Prase 997·5 Gb-Gbb 1
+ 51 136 113	Baumann-Prase 998·7 Gb-Gbb 1
+133 182 164	Baumann-Prase 999·4 Gb-Gbb 2
+ 89 150 132	Baumann-Prase 1000·6 Gb-Gbb 2
+ 52 122 105	Baumann-Prase 1001·8 Gb-Gbb 2
+195 223 200	Baumann-Prase 957·1 Gb
+163 212 181	Baumann-Prase 958·2 Gb
+136 197 163	Baumann-Prase 959·3 Gb
+108 171 133	Baumann-Prase 960·4 Gb
+ 81 172 123	Baumann-Prase 961·5 Gb
+ 60 155 108	Baumann-Prase 962·6 Gb
+178 214 190	Baumann-Prase 963·2 Gb 1
+149 199 171	Baumann-Prase 964·3 Gb 1
+129 182 149	Baumann-Prase 965·4 Gb 1
+109 169 138	Baumann-Prase 966·5 Gb 1
+ 87 155 122	Baumann-Prase 967·6 Gb 1
+ 48 136  98	Baumann-Prase 968·7 Gb 1
+212 220 201	Baumann-Prase 969·1 Gb 2
+180 204 183	Baumann-Prase 970·2 Gb 2
+160 192 166	Baumann-Prase 971·3 Gb 2
+140 177 151	Baumann-Prase 972·4 Gb 2
+120 167 139	Baumann-Prase 973·5 Gb 2
+103 150 125	Baumann-Prase 974·6 Gb 2
+ 78 137 107	Baumann-Prase 975·7 Gb 2
+ 44 115  85	Baumann-Prase 976·8 Gb 2
+154 182 163	Baumann-Prase 977·3 Gb 3
+116 152 133	Baumann-Prase 978·5 Gb 3
+ 79 125 106	Baumann-Prase 979·7 Gb 3
+ 40 110  78	Baumann-Prase 980·9 Gb 3
+178 201 184	Baumann-Prase 981·2 Gb 4
+124 158 141	Baumann-Prase 982·4 Gb 4
+ 99 133 119	Baumann-Prase 983·6 Gb 4
+ 66 111  92	Baumann-Prase 984·8 Gb 4
+ 51  89  68	Baumann-Prase 985·10 Gb 4
+158 180 169	Baumann-Prase 986·3 Gb 5
+119 139 126	Baumann-Prase 987·5 Gb 5
+ 88 116 104	Baumann-Prase 988·7 Gb 5
+ 65  97  85	Baumann-Prase 989·9 Gb 5
+ 46  73  65	Baumann-Prase 990·11 Gb 5
+187 218 205	Baumann-Prase 1006·1 Gbb
+150 203 189	Baumann-Prase 1007·2 Gbb
+128 200 181	Baumann-Prase 1008·3 Gbb
+ 88 177 159	Baumann-Prase 1009·4 Gbb
+ 72 170 152	Baumann-Prase 1010·5 Gbb
+ 53 148 135	Baumann-Prase 1011·6 Gbb
+ 63 134 119	Baumann-Prase 1012·7 Gbb
+169 208 200	Baumann-Prase 1013·2 Gbb 1
+142 195 189	Baumann-Prase 1014·3 Gbb 1
+119 180 172	Baumann-Prase 1015·4 Gbb 1
+ 92 172 157	Baumann-Prase 1016·5 Gbb 1
+ 92 153 143	Baumann-Prase 1017·6 Gbb 1
+ 79 140 129	Baumann-Prase 1018·7 Gbb 1
+ 59 121 119	Baumann-Prase 1019·8 Gbb 1
+152 191 182	Baumann-Prase 1020·3 Gbb 2
+102 164 152	Baumann-Prase 1021·5 Gbb 2
+ 74 136 125	Baumann-Prase 1022·7 Gbb 2
+ 39 112 102	Baumann-Prase 1023·9 Gbb 2
+167 196 189	Baumann-Prase 1024·2 Gbb 3
+128 167 165	Baumann-Prase 1025·4 Gbb 3
+101 141 138	Baumann-Prase 1026·6 Gbb 3
+ 71 110 111	Baumann-Prase 1027·8 Gbb 3
+ 52  86  89	Baumann-Prase 1028·10 Gbb 3
+197 208 204	Baumann-Prase 1029·1 Gbb 4
+152 167 164	Baumann-Prase 1030·3 Gbb 4
+124 145 139	Baumann-Prase 1031·5 Gbb 4
+105 127 125	Baumann-Prase 1032·7 Gbb 4
+ 66  92  91	Baumann-Prase 1033·9 Gbb 4
+ 54  74  75	Baumann-Prase 1034·11 Gbb 4
+150 206 200	Baumann-Prase 1035·2 Gbb-Bgg
+111 190 188	Baumann-Prase 1036·3 Gbb-Bgg
+ 82 174 175	Baumann-Prase 1037·4 Gbb-Bgg
+ 49 162 168	Baumann-Prase 1038·5 Gbb-Bgg
+ 52 141 144	Baumann-Prase 1039·6 Gbb-Bgg
+ 48 123 132	Baumann-Prase 1040·7 Gbb-Bgg
+125 171 181	Baumann-Prase 1041·4 Gbb-Bgg 1
+ 79 140 159	Baumann-Prase 1042·6 Gbb-Bgg 1
+ 53 113 134	Baumann-Prase 1043·8 Gbb-Bgg 1
+159 192 193	Baumann-Prase 1044·3 Gbb-Bgg 2
+119 159 168	Baumann-Prase 1045·5 Gbb-Bgg 2
+ 78 123 138	Baumann-Prase 1046·7 Gbb-Bgg 2
+ 59 105 117	Baumann-Prase 1047·9 Gbb-Bgg 2
+130 160 166	Baumann-Prase 1048·4 Gbb-Bgg 3
+ 92 127 137	Baumann-Prase 1049·6 Gbb-Bgg 3
+ 68 107 127	Baumann-Prase 1050·8 Gbb-Bgg 3
+ 51  89 107	Baumann-Prase 1051·10 Gbb-Bgg 3
+132 163 180	Baumann-Prase 1090·4 Bg-Bgg 2
+103 132 149	Baumann-Prase 1091·6 Bg-Bgg 2
+ 67  99 121	Baumann-Prase 1092·8 Bg-Bgg 2
+ 45  77 112	Baumann-Prase 1093·10 Bg-Bgg 2
+141 210 213	Baumann-Prase 1079·2 Bg-Bgg
+ 96 198 211	Baumann-Prase 1080·3 Bg-Bgg
+ 51 177 195	Baumann-Prase 1081·4 Bg-Bgg
+ 15 155 178	Baumann-Prase 1082·5 Bg-Bgg
+ 31 140 178	Baumann-Prase 1083·6 Bg-Bgg
+ 24 121 180	Baumann-Prase 1084·7 Bg-Bgg
+ 41 109 181	Baumann-Prase 1085·8 Bg-Bgg
+132 177 200	Baumann-Prase 1086·3 Bg-Bgg 1
+108 153 177	Baumann-Prase 1087·5 Bg-Bgg 1
+ 73 121 156	Baumann-Prase 1088·7 Bg-Bgg 1
+ 45  89 127	Baumann-Prase 1089·9 Bg-Bgg 1
+165 219 217	Baumann-Prase 1052·1 Bgg
+129 204 209	Baumann-Prase 1053·2 Bgg
+ 92 189 202	Baumann-Prase 1054·3 Bgg
+ 77 174 188	Baumann-Prase 1055·4 Bgg
+ 36 162 182	Baumann-Prase 1056·5 Bgg
+ 32 138 177	Baumann-Prase 1057·6 Bgg
+ 42 130 170	Baumann-Prase 1058·7 Bgg
+ 56 124 174	Baumann-Prase 1059·8 Bgg
+164 200 211	Baumann-Prase 1060·2 Bgg 1
+140 182 196	Baumann-Prase 1061·3 Bgg 1
+115 167 188	Baumann-Prase 1062·4 Bgg 1
+106 156 182	Baumann-Prase 1063·5 Bgg 1
+102 146 169	Baumann-Prase 1064·6 Bgg 1
+ 80 128 154	Baumann-Prase 1065·7 Bgg 1
+ 66 112 149	Baumann-Prase 1066·8 Bgg 1
+ 47  97 139	Baumann-Prase 1067·9 Bgg 1
+179 197 203	Baumann-Prase 1068·2 Bgg 2
+142 165 178	Baumann-Prase 1069·4 Bgg 2
+ 99 127 142	Baumann-Prase 1070·6 Bgg 2
+ 73 110 133	Baumann-Prase 1071·8 Bgg 2
+ 49  89 119	Baumann-Prase 1072·10 Bgg 2
+207 211 210	Baumann-Prase 1073·1 Bgg 3
+161 177 187	Baumann-Prase 1074·3 Bgg 3
+126 145 158	Baumann-Prase 1075·5 Bgg 3
+ 99 123 139	Baumann-Prase 1076·7 Bgg 3
+ 73  99 116	Baumann-Prase 1077·9 Bgg 3
+ 55  75  82	Baumann-Prase 1078·11 Bgg 3
+197 220 231	Baumann-Prase 1094·1 Bg
+167 199 228	Baumann-Prase 1095·2 Bg
+143 183 222	Baumann-Prase 1096·3 Bg
+124 169 219	Baumann-Prase 1097·4 Bg
+103 151 212	Baumann-Prase 1098·5 Bg
+ 80 133 205	Baumann-Prase 1099·6 Bg
+ 60 113 194	Baumann-Prase 1100·7 Bg
+ 49  98 185	Baumann-Prase 1101·8 Bg
+159 183 207	Baumann-Prase 1102·2 Bg 1
+142 170 198	Baumann-Prase 1103·3 Bg 1
+123 154 190	Baumann-Prase 1104·4 Bg 1
+ 93 129 177	Baumann-Prase 1105·5 Bg 1
+ 76 119 161	Baumann-Prase 1106·6 Bg 1
+ 64 112 167	Baumann-Prase 1107·7 Bg 1
+ 56  99 150	Baumann-Prase 1108·8 Bg 1
+ 54  96 148	Baumann-Prase 1109·9 Bg 1
+170 190 205	Baumann-Prase 1110·2 Bg 2
+116 146 175	Baumann-Prase 1111·4 Bg 2
+ 86 115 148	Baumann-Prase 1112·6 Bg 2
+ 64  92 131	Baumann-Prase 1113·8 Bg 2
+ 48  71 102	Baumann-Prase 1114·10 Bg 2
+186 201 205	Baumann-Prase 1115·1 Bg 3
+154 171 185	Baumann-Prase 1116·3 Bg 3
+122 140 159	Baumann-Prase 1117·5 Bg 3
+ 81 102 123	Baumann-Prase 1118·7 Bg 3
+ 61  81 100	Baumann-Prase 1119·9 Bg 3
+ 58  70  85	Baumann-Prase 1120·11 Bg 3
+172 203 220	Baumann-Prase 1121·2 B-Bg
+141 183 226	Baumann-Prase 1122·3 B-Bg
+118 167 216	Baumann-Prase 1123·4 B-Bg
+ 97 143 210	Baumann-Prase 1124·5 B-Bg
+ 73 128 209	Baumann-Prase 1125·6 B-Bg
+ 61 115 203	Baumann-Prase 1126·7 B-Bg
+ 47 100 197	Baumann-Prase 1127·8 B-Bg
+138 174 207	Baumann-Prase 1128·3 B-Bg 1
+ 97 140 191	Baumann-Prase 1129·5 B-Bg 1
+ 70 107 152	Baumann-Prase 1130·7 B-Bg 1
+ 46  84 136	Baumann-Prase 1131·9 B-Bg 1
+144 163 183	Baumann-Prase 1132·4 B-Bg 2
+ 92 122 154	Baumann-Prase 1133·6 B-Bg 2
+ 75  96 118	Baumann-Prase 1134·8 B-Bg 2
+ 53  68  85	Baumann-Prase 1135·10 B-Bg 2
+201 219 227	Baumann-Prase 1136·1 B
+168 197 222	Baumann-Prase 1137·2 B
+141 175 213	Baumann-Prase 1138·3 B
+108 156 216	Baumann-Prase 1139·4 B
+ 89 140 208	Baumann-Prase 1140·5 B
+ 74 124 202	Baumann-Prase 1141·6 B
+ 55 108 198	Baumann-Prase 1142·7 B
+ 59  99 189	Baumann-Prase 1143·8 B
+182 204 220	Baumann-Prase 1144·1 B 1
+153 183 208	Baumann-Prase 1145·2 B 1
+132 165 204	Baumann-Prase 1146·3 B 1
+117 152 191	Baumann-Prase 1147·4 B 1
+107 144 189	Baumann-Prase 1148·5 B 1
+ 92 129 175	Baumann-Prase 1149·6 B 1
+ 69 110 168	Baumann-Prase 1150·7 B 1
+ 59  91 145	Baumann-Prase 1151·8 B 1
+ 50  81 138	Baumann-Prase 1152·9 B 1
+151 177 200	Baumann-Prase 1153·2 B 2
+129 156 182	Baumann-Prase 1154·4 B 2
+ 95 122 152	Baumann-Prase 1155·6 B 2
+ 74  97 128	Baumann-Prase 1156·8 B 2
+ 53  68  95	Baumann-Prase 1157·10 B 2
+177 194 204	Baumann-Prase 1158·1 B 3
+144 164 179	Baumann-Prase 1159·3 B 3
+114 134 153	Baumann-Prase 1160·5 B 3
+ 93 111 128	Baumann-Prase 1161·7 B 3
+ 69  83 100	Baumann-Prase 1162·9 B 3
+ 47  54  76	Baumann-Prase 1163·11 B 3
+177 196 222	Baumann-Prase 1164·2 B-Bv
+141 168 215	Baumann-Prase 1165·3 B-Bv
+120 150 208	Baumann-Prase 1166·4 B-Bv
+ 98 131 202	Baumann-Prase 1167·5 B-Bv
+ 86 116 194	Baumann-Prase 1168·6 B-Bv
+ 68  98 185	Baumann-Prase 1169·7 B-Bv
+ 54  70 164	Baumann-Prase 1170·8 B-Bv
+135 157 194	Baumann-Prase 1171·3 B-Bv 1
+ 93 121 172	Baumann-Prase 1172·5 B-Bv 1
+ 66  89 149	Baumann-Prase 1173·7 B-Bv 1
+ 45  65 132	Baumann-Prase 1174·9 B-Bv 1
+118 136 163	Baumann-Prase 1175·4 B-Bv 2
+ 89 109 140	Baumann-Prase 1176·6 B-Bv 2
+ 60  77 112	Baumann-Prase 1177·8 B-Bv 2
+ 48  58  95	Baumann-Prase 1178·10 B-Bv 2
+179 187 225	Baumann-Prase 1202·2 Bv-Vb
+157 164 217	Baumann-Prase 1203·3 Bv-Vb
+144 151 211	Baumann-Prase 1204·4 Bv-Vb
+116 126 194	Baumann-Prase 1205·5 Bv-Vb
+106 107 185	Baumann-Prase 1206·6 Bv-Vb
+ 93  89 178	Baumann-Prase 1207·7 Bv-Vb
+ 79  68 163	Baumann-Prase 1208·8 Bv-Vb
+ 59  47 134	Baumann-Prase 1209·9 Bv-Vb
+137 145 183	Baumann-Prase 1210·4 Bv-Vb 1
+107 114 167	Baumann-Prase 1211·6 Bv-Vb 1
+ 82  87 132	Baumann-Prase 1212·8 Bv-Vb 1
+ 70  78 127	Baumann-Prase 1213·10 Bv-Vb 1
+199 210 228	Baumann-Prase 1179·1 Bv
+178 193 225	Baumann-Prase 1180·2 Bv
+156 171 219	Baumann-Prase 1181·3 Bv
+131 149 210	Baumann-Prase 1182·4 Bv
+110 130 202	Baumann-Prase 1183·5 Bv
+ 92 108 191	Baumann-Prase 1184·6 Bv
+ 76  90 179	Baumann-Prase 1185·7 Bv
+ 63  68 170	Baumann-Prase 1186·8 Bv
+ 53  57 164	Baumann-Prase 1187·9 Bv
+180 190 209	Baumann-Prase 1188·2 Bv 1
+157 170 196	Baumann-Prase 1189·3 Bv 1
+137 151 188	Baumann-Prase 1190·4 Bv 1
+116 134 175	Baumann-Prase 1191·5 Bv 1
+ 97 117 165	Baumann-Prase 1192·6 Bv 1
+ 81  99 156	Baumann-Prase 1193·7 Bv 1
+ 60  74 129	Baumann-Prase 1194·8 Bv 1
+ 54  65 116	Baumann-Prase 1195·9 Bv 1
+ 55  62 121	Baumann-Prase 1196·10 Bv 1
+151 161 181	Baumann-Prase 1197·3 Bv 2
+117 129 162	Baumann-Prase 1198·5 Bv 2
+ 96 107 140	Baumann-Prase 1199·7 Bv 2
+ 62  74 110	Baumann-Prase 1200·9 Bv 2
+ 51  58  88	Baumann-Prase 1201·11 Bv 2
+202 201 222	Baumann-Prase 1214·1 Vb
+171 172 216	Baumann-Prase 1215·2 Vb
+148 147 206	Baumann-Prase 1216·3 Vb
+134 127 192	Baumann-Prase 1217·4 Vb
+116 107 181	Baumann-Prase 1218·5 Vb
+105  97 170	Baumann-Prase 1219·6 Vb
+ 86  77 156	Baumann-Prase 1220·7 Vb
+ 77  61 138	Baumann-Prase 1221·8 Vb
+ 59  43 114	Baumann-Prase 1222·9 Vb
+173 175 203	Baumann-Prase 1223·2 Vb 1
+155 156 186	Baumann-Prase 1224·3 Vb 1
+135 138 182	Baumann-Prase 1225·4 Vb 1
+110 112 159	Baumann-Prase 1226·5 Vb 1
+100  99 147	Baumann-Prase 1227·6 Vb 1
+ 87  83 132	Baumann-Prase 1228·7 Vb 1
+ 75  68 112	Baumann-Prase 1229·8 Vb 1
+ 71  64 110	Baumann-Prase 1230·9 Vb 1
+ 65  58  87	Baumann-Prase 1231·10 Vb 1
+184 181 192	Baumann-Prase 1232·1 Vb 2
+158 155 183	Baumann-Prase 1233·3 Vb 2
+128 124 154	Baumann-Prase 1234·5 Vb 2
+101  97 131	Baumann-Prase 1235·7 Vb 2
+ 71  66  96	Baumann-Prase 1236·9 Vb 2
+ 55  51  75	Baumann-Prase 1237·11 Vb 2
+209 195 213	Baumann-Prase 1252·1 V
+189 175 202	Baumann-Prase 1253·2 V
+162 148 187	Baumann-Prase 1254·3 V
+144 128 174	Baumann-Prase 1255·4 V
+125 109 156	Baumann-Prase 1256·5 V
+118  97 151	Baumann-Prase 1257·6 V
+110  92 140	Baumann-Prase 1258·7 V
+ 95  73 119	Baumann-Prase 1259·8 V
+ 80  61  95	Baumann-Prase 1260·9 V
+ 74  54  80	Baumann-Prase 1261·10 V
+208 197 195	Baumann-Prase 1262·1 V 1
+169 156 174	Baumann-Prase 1263·3 V 1
+136 123 151	Baumann-Prase 1264·5 V 1
+109  92 120	Baumann-Prase 1265·7 V 1
+ 84  68  95	Baumann-Prase 1266·9 V 1
+ 64  57  68	Baumann-Prase 1267·11 V 1
+157 147 176	Baumann-Prase 1247·3 V-Vb 1
+125 116 154	Baumann-Prase 1248·5 V-Vb 1
+ 89  75 118	Baumann-Prase 1249·7 V-Vb 1
+ 79  67  98	Baumann-Prase 1250·9 V-Vb 1
+ 63  55  76	Baumann-Prase 1251·11 V-Vb 1
+168 161 195	Baumann-Prase 1238·2 V-Vb
+153 145 189	Baumann-Prase 1239·3 V-Vb
+134 124 170	Baumann-Prase 1240·4 V-Vb
+115 104 154	Baumann-Prase 1241·5 V-Vb
+105  94 148	Baumann-Prase 1242·6 V-Vb
+ 91  79 133	Baumann-Prase 1243·7 V-Vb
+ 81  66 117	Baumann-Prase 1244·8 V-Vb
+ 71  55 103	Baumann-Prase 1245·9 V-Vb
+ 65  52  83	Baumann-Prase 1246·10 V-Vb
+215 192 214	Baumann-Prase 1280·1 Vp
+196 164 196	Baumann-Prase 1281·2 Vp
+173 137 175	Baumann-Prase 1282·3 Vp
+161 121 160	Baumann-Prase 1283·4 Vp
+145 103 142	Baumann-Prase 1284·5 Vp
+144 104 147	Baumann-Prase 1285·6 Vp
+119  81 115	Baumann-Prase 1286·7 Vp
+112  74 111	Baumann-Prase 1287·8 Vp
+ 99  59  95	Baumann-Prase 1288·9 Vp
+ 75  53  75	Baumann-Prase 1289·10 Vp
+222 204 205	Baumann-Prase 1290·1 Vp 1
+186 163 175	Baumann-Prase 1291·3 Vp 1
+149 122 149	Baumann-Prase 1292·5 Vp 1
+122  97 124	Baumann-Prase 1293·7 Vp 1
+ 94  71  92	Baumann-Prase 1294·9 Vp 1
+ 70  49  66	Baumann-Prase 1295·11 Vp 1
+141 114 151	Baumann-Prase 1276·5 V-Vp 1
+114  90 119	Baumann-Prase 1277·7 V-Vp 1
+ 84  66  88	Baumann-Prase 1278·9 V-Vp 1
+ 68  53  66	Baumann-Prase 1279·11 V-Vp 1
+183 140 199	Baumann-Prase 1268·3 V-Vp
+165 123 184	Baumann-Prase 1269·4 V-Vp
+144 101 170	Baumann-Prase 1270·5 V-Vp
+134  90 156	Baumann-Prase 1271·6 V-Vp
+120  80 141	Baumann-Prase 1272·7 V-Vp
+102  70 119	Baumann-Prase 1273·8 V-Vp
+ 89  63  95	Baumann-Prase 1274·9 V-Vp
+ 73  52  80	Baumann-Prase 1275·10 V-Vp
+229 192 208	Baumann-Prase 1310·1 Pv
+215 163 183	Baumann-Prase 1311·2 Pv
+199 147 168	Baumann-Prase 1312·3 Pv
+183 127 151	Baumann-Prase 1313·4 Pv
+168 101 132	Baumann-Prase 1314·5 Pv
+154  84 113	Baumann-Prase 1315·6 Pv
+140  72 100	Baumann-Prase 1316·7 Pv
+133  64  90	Baumann-Prase 1317·8 Pv
+124  56  80	Baumann-Prase 1318·9 Pv
+109  56  71	Baumann-Prase 1319·10 Pv
+224 197 199	Baumann-Prase 1320·1 Pv 1
+186 149 161	Baumann-Prase 1321·3 Pv 1
+163 119 136	Baumann-Prase 1322·5 Pv 1
+136  98 114	Baumann-Prase 1323·7 Pv 1
+135  98 114	Baumann-Prase 1324·9 Pv 1
+108  72  86	Baumann-Prase 1325·11 Pv 1
+ 85  56  67	Baumann-Prase 1305·3 Vp-Pv 1
+176 140 167	Baumann-Prase 1306·5 Vp-Pv 1
+154 112 143	Baumann-Prase 1307·7 Vp-Pv 1
+121  84 112	Baumann-Prase 1308·9 Vp-Pv 1
+ 82  52  69	Baumann-Prase 1309·11 Vp-Pv 1
+209 150 204	Baumann-Prase 1296·2 Vp-Pv
+197 131 194	Baumann-Prase 1297·3 Vp-Pv
+185 114 184	Baumann-Prase 1298·4 Vp-Pv
+179 102 177	Baumann-Prase 1299·5 Vp-Pv
+167  90 161	Baumann-Prase 1300·6 Vp-Pv
+161  69 149	Baumann-Prase 1301·7 Vp-Pv
+133  68 129	Baumann-Prase 1302·8 Vp-Pv
+100  62  93	Baumann-Prase 1303·9 Vp-Pv
+ 89  50  69	Baumann-Prase 1304·10 Vp-Pv

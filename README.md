@@ -62,6 +62,10 @@ PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-col
 
 uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライセンス）の[データをコンバートしている方のデータ](https://github.com/mhulse/swatches/tree/master/interwebs)を見つけてスウォッチデータは読み込めなかったけどテキストデータがあったので。Notepad++の正規表現機能を使って手作業でgplファイルを作成しました
 
+### OCSC 2.0
+
+OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] はドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です
+
 # その他のスウォッチ
 
 [CSI ColorWall](https://csicolors.com/color-communication-tools/downloadable-digital-media/)：　シンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチ。現時点ではgplファイル化出来ませんがKritaなどでは読み込めます

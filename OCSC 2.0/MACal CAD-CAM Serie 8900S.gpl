@@ -1,0 +1,55 @@
+GIMP Palette
+Name: MACal CAD-CAM Serie 8900S
+#
+250 208   0	MACal G 890900S Hellgelb
+255 194   0	MACal G 890500S Gelb
+254 166   0	MACal G 890300S Orangegelb
+237 102   0	MACal G 890100S Orange
+214  54  33	MACal G 895903S Hellrot
+196  40  36	MACal G 895901S Blutrot
+157   0  19	MACal G 895900S Mediumrot
+153  11  26	MACal G 895906S Dunkelrot
+202  53 120	MACal G 895904S Purpurrot
+114 177  47	MACal G 894903S Gelbgruen
+  0 146  80	MACal G 894900S Gruen
+  0 116  63	MACal G 894905S Flaschengruen
+  0  76  44	MACal G 894904S Dunkelgruen
+  0 151 161	MACal G 893907S Tuerkisblau
+  0 156 215	MACal G 893904S Himmelblau
+  0 129 192	MACal G 893906S Lichtblau
+  0  82 150	MACal G 893900S Tiefblau
+ 32  62 111	MACal G 893902S Dunkelblau
+ 88  57  36	MACal G 898302S Braun
+ 13  15  16	MACal G 898900S Schwarz
+ 93  98 100	MACal G 898901S Anthrazit
+128 137 143	MACal G 898904S Mausgrau
+151 151 149	MACal G 898905S Mediumgrau
+247 247 249	MACal G 892900S Weiss 
+238 214 178	MACal G 892901S Beige
+241 207  65	MACal M 890800S Hellgelb
+255 181   0	MACal M 890809S Gelb
+255 173  31	MACal M 890400S Orangegelb
+239 113  43	MACal M 890200S Orange
+215  66  49	MACal M 895803S Hellrot
+197  55  52	MACal M 895801S Blutrot
+166  46  53	MACal M 895807S Dunkelrot
+159  46  53	MACal M 895800S Mediumrot
+204  67 126	MACal M 895804S Purpurrot
+165 148 191	MACal M 893805S Lila
+112  70 121	MACal M 893806S Violett
+ 49 145  76	MACal M 894801S Gruen
+  0 130  85	MACal M 894800S Mediumgruen
+ 10  92  68	MACal M 894804S Dunkelgruen
+  0 156 165	MACal M 893807S Tuerkisblau
+  0 160 216	MACal M 893804S Himmelblau
+  0 122 189	MACal M 893800S Mediumblau
+ 31  90 150	MACal M 893801S Tiefblau
+ 57  79 122	MACal M 893802S Dunkelblau
+ 97  69  53	MACal M 898202S Schokobraun
+ 81  65  56	MACal M 898203S Dunkelbraun
+ 49  50  51	MACal M 898800S Schwarz
+100 105 107	MACal M 898806S Dunkelgrau
+132 141 145	MACal M 898804S Mausgrau
+155 155 153	MACal M 898805S Mediumgrau
+239 241 244	MACal M 892800S Weiss 
+239 217 180	MACal M 892801S Beige

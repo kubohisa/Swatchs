@@ -1,0 +1,99 @@
+GIMP Palette
+Name: MACal CAD-CAM Serie 9800
+#
+232 214  40	MACal 980906 Verkehrsgelb
+253 198   0	MACal 980909 Gelb
+255 188   0	MACal 980900 Gelb
+255 171   0	MACal 980910 Signalgelb
+236  95   0	MACal 980104 Orange
+211  49  24	MACal 985910 Hellrot
+204  32   0	MACal 985911 Feuerrot
+193  33  14	MACal 985904 Tomatenrot
+169  12  23	MACal 985900 Rot
+100  28  41	MACal 985905 Weinrot
+244 145 193	MACal 985908 Rosa
+188  41 103	MACal 985909 Pink
+137 209  44	MACal 984913 Lindgruen
+ 68 161   0	MACal 984912 Gelbgruen
+  0 150  91	MACal 984911 Verkehrsgruen
+  0 120  64	MACal 984910 Minzgruen
+  0  80  44	MACal 984900 Dunkelgruen
+115 220 194	MACal 984918 Mint
+  0 165 153	MACal 984915 Tuerkis
+  0 145 147	MACal 984917 Petrol
+ 87 180 221	MACal 983907 Leichtblau
+  0 156 214	MACal 983910 Himmelblau
+ 22 137 190	MACal 983920 Pastellblau
+  0 105 181	MACal 983922 Seeblau
+  0  82 148	MACal 983911 Verkehrsblau
+ 15  52 115	MACal 983912 Ultramarinblau
+101  62 150	MACal 983913 Violett
+ 19  33  53	MACal 983919 Dunkelblau
+128  77  37	MACal 988307 Hellbraun
+110  67  33	MACal 988306 Mittelbraun
+ 67  41  26	MACal 988304 Schokoladenbraun
+202 203 203	MACal 988904 Lichtgrau
+153 156 150	MACal 988903 Hellgrau
+ 97 102 102	MACal 988902 Basaltgrau
+ 10  11  12	MACal 988900 Schwarz glaenzend
+ 69  69  68	MACal 988901 Anthrazit
+151 152 153	MACal 986900 Silber
+166 145  97	MACal 987900 Gold
+236 207 155	MACal 982901 Elfenbein
+247 247 251	MACal 982900 Weiss glaenzend
+ 47  47  48	MACal 988800 Schwarz matt
+245 244 249	MACal 982800 Weiss matt
+248 224   0	MACal 980906S Verkehrsgelb
+255 200   0	MACal 980909S Gelb
+255 188   0	MACal 980900S Gelb
+252 167   0	MACal 980910S Signalgelb
+231  93   0	MACal 980104S Orange
+210  49  24	MACal 985910S Hellrot
+201  35   4	MACal 985911S Feuerrot
+191  34  18	MACal 985904S Tomatenrot
+166  22  28	MACal 985900S Rot
+157   0  12	MACal 985912S Dunkelrot
+126  28  34	MACal 985913S Burgunderrot
+ 98  24  39	MACal 985905S Weinrot
+243 145 195	MACal 985908S Rosa
+187  37 102	MACal 985909S Pink
+131 208  43	MACal 984913S Lindgruen
+ 66 168   0	MACal 984912S Gelbgruen
+  0 150  92	MACal 984911S Verkehrsgruen
+  0 119  63	MACal 984910S Minzgruen
+  0  80  44	MACal 984900S Dunkelgruen
+109 218 193	MACal 984918S Mint
+  0 165 154	MACal 984915S Tuerkis
+  0 148 149	MACal 984917S Petrol
+ 88 182 223	MACal 983907S Leichtblau
+  0 155 209	MACal 983910S Himmelblau
+  7 137 190	MACal 983920S Pastellblau
+  0 118 182	MACal 983924S Mittelblau
+  0 104 176	MACal 983922S Seeblau
+  0  83 151	MACal 983911S Verkehrsblau
+  0  63 139	MACal 983926S Reflexblau
+ 17  54 119	MACal 983912S Ultramarinblau
+ 11  43  86	MACal 983923S Nordischblau
+ 95  59 147	MACal 983913S Violett
+ 15  30  52	MACal 983919S Dunkelblau
+128  77  37	MACal 988307S Hellbraun
+113  69  34	MACal 988306S Mittelbraun
+ 69  43  29	MACal 988304S Schokoladenbr.
+206 207 207	MACal 988904S Lichtgrau
+151 154 147	MACal 988903S Hellgrau
+ 96 100 101	MACal 988902S Basaltgrau
+ 71  74  75	MACal 988905S Verkehrsgrau
+  9  11  12	MACal 988900S Schwarz glaenz.
+ 70  70  69	MACal 988901S Anthrazit
+149 150 151	MACal 986900S Silber
+160 140  92	MACal 987900S Gold
+234 205 152	MACal 982901S Elfenbein
+245 246 250	MACal 982900S Weiss glaenzend
+ 45  46  47	MACal 988800S Schwarz matt
+243 242 248	MACal 982800S Weiss matt
+255 156   0	MACal 980911S Safran
+238 222 186	MACal 982905S Elfenbein
+ 50  73 183	MACal 983927S Blau
+ 31  85  30	MACal 984921S Flaschengruen
+205  71 134	MACal 985915S Fuchsie
+195  36  48	MACal 985916S Koenigsrot
