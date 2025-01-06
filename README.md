@@ -74,11 +74,9 @@ OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-colle
 
 ### ColorWall.gpl
 
-CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです
+CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです。2025/1/1版をコンバートしてます
 
 # その他のスウォッチ
-
-
 
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
 
@@ -93,6 +91,8 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 なので、オープンソースで無料なデータから無料な色のパレットデータのファイルを作るとフリーウェアで絵の具の色などが使えるんですよ
 
 それらのデータやフリーでダウンロード出来るファイルをコレクションしてgithubへ置いてます
+
+最近は不況なので、１０年前は無料で良かったけど現在では駄目な場合もあるとは思いますので、メーカから削除してくれと頼まれれば、すぐ削除いたします
 
 # Tools.
 
