@@ -68,10 +68,6 @@ PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-col
 
 uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライセンス）の[データをコンバートしている方のデータ](https://github.com/mhulse/swatches/tree/master/interwebs)を見つけてスウォッチデータは読み込めなかったけどテキストデータがあったので。Notepad++の正規表現機能を使って手作業でgplファイルを作成しました
 
-### OCSC 2.0
-
-OCSC 2.0 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] はドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です。検索してたら[見つけた](https://design.blog.documentfoundation.org/2016/12/30/new-color-palettes-in-libreoffice/)んですよ
-
 ### ColorWall.gpl
 
 CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです。2025年1月1日の分のファイルをコンバートしてます
@@ -81,6 +77,8 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
 
 [Swatchos](https://basallt.com/products/swatchos)：　イギリスのデザイナーによるスウォッチ・ファイルがダウンロードできます
+
+[OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です。検索してたら[見つけた](https://design.blog.documentfoundation.org/2016/12/30/new-color-palettes-in-libreoffice/)んですよ
 
 # なぜ、こー言う変な事してんねん？
 
