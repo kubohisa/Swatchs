@@ -78,7 +78,7 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [Swatchos](https://basallt.com/products/swatchos)：　イギリスのデザイナーによるスウォッチ・ファイルがダウンロードできます
 
-[OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表したフリーのスウォッチ集です。 検索してたら[見つけた](https://design.blog.documentfoundation.org/2016/12/30/new-color-palettes-in-libreoffice/)んですよ
+[OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる絵の具の色が揃っているフリーのスウォッチ集です
 
 # なぜ、こー言う変な事してんねん？
 
