@@ -108,6 +108,6 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [Cyotek Color Palette Editor](https://www.cyotek.com/cyotek-palette-editor)：　スウォッチファイルをコンバート出来るフリーウェアです
 
-[SwitchBooker](https://www.selapa.net/swatchbooker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです
+[SwatchBooker](https://www.selapa.net/swatchbooker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです
 
 [Gpick](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です
