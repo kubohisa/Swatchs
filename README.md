@@ -78,7 +78,7 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [Swatchos](https://basallt.com/products/swatchos)：　イギリスのデザイナーによるスウォッチ・ファイルがダウンロードできます
 
-[OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる絵の具の色が揃っているフリーのスウォッチ集です
+[OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる特色のデータが揃っているフリーのスウォッチ集です
 
 # なぜ、こー言う変な事してんねん？
 
@@ -96,6 +96,8 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 # Tools.
 
-|[Cyotek Color Palette Editor](https://www.cyotek.com/cyotek-palette-editor)|　スウォッチファイルをコンバート出来るフリーウェアです|
-|[SwitchBooker](https://www.selapa.net/swatchbooker/)|　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです|
-|[Gpikck](https://www.gpick.org/)|　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です|
+[Cyotek Color Palette Editor](https://www.cyotek.com/cyotek-palette-editor)：　スウォッチファイルをコンバート出来るフリーウェアです
+
+[SwitchBooker](https://www.selapa.net/swatchbooker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです
+
+[Gpikck](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です
