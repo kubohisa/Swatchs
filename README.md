@@ -17,7 +17,7 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 ### nippon_colors.gpl
 
-「日本の伝統色 The Traditional Colors of Japan」が起源のデータ [ [github](https://github.com/xiaohk/nippon-colors) ]を拙作のPHPスクリプトでgplファイル化した物です。２３８色分のデータはあります
+「日本の伝統色 The Traditional Colors of Japan」が起源のデータ [ [github](https://github.com/xiaohk/nippon-colors) ]を拙作のPHPスクリプトでgplファイル化した物です
 
 ### JIS_Z_8102_2001.gpl
 
