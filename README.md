@@ -15,6 +15,10 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 [日本の色の一覧](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%89%B2%E3%81%AE%E4%B8%80%E8%A6%A7) を拙作のPHPスクリプトでgplファイル化した物です。２３８色分のデータはあります
 
+### nippon_colors.gpl
+
+「日本の伝統色 The Traditional Colors of Japan」が起源のデータ [ [github](https://github.com/xiaohk/nippon-colors) ]を拙作のPHPスクリプトでgplファイル化した物です。２３８色分のデータはあります
+
 ### JIS_Z_8102_2001.gpl
 
 「[JIS慣用色名](https://ja.wikipedia.org/wiki/JIS%E6%85%A3%E7%94%A8%E8%89%B2%E5%90%8D)」のスウォッチです
