@@ -110,4 +110,4 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [SwitchBooker](https://www.selapa.net/swatchbooker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアです
 
-[Gpikck](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です
+[Gpick](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です
