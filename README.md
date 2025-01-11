@@ -35,10 +35,6 @@ Color Names [ [github](https://github.com/meodai/color-names) ] の３０００�
 
 ブラウザーで使われる色のデータをgplファイル化しました
 
-### Material-Palette.gpl
-
-Googleのマテリアル・デザインで使われるスウォッチデータをgplファイル化しました。デジタルな発想で作られた人工的なスウォッチで、見やすさなどを考慮してまとめられてます
-
 ### moftone.gpl
 
 MOFTONE [ [github](https://github.com/qrac/moftone) ] は、Material Design Colorをベースに、もふもふな優しい色を生成したスウォッチ
