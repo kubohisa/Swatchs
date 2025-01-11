@@ -23,6 +23,10 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 「[JIS慣用色名](https://ja.wikipedia.org/wiki/JIS%E6%85%A3%E7%94%A8%E8%89%B2%E5%90%8D)」のスウォッチです
 
+### ED-STD-595C1.gpl
+
+米国連邦規格 595C「政府調達で使用される色」のスウォッチです
+
 ### WadaColorSwatch.gpl
 
 和田三造氏の配色事典のデータがMITライセンスで [github](https://github.com/dblodorn/sanzo-wada) で置いてあったので、容赦なくgplファイル化しました
