@@ -113,3 +113,7 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 [sK1 Color Picker](https://sk1project.net/color-picker/)：　Linuxでは使えるスウォッチファイルをコンバート出来るフリーウェアで、swatchBookerの改良版
 
 [Gpick](https://www.gpick.org/)：　スウォッチファイルをコンバート出来るフリーウェアです。ダウンロードは [ [Softpedia](https://www.softpedia.com/get/Internet/WEB-Design/Web-Design-related/gpick.shtml) ] で可能です
+
+# Reference.
+
+[GIMP Palette Format](https://developer.gimp.org/core/standards/gpl/)
