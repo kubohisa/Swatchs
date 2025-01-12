@@ -27,6 +27,10 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 米国連邦規格 595C「政府調達で使用される色」のスウォッチです
 
+### NBS-ISCC Centroids.gpl
+
+Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、gplファイルへ手作業でコンバートしました
+
 ### WadaColorSwatch.gpl
 
 和田三造氏の配色事典のデータがMITライセンスで [github](https://github.com/dblodorn/sanzo-wada) で置いてあったので、容赦なくgplファイル化しました
@@ -39,9 +43,7 @@ Color Names [ [github](https://github.com/meodai/color-names) ] の３０００�
 
 ブラウザーで使われる色のデータをgplファイル化しました
 
-### moftone.gpl
 
-MOFTONE [ [github](https://github.com/qrac/moftone) ] は、Material Design Colorをベースに、もふもふな優しい色を生成したスウォッチ
 
 
 # 他サイトから転載しているスウォッチ
@@ -61,6 +63,10 @@ Open Color [ [github](https://yeun.github.io/open-color/) ] からの転載で�
 ### CUD_palette_RGB_ver3.gpl
 
 東京大学分子細胞生物学研究所・脳神経回路研究分野 [ [WEB](https://jfly.uni-koeln.de/colorset/) ] からの転載です。カラーユニバーサルデザイン推奨配色セットのスウォッチです
+
+### moftone.gpl
+
+MOFTONE [ [github](https://github.com/qrac/moftone) ] は、Material Design Colorをベースに、もふもふな優しい色を生成したスウォッチ
 
 ### Resene Total Colour System Master 2021.gpl
 
