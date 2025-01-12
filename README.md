@@ -39,6 +39,10 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 Color Names [ [github](https://github.com/meodai/color-names) ] の３００００色以上のデータをgplファイル化しました
 
+### NTC.gpl
+
+NTC.js [ [WEB](https://chir.ag/projects/ntc/) ] は色の16進数コードを入力すると色の名前を答えるJavascriptのライブラリです。そのライブラリの色のデータをスウォッチ化しました
+
 ### CSS_Color.gpl
 
 ブラウザーで使われる色のデータをgplファイル化しました
