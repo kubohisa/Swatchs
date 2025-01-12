@@ -2,6 +2,14 @@ GIMP Palette
 Name: NBS-ISCC Centroids Swatch
 Columns: 8
 #
+# NBS/ISCC Color System Centroids       http://tx4.us/nbs-iscc.htm
+#
+# Copyright ｩ 2003 Voluntocracy.  Permission is granted to copy and
+# distribute modified or unmodified versions of this color dictionary
+# provided the copyright notice and this permission notice are preserved
+# on all copies and the entire such work is distributed under the terms
+# of a permission notice identical to this one.
+#
 126	109	90	grayishyellowishbrown
 53	94	59	darkyellowishgreen
 49	120	115	moderatebluishgreen
