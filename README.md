@@ -31,6 +31,10 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 [ [github](https://github.com/taktoa/slib/blob/master/nbs-iscc.txt) ] Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、phpプロンプトでコンバートしました。海外のウェブ版の色辞典のいくつかが同じデータだったのでオリジナルのデータを探していたら出てきた。良いデータが見つかったので同じファイル名ですが新しいファイルへ変更してます
 
+### NBS-ISCC Dictionary of Color Names.gpl
+
+昔、Texas Precancel Clubのウェブで公開していた、「NBS/ISCC Dictionaries of Color Names」と呼ばれるNBS/ISCCの改良版のスウォッチ
+
 ### WadaColorSwatch.gpl
 
 和田三造氏の配色事典のデータがMITライセンスで [github](https://github.com/dblodorn/sanzo-wada) で置いてあったので、容赦なくgplファイル化しました
