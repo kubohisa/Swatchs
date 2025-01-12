@@ -58,7 +58,7 @@ NTC.js [ [WEB](https://chir.ag/projects/ntc/) ] は色の16進数コードを入
 
 ### CIE-HLC.gpl
 
-俗に「Freecolour HLC」 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] と呼ばれる、非営利団体・freieFarbe eV / freeColourによるデジタルな発想で作られた人工的なスウォッチ。DIN標準化前のパレット・データです。LibreOfficeでも見つかる色のデータです
+俗に「Freecolour HLC」 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] と呼ばれる、非営利団体・freieFarbe eV / freeColourによるデジタルな発想で作られた人工的なスウォッチ。DIN標準化前の古い方のパレット・データです。LibreOfficeでも見つかる色のデータです
 
 ### CIE-LAB.gpl
 
