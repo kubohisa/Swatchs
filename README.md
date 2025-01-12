@@ -29,7 +29,7 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 ### NBS-ISCC Color System.gpl
 
-Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、gplファイルへ手作業でコンバートしました
+[ [github](https://github.com/taktoa/slib/blob/master/nbs-iscc.txt) ]Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、gplファイルへ手作業でコンバートしました
 
 ### WadaColorSwatch.gpl
 
