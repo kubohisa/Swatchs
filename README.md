@@ -56,6 +56,10 @@ NTC.js [ [WEB](https://chir.ag/projects/ntc/) ] は色の16進数コードを入
 
 2010年ごろコピック社のウェブにて配布されていたCOPICのスウォッチを規約を守りながらgplファイルへコンバートした物です。リメイク前のデータを原本としてます
 
+### CIE-LAB.gpl
+
+俗に「Freecolour HLC」 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] と呼ばれている非営利団体・freieFarbe eV / freeColourによるスウォッチ。LibreOfficeでも採用されてます。見やすくするため、Gimpで色データ順をソートしてます
+
 ### Material-Palette.gpl
 
 Googleのマテリアル・デザインで使われるスウォッチデータをgplファイル化しました。デジタルな発想で作られた人工的なスウォッチで、見やすさなどを考慮してまとめられてます
