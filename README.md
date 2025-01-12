@@ -96,6 +96,8 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる特色のデータが揃っているフリーのスウォッチ集です
 
+[Ecological Fibers](https://www.ecofibers.com/adobe_swatches/)：　アメリカの紙や布などを作っているメーカーの製品のスウォッチです
+
 # なぜ、こー言う変な事してんねん？
 
 現代のデジタルの色は約281兆色使えるのですが。多過ぎて、普通、どの色を使えば良いのか判らないので。昔からある色や絵の具の色のデータから色を選ぶんです
