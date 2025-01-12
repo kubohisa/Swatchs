@@ -27,7 +27,7 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 米国連邦規格 595C「政府調達で使用される色」のスウォッチです
 
-### NBS-ISCC Centroids.gpl
+### NBS-ISCC Color System.gpl
 
 Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、gplファイルへ手作業でコンバートしました
 
