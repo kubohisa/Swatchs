@@ -58,7 +58,7 @@ NTC.js [ [WEB](https://chir.ag/projects/ntc/) ] は色の16進数コードを入
 
 ### CIE-LAB.gpl
 
-俗に「Freecolour RGB」 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] と呼ばれている非営利団体・freieFarbe eV / freeColourによるスウォッチ。見やすくするため、Gimpで色データ順をソートしてます
+俗に「Freecolour LAB」 [ [WEB](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/) ] と呼ばれている非営利団体・freieFarbe eV / freeColourによるスウォッチ。見やすくするため、Gimpで色データ順をソートしてます
 
 ### Material-Palette.gpl
 
