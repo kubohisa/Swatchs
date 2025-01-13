@@ -1,23 +1,32 @@
 <?php
 /*
 	
-	phpによるスクレイピングの実装例です。バニラのPHPで作動させるため、
-	
-	https://www.artiencegroup.com/ja/products/printing-related/cf/
-	のソースリストをChromeブラウザのソースリスト表示機能を使ってファイルをセーブしたファイルを使ってデータを取得してます
+	PHPによるスクレイピングの実装例です。バニラのPHPで作動させるため、
 	
 	https://www.artiencegroup.com/ja/site-policy.html
 	このPHPスクリプトで生成出来るデータは著作権により、「著作権法上の私的利用の範囲を超えて使用をすることができません」
 	
-	phpでのスクレイピングの助けになれば良いと思います
+	PHPでのスクレイピングの助けになれば良いと思います
 	
 */
 
 // ファイルの取得
-$html = file_get_contents("view-source_https___www.artiencegroup.com_ja_products_printing-related_cf_.html");
+$html = file_get_contents(
+	"https://www.artiencegroup.com/ja/products/printing-related/cf/",
+	false,
+	stream_context_create(array(
+		"ssl" => array(
+			"verify_peer" => false,
+			"verify_peer_name" => false,
+		)
+	))
+);
+
+$flag = preg_match("/<tr>\n<th scope=\"row\">CF10001[\S\s]+?<\/tbody>/", $html, $m);
+$html = $m[0];
 
 // 色単位のHTMLの取得。作業効率向上の為の作業
-$result = preg_match_all("/scope<\/span>=\"<span class=\"html-attribute-value\">row<\/span>\"&gt;<\/span>([\S\s]+?#[0-9A-Fa-f]{6})/", $html, $table);
+$result = preg_match_all("/<th scope=\"row\">([\S\s]+?#[0-9A-Fa-f]{6})/", $html, $table);
 //	print_r($table[0]); exit;
 //	echo($result); exit;
 
@@ -43,7 +52,7 @@ foreach ($table[0] as $v) {
 	//		echo($col); exit;
 
 	// 色の名前の取得
-	$flag = preg_match("/row<\/span>\"&gt;<\/span>([\S\s]+?)<span/", $v, $m);
+	$flag = preg_match("/scope=\"row\">([\S\s]+?)</", $v, $m);
 	//		if (! $flag) continue;
 	//		if (! $flag) print_r($v); exit;
 	//		print_r($m); exit;
