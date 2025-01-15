@@ -120,6 +120,8 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [Behr](https://www.behr.com/pro/downloadable-color-palettes)：　アメリカのペンキなどを作っているメーカーの製品のスウォッチです
 
+[Sherwin-Williams](https://www.sherwin-williams.com/painting-contractors/color/color-tools/downloadable-color-palettes)：　アメリカのペンキなどを作っているメーカーの製品のスウォッチです
+
 [Ecological Fibers](https://www.ecofibers.com/adobe_swatches/)：　アメリカの紙や布などを作っているメーカーの製品のスウォッチです
 
 [Neenah Paper](https://www.neenahpaper.com/resources/design-resources/adobe-swatch-exchange-files)：　アメリカの紙を作っているメーカーの製品のスウォッチです
