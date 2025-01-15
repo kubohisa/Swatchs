@@ -116,7 +116,21 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる特色のデータが揃っているフリーのスウォッチ集です
 
+[Benjamin Moore](https://www.benjaminmoore.com/en-us/architects-designers/download-benjamin-moore-color-palettes)：　アメリカのペンキなどを作っているメーカーの製品のスウォッチです
+
+[Behr](https://www.behr.com/pro/downloadable-color-palettes)：　アメリカのペンキなどを作っているメーカーの製品のスウォッチです
+
 [Ecological Fibers](https://www.ecofibers.com/adobe_swatches/)：　アメリカの紙や布などを作っているメーカーの製品のスウォッチです
+
+[Neenah Paper](https://www.neenahpaper.com/resources/design-resources/adobe-swatch-exchange-files)：　アメリカの紙を作っているメーカーの製品のスウォッチです
+
+[G.F Smith](https://www.gfsmith.com/download)：　アメリカの紙を作っているメーカーの製品のスウォッチです
+
+[Fyahfly Screen print](https://fyahflyscreenprint.co.uk/stock-ink-colour-chart/)：　アメリカのシャツのプリントを行っている工場のスウォッチです
+
+[Ink](https://www.inkteam.com/ink-room-swatches)：　アメリカのシャツのプリントなどを行っている工場のスウォッチです
+
+[CWPress](https://www.cwpress.com/inkcolor)：　アメリカのシャツなどのプリントを行っている工場のスウォッチです
 
 # なぜ、こー言う変な事してんねん？
 
