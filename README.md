@@ -94,6 +94,8 @@ uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライ�
 
 # その他のスウォッチ
 
+色のスウォッチをダウンロード出来るウェブです。フリーウェアを使って、Gimpなどで使えるgplファイルへコンバート出来ます
+
 [CSI ColorWall](https://csicolors.com/color-communication-tools/downloadable-digital-media/)：　シンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです
 
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
