@@ -104,11 +104,11 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 
 [OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる特色のデータが揃っているフリーのスウォッチ集です
 
-[ [Resene](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm) ]：　ニュージーランドのペンキメーカーのスウォッチです
+[Resene](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm)：　ニュージーランドのペンキメーカーのスウォッチです
 
-[ [Dunn Edwards](https://www.dunnedwards.com/colors/download-color-swatches/) ]：　（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
+[Dunn Edwards](https://www.dunnedwards.com/colors/download-color-swatches/)：　（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
 
-[ [PPG Voice of Colour](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ]：　アメリカの塗料メーカーのスウォッチです
+[PPG Voice of Colour](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads)：　アメリカの塗料メーカーのスウォッチです
 
 [Benjamin Moore](https://www.benjaminmoore.com/en-us/architects-designers/download-benjamin-moore-color-palettes)：　アメリカのペンキなどを作っているメーカーの製品のスウォッチです
 
