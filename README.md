@@ -88,18 +88,6 @@ Open Color [ [github](https://yeun.github.io/open-color/) ] からの転載で�
 
 MOFTONE [ [github](https://github.com/qrac/moftone) ] は、Material Design Colorをベースに、もふもふな優しい色を生成したスウォッチ
 
-### Resene Total Colour System Master 2021.gpl
-
-Resene [ [WEB](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm) ] のファイルをgplファイルへコンバートしました。ニュージーランドのペンキメーカーのスウォッチです
-
-### PerfectPalette2023.gpl
-
-Dunn Edwards [ [WEB](https://www.dunnedwards.com/colors/download-color-swatches/) ] のファイルをgplファイルへコンバートしました。（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
-
-### VOC-ColorNumber-2022.gpl
-
-PPG Voice of Colour [ [WEB](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ] のファイルをgplファイルへコンバートしました。アメリカの塗料メーカーのスウォッチです
-
 ### uigradientsdotcom.gpl
 
 uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライセンス）の[データをコンバートしている方のデータ](https://github.com/mhulse/swatches/tree/master/interwebs)を見つけてスウォッチデータは読み込めなかったけどテキストデータがあったので。Notepad++の正規表現機能を使って手作業でgplファイルを作成しました
@@ -115,6 +103,12 @@ CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadab
 [Swatchos](https://basallt.com/products/swatchos)：　イギリスのデザイナーによるスウォッチ・ファイルがダウンロードできます
 
 [OCSC 2.0](https://freiefarbe.de/blog/2016/12/18/open-colour-systems-collection-2-0/)：　ドイツの非営利団体・freieFarbe eV / freeColourが発表した業務用プリンタで使われる特色のデータが揃っているフリーのスウォッチ集です
+
+[ [Resene](https://www.resene.co.nz/comn/services/Photoshop_colour_files.htm) ]：　ニュージーランドのペンキメーカーのスウォッチです
+
+[ [Dunn Edwards](https://www.dunnedwards.com/colors/download-color-swatches/) ]：　（日本ペイント・グループの）アメリカのペンキメーカーのスウォッチです
+
+[ [PPG Voice of Colour](https://www.ppgpaints.com/designers/professional-color-tools/palette-downloads) ]：　アメリカの塗料メーカーのスウォッチです
 
 [Benjamin Moore](https://www.benjaminmoore.com/en-us/architects-designers/download-benjamin-moore-color-palettes)：　アメリカのペンキなどを作っているメーカーの製品のスウォッチです
 
