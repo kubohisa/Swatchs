@@ -92,11 +92,9 @@ MOFTONE [ [github](https://github.com/qrac/moftone) ] は、Material Design Colo
 
 uiGradients [ [WEB](https://github.com/Ghosh/uiGradients) ] （ＭＩＴライセンス）の[データをコンバートしている方のデータ](https://github.com/mhulse/swatches/tree/master/interwebs)を見つけてスウォッチデータは読み込めなかったけどテキストデータがあったので。Notepad++の正規表現機能を使って手作業でgplファイルを作成しました
 
-### ColorWall.gpl
-
-CSI ColorWall [ [WEB](https://csicolors.com/color-communication-tools/downloadable-digital-media/) ] はシンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです。2025年1月1日の分のファイルをコンバートしてます
-
 # その他のスウォッチ
+
+[CSI ColorWall](https://csicolors.com/color-communication-tools/downloadable-digital-media/)：　シンガポールの総合化学メーカーによる「 [今の色](https://csicolors.com/colorwall/) 」を３０００色以上選んでコレクションしているスウォッチです
 
 [Calcite Colors](https://github.com/Esri/calcite-colors?tab=readme-ov-file)：　アメリカの地図データを作成しているesriによる、[見やすいウェブやアプリを作るため](https://developers.arcgis.com/calcite-design-system/foundations/colors/)のスウォッチ
 
