@@ -68,7 +68,7 @@ foreach ($table[0] as $v) {
 	$b = hexdec($c[2]);
 
 	// gplファイルへデータの追加
-	$gpl .= ($r . "\t" . $g . "\t" . $b . "\t" . $n . "\r\n");
+	$gpl .= $r . "\t" . $g . "\t" . $b . "\t" . $n . "\r\n";
 }
 
 // gplファイルの作成
