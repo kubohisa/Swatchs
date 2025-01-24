@@ -29,7 +29,7 @@ Free Swatchs. ウェブ上で公開しているデータを元としてフリー
 
 ### NBS-ISCC Centroids.gpl
 
-[ [github](https://github.com/taktoa/slib/blob/master/nbs-iscc.txt) ] Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、phpプロンプトでコンバートしました。海外のウェブ版の色辞典のいくつかが同じデータだったのでオリジナルのデータを探していたら出てきた。良いデータが見つかったので同じファイル名ですが新しいファイルへ変更してます
+[ [github](https://github.com/taktoa/slib/blob/master/nbs-iscc.txt) ] Kenneth L. Kelly & Deanne B. Judd、"Color: Universal Language and Dictionary of Names"のデータが落ちてたので、phpプロンプトでコンバートしました。海外のウェブ版の色辞典のいくつかが同じデータだったのでオリジナルのデータを探していたら出てきた
 
 ### NBS-ISCC Dictionary of Color Names.gpl
 
